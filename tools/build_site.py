@@ -28,6 +28,8 @@ COLLECTIONS = (
 MEMEPLEX = "https://arxcortex.io/memeplex.html"
 SERIES_LABELS = {"dispatches": "ΛRX Intercept", "dispatch": "ΛRX Intercept", "atlas": "ΛRX Atlas", "currents": "ΛRX Currents"}
 
+IMAGE_EXTS = {".jpg", ".jpeg", ".png", ".webp", ".gif", ".svg"}
+
 IMG_LINE = re.compile(r"^!\[([^\]]*)\]\(([^)]+)\)\s*$")
 IMG_INLINE = re.compile(r"!\[([^\]]*)\]\(([^)]+)\)")
 LINK = re.compile(r"\[([^\]]+)\]\(([^)]+)\)")
@@ -59,7 +61,7 @@ def inline(text, asset_base):
         src = html.unescape(match.group(2))
         url = display_url(abs_url(src, asset_base))
         return (
-            f'<img src="{escape(url)}" alt="{alt}" width="960" height="540" loading="lazy">'
+            f'<img src="{escape(url)}" alt="{alt}" loading="lazy">'
         )
 
     text = IMG_INLINE.sub(img, text)
@@ -105,7 +107,7 @@ def render_body(body, asset_base, hero=None):
                 cap = "<figcaption>Illustration</figcaption>" if cap_text else ""
                 parts.append(
                     f'<figure class="plate"><img src="{escape(url)}" alt="{escape(alt)}" '
-                    f'width="960" height="540" loading="lazy">{cap}</figure>'
+                    f'loading="lazy">{cap}</figure>'
                 )
             elif line.startswith("### "):
                 parts.append(f"<h3>{inline(line[4:], asset_base)}</h3>")
@@ -327,10 +329,9 @@ def build_entry(entry, folder, pretty_desk):
     if out_dir.exists():
         shutil.rmtree(out_dir)
     out_dir.mkdir(parents=True)
-    for name in ("card.png", "art.png", "source.png", "art.jpg", "source.jpg"):
-        src = src_dir / name
-        if src.is_file():
-            shutil.copy2(src, out_dir / name)
+    for src in sorted(src_dir.iterdir()):
+        if src.is_file() and src.suffix.lower() in IMAGE_EXTS:
+            shutil.copy2(src, out_dir / src.name)
 
     png_url = asset_base + png_name
     width, height = 1200, 630
