@@ -1,6 +1,6 @@
 {
   "desk": "ΛRX Intercept",
-  "count": 26,
+  "count": 27,
   "entries": [
     {
       "slug": "2026-10-28-flavio-bolsonaro-defies-passport-order-lands-in-miami",
@@ -1719,6 +1719,122 @@
       ],
       "path": "dispatches/2023-06-24-wagner-marches-on-moscow-then-turns-back/index.md",
       "words": 699
+    },
+    {
+      "slug": "2023-04-15-sudans-army-and-rsf-go-to-war",
+      "desk": "ΛRX Intercept",
+      "author": "Arx",
+      "category": "Conflict",
+      "story_type": "contested",
+      "title": "Sudan's Army and the RSF Go to War in Khartoum",
+      "dek": "Abdel Fattah al-Burhan and Mohamed Hamdan Dagalo, partners in the 2021 coup, fight for Sudan from 15 April 2023; the war splits the country and drives the world's largest displacement crisis.",
+      "date": "2023-04-15",
+      "location": "Khartoum, Sudan",
+      "coords": [
+        15.5007,
+        32.5599
+      ],
+      "severity": 5,
+      "card": "dispatches/2023-04-15-sudans-army-and-rsf-go-to-war/card.png",
+      "art": "dispatches/2023-04-15-sudans-army-and-rsf-go-to-war/art.jpg",
+      "pair": {
+        "left_label": "Burhan Says",
+        "left": "Burhan says \"we will neither forgive, nor compromise, nor negotiate\" and that the war ends only if the RSF lays down its arms.",
+        "right_label": "Hemedti Says",
+        "right": "Hemedti says \"the fight that we are waging now is the price of democracy\" and that the RSF is fighting \"radical Islamists.\""
+      },
+      "reading": {
+        "label": "The Stakes",
+        "text": "Each general says he is saving Sudan from the other; at stake is who commands its guns and its gold, and whether Sudan stays one country."
+      },
+      "tags": [
+        "sudan",
+        "khartoum",
+        "darfur",
+        "rsf",
+        "burhan",
+        "hemedti",
+        "el-fasher",
+        "famine",
+        "refugees",
+        "war"
+      ],
+      "sources": [
+        {
+          "title": "Sudan clashes kill at least 25 in power struggle between army, paramilitaries",
+          "outlet": "Reuters",
+          "url": "https://www.reuters.com/world/africa/heavy-gunfire-heard-south-sudanese-capital-khartoum-witnesses-2023-04-15/",
+          "role": "origin"
+        },
+        {
+          "title": "Insight: How Sudan's military factions set path to war as mediation stalled",
+          "outlet": "Reuters",
+          "url": "https://www.reuters.com/world/africa/how-sudans-military-factions-set-path-war-mediation-stalled-2023-04-28/",
+          "role": "origin"
+        },
+        {
+          "title": "Famine now prevalent in parts of war-torn Sudan",
+          "outlet": "UN News",
+          "url": "https://news.un.org/en/story/2024/08/1152736",
+          "role": "origin"
+        },
+        {
+          "title": "Genocide Determination in Sudan and Imposing Accountability Measures",
+          "outlet": "US Department of State",
+          "url": "https://2021-2025.state.gov/genocide-determination-in-sudan-and-imposing-accountability-measures/",
+          "role": "origin"
+        },
+        {
+          "title": "Sudan's RSF chief Gen Mohamed Dagalo sworn in as head of parallel Darfur-based government",
+          "outlet": "The National",
+          "url": "https://www.thenationalnews.com/news/mena/2025/08/31/sudans-rsf-chief-gen-mohamed-dagalo-sworn-in-as-head-of-parallel-darfur-based-government/",
+          "role": "origin"
+        },
+        {
+          "title": "Escapee describes summary killings after Darfur city's fall",
+          "outlet": "Reuters",
+          "url": "https://www.reuters.com/world/africa/escapee-describes-summary-killings-after-darfur-citys-fall-2025-10-28/",
+          "role": "origin"
+        },
+        {
+          "title": "Sudan conflict: Peace efforts resume to end 'drone war' fuelling humanitarian crisis",
+          "outlet": "UN News",
+          "url": "https://news.un.org/en/story/2026/10/1168638",
+          "role": "origin"
+        },
+        {
+          "title": "Sudanese civil war (2023–present)",
+          "outlet": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Sudanese_civil_war_(2023%E2%80%93present)",
+          "role": "context"
+        },
+        {
+          "title": "Sudan situation",
+          "outlet": "UNHCR Operational Data Portal",
+          "url": "https://data.unhcr.org/en/situations/sudansituation",
+          "role": "context"
+        },
+        {
+          "title": "Sudan army chief says war will not end until RSF lays down its arms",
+          "outlet": "France 24 (AFP)",
+          "url": "https://www.france24.com/en/live-news/20250329-sudan-army-chief-says-war-will-not-end-until-rsf-lays-down-its-arms",
+          "role": "side"
+        },
+        {
+          "title": "Hemedti manoeuvres to brand war against Sudan army as fight against former regime Islamists",
+          "outlet": "Dabanga",
+          "url": "https://www.dabangasudan.org/en/all-news/article/hemeti-manoeuvres-to-brand-war-against-sudan-army-as-fight-against-former-regime-islamists",
+          "role": "side"
+        },
+        {
+          "title": "Sudan fighting: No talks until bombing stops, Hemedti tells BBC",
+          "outlet": "BBC News",
+          "url": "https://www.bbc.com/news/world-africa-65426892",
+          "role": "side"
+        }
+      ],
+      "path": "dispatches/2023-04-15-sudans-army-and-rsf-go-to-war/index.md",
+      "words": 849
     },
     {
       "slug": "2022-02-28-west-freezes-russias-central-bank-reserves",

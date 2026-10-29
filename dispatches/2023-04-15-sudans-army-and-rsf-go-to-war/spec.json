@@ -1,0 +1,33 @@
+{
+ "layout": "card",
+ "art": "art.jpg",
+ "desk": "ΛRX INTERCEPT",
+ "meta": "15 Apr 2023 · Khartoum",
+ "title": "Sudan's Army and the RSF Go to War in Khartoum",
+ "title_size": 52,
+ "dek": "Abdel Fattah al-Burhan and Mohamed Hamdan Dagalo, partners in the 2021 coup, fight for Sudan from 15 April 2023; the war splits the country and drives the world's largest displacement crisis.",
+ "body": "UNHCR counts some 11.3 million people forced from their homes since the war began. Famine was confirmed in Darfur in 2024.",
+ "panels": [
+  {
+   "icon": "flame",
+   "label": "Burhan Says",
+   "text": "Burhan says “we will neither forgive, nor compromise, nor negotiate” and that the war ends only if the RSF lays down its arms."
+  },
+  {
+   "icon": "eye",
+   "label": "Hemedti Says",
+   "text": "Hemedti says “the fight that we are waging now is the price of democracy” and that the RSF is fighting “radical Islamists.”"
+  },
+  {
+   "icon": "scales",
+   "label": "The Stakes",
+   "text": "Each general says he is saving Sudan from the other; at stake is who commands its guns and its gold, and whether Sudan stays one country."
+  }
+ ],
+ "focus": [
+  1000,
+  500
+ ],
+ "grade": "none",
+ "caption": "Photo: Moiz mubark, CC BY-SA 4.0"
+}
