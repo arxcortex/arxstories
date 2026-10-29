@@ -70,7 +70,7 @@ memeplex:
 
 ![ΛRX Atlas entry card (illustration): Ctesiphon, c. 242](card.png)
 
-A boy raised in a Jewish-Christian baptist sect in Mesopotamia built a world religion from Christian, Buddhist and Zoroastrian parts. Its prophets included Jesus, the Buddha and Zoroaster.
+Mani, raised in a Jewish-Christian baptist sect in Mesopotamia, built a world religion from Christian, Buddhist and Zoroastrian parts. Its prophets included Jesus, the Buddha and Zoroaster.
 
 ![13th-century Chinese Manichaean silk painting of a sermon on Mani's teaching](img-1.jpg)
 

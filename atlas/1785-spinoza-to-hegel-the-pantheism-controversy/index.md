@@ -85,7 +85,7 @@ memeplex:
 
 ![ΛRX Atlas entry card (illustration): Wolfenbüttel, 1780](card.png)
 
-In 1780 Lessing told Jacobi he knew no philosophy save Spinozism. Jacobi published the confession in 1785 to discredit reason, and a banned philosopher moved to the center of German thought.
+In 1780, by Jacobi's account, Lessing told him he knew no philosophy save Spinozism. Jacobi published the confession in 1785 to discredit reason, and a banned philosopher moved to the center of German thought.
 
 ![the Wolfenbüttel library rotunda and Lessing's house, c. 1880](img-3.jpg)
 
