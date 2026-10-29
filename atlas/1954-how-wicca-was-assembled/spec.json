@@ -1,0 +1,28 @@
+{
+ "layout": "card",
+ "art": "art.jpg",
+ "desk": "ΛRX ATLAS",
+ "meta": "1921–1957 · London",
+ "title": "How Wicca Was Assembled",
+ "title_size": 72,
+ "dek": "Of how an Egyptologist's theory, a London magical order, a ceremonial magician's rituals and a retired colonial officer's Masonic habits became a new English religion.",
+ "panels": [
+  {
+   "icon": "scroll",
+   "label": "Founder Told It",
+   "text": "A hidden coven in the New Forest had kept the old pagan witch religion alive for centuries, and it let one initiate reveal it."
+  },
+  {
+   "icon": "eye",
+   "label": "Evidence Allows",
+   "text": "The coven most likely formed in the 1930s from Murray's theory. Gardner and his priestesses built the rites from ceremonial magic, Crowley and Freemasonry."
+  },
+  {
+   "icon": "map",
+   "label": "The Paper",
+   "text": "Every handoff documented, with sources."
+  }
+ ],
+ "grade": "warm",
+ "caption": "Historical document"
+}

@@ -1,0 +1,28 @@
+{
+ "layout": "card",
+ "art": "art.jpg",
+ "desk": "ΛRX ATLAS",
+ "meta": "1780–1807 · Wolfenbüttel",
+ "title": "Spinoza to Hegel: The Pantheism Controversy",
+ "title_size": 72,
+ "dek": "Of how a dramatist's private confession, published by a merchant's son to discredit reason, put a banned philosopher at the center of German thought.",
+ "panels": [
+  {
+   "icon": "scroll",
+   "label": "Idealists Told It",
+   "text": "Spinoza was the necessary starting point of modern philosophy, and German thought rose by absorbing and surpassing him."
+  },
+  {
+   "icon": "eye",
+   "label": "Evidence Allows",
+   "text": "Spinoza re-entered German debate through a quarrel over a dead man's reputation. Jacobi publicized him as a warning, and a generation read him as a revelation."
+  },
+  {
+   "icon": "map",
+   "label": "The Paper",
+   "text": "Every handoff documented, with sources."
+  }
+ ],
+ "grade": "warm",
+ "caption": "Historical document"
+}

@@ -1,6 +1,6 @@
 {
   "desk": "ΛRX Atlas",
-  "count": 19,
+  "count": 23,
   "entries": [
     {
       "slug": "509bc-founding-of-the-roman-republic",
@@ -422,6 +422,104 @@
       },
       "path": "atlas/30-how-a-jewish-sect-became-romes-religion/index.md",
       "words": 1392
+    },
+    {
+      "slug": "240-mani-and-the-making-of-manichaeism",
+      "kind": "atlas",
+      "tour_kind": "transmission",
+      "desk": "ΛRX Atlas",
+      "author": "ΛRX Atlas",
+      "category": "Paper",
+      "series": [
+        "atlas"
+      ],
+      "title": "Mani and the Making of Manichaeism",
+      "dek": "Of how a boy raised in a Jewish-Christian baptist sect in Mesopotamia built a world religion from Christian, Buddhist and Zoroastrian parts, and presented it to a Persian king.",
+      "date": "c. 220–277",
+      "year": 240,
+      "location": "Ctesiphon",
+      "coords": [
+        33.0936,
+        44.5808
+      ],
+      "card": "atlas/240-mani-and-the-making-of-manichaeism/card.png",
+      "art": "atlas/240-mani-and-the-making-of-manichaeism/art.jpg",
+      "pair": {
+        "left_label": "As the Manichaeans Told It",
+        "left": "Mani was the last of the apostles of light, sent after Zoroaster, the Buddha and Jesus to restore the truth their followers had corrupted.",
+        "right_label": "As the Evidence Allows",
+        "right": "Mani grew up among the Elcesaites, broke with them, borrowed from Christian, Buddhist and Zoroastrian teaching, and framed his faith for the Sasanian court."
+      },
+      "tags": [
+        "mani",
+        "manichaeism",
+        "elcesaites",
+        "sasanian",
+        "shapur",
+        "kartir",
+        "gnosticism",
+        "silk-road"
+      ],
+      "witnesses": [
+        "Cologne Mani-Codex (Codex Manichaicus Coloniensis)",
+        "Mani, Shabuhragan (Middle Persian fragments)",
+        "Inscriptions of Kartir",
+        "Ibn al-Nadim, al-Fihrist"
+      ],
+      "sources": [
+        {
+          "title": "Mani (prophet)",
+          "outlet": "Grokipedia",
+          "url": "https://grokipedia.com/page/Mani_(prophet)",
+          "role": "scholarship"
+        },
+        {
+          "title": "Mani (prophet)",
+          "outlet": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Mani_(prophet)",
+          "role": "scholarship"
+        },
+        {
+          "title": "Manichaeism",
+          "outlet": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Manichaeism",
+          "role": "scholarship"
+        },
+        {
+          "title": "Elcesaites",
+          "outlet": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Elcesaites",
+          "role": "scholarship"
+        },
+        {
+          "title": "Cologne Mani Codex",
+          "outlet": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Cologne_Mani_Codex",
+          "role": "scholarship"
+        },
+        {
+          "title": "Shapur I",
+          "outlet": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Shapur_I",
+          "role": "scholarship"
+        },
+        {
+          "title": "Bahram I",
+          "outlet": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Bahram_I",
+          "role": "scholarship"
+        }
+      ],
+      "memeplex": {
+        "ideas": [
+          "manichaeism",
+          "gnostic_dualism",
+          "christianity",
+          "buddhas_dharma"
+        ]
+      },
+      "path": "atlas/240-mani-and-the-making-of-manichaeism/index.md",
+      "words": 1327
     },
     {
       "slug": "610-rise-of-islam-610-750",
@@ -1059,6 +1157,121 @@
       "words": 1376
     },
     {
+      "slug": "1516-erasmus-and-the-reformers",
+      "kind": "atlas",
+      "tour_kind": "genealogy",
+      "desk": "ΛRX Atlas",
+      "author": "ΛRX Atlas",
+      "category": "Paper",
+      "series": [
+        "atlas"
+      ],
+      "title": "Erasmus and the Reformers",
+      "dek": "Of how a Catholic scholar's rushed Greek New Testament became the working text of the men who broke with Rome, and why he refused to follow them.",
+      "date": "1516–1536",
+      "year": 1516,
+      "location": "Basel",
+      "coords": [
+        47.5596,
+        7.5886
+      ],
+      "card": "atlas/1516-erasmus-and-the-reformers/card.png",
+      "art": "atlas/1516-erasmus-and-the-reformers/art.jpg",
+      "pair": {
+        "left_label": "As the Monks Told It",
+        "left": "Erasmus laid the egg and Luther hatched it. The humanist's mockery of the Church made the Reformation.",
+        "right_label": "As the Evidence Allows",
+        "right": "Erasmus supplied the Reformers' text, their Greek and their method. They drew conclusions he rejected, and he stayed in the Roman Church."
+      },
+      "tags": [
+        "erasmus",
+        "humanism",
+        "reformation",
+        "luther",
+        "melanchthon",
+        "zwingli",
+        "tyndale",
+        "calvin",
+        "froben"
+      ],
+      "witnesses": [
+        "Erasmus, Novum Instrumentum omne (Basel, 1516), dedication to Leo X",
+        "Erasmus, De libero arbitrio (1524)",
+        "Martin Luther, De servo arbitrio (1525)"
+      ],
+      "sources": [
+        {
+          "title": "Erasmus",
+          "outlet": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Erasmus",
+          "role": "scholarship"
+        },
+        {
+          "title": "Novum Instrumentum omne",
+          "outlet": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Novum_Instrumentum_omne",
+          "role": "scholarship"
+        },
+        {
+          "title": "Erasmus",
+          "outlet": "Stanford Encyclopedia of Philosophy",
+          "url": "https://plato.stanford.edu/entries/erasmus/",
+          "role": "scholarship"
+        },
+        {
+          "title": "Martin Luther",
+          "outlet": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Martin_Luther",
+          "role": "scholarship"
+        },
+        {
+          "title": "Philip Melanchthon",
+          "outlet": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Philip_Melanchthon",
+          "role": "scholarship"
+        },
+        {
+          "title": "Huldrych Zwingli",
+          "outlet": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Huldrych_Zwingli",
+          "role": "scholarship"
+        },
+        {
+          "title": "William Tyndale",
+          "outlet": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/William_Tyndale",
+          "role": "scholarship"
+        },
+        {
+          "title": "John Calvin",
+          "outlet": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/John_Calvin",
+          "role": "scholarship"
+        },
+        {
+          "title": "De libero arbitrio diatribe sive collatio",
+          "outlet": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/De_libero_arbitrio_diatribe_sive_collatio",
+          "role": "scholarship"
+        },
+        {
+          "title": "The Bondage of the Will",
+          "outlet": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/The_Bondage_of_the_Will",
+          "role": "scholarship"
+        }
+      ],
+      "memeplex": {
+        "ideas": [
+          "renaissance_humanism",
+          "protestantism",
+          "calvinism"
+        ]
+      },
+      "path": "atlas/1516-erasmus-and-the-reformers/index.md",
+      "words": 1294
+    },
+    {
       "slug": "1517-the-reformation-and-its-wars",
       "kind": "atlas",
       "tour_kind": "narrative",
@@ -1591,6 +1804,125 @@
       "words": 1339
     },
     {
+      "slug": "1785-spinoza-to-hegel-the-pantheism-controversy",
+      "kind": "atlas",
+      "tour_kind": "genealogy",
+      "desk": "ΛRX Atlas",
+      "author": "ΛRX Atlas",
+      "category": "Paper",
+      "series": [
+        "atlas"
+      ],
+      "title": "Spinoza to Hegel: The Pantheism Controversy",
+      "dek": "Of how a dramatist's private confession, published by a merchant's son to discredit reason, put a banned philosopher at the center of German thought.",
+      "date": "1780–1807",
+      "year": 1785,
+      "location": "Wolfenbüttel",
+      "coords": [
+        52.1622,
+        10.5369
+      ],
+      "card": "atlas/1785-spinoza-to-hegel-the-pantheism-controversy/card.png",
+      "art": "atlas/1785-spinoza-to-hegel-the-pantheism-controversy/art.jpg",
+      "pair": {
+        "left_label": "As the Idealists Told It",
+        "left": "Spinoza was the necessary starting point of modern philosophy, and German thought rose by absorbing and surpassing him.",
+        "right_label": "As the Evidence Allows",
+        "right": "Spinoza re-entered German debate through a quarrel over a dead man's reputation. Jacobi publicized him as a warning, and a generation read him as a revelation."
+      },
+      "tags": [
+        "spinoza",
+        "lessing",
+        "jacobi",
+        "mendelssohn",
+        "hegel",
+        "pantheism",
+        "german-idealism"
+      ],
+      "witnesses": [
+        "Friedrich Heinrich Jacobi, Über die Lehre des Spinoza in Briefen an Herrn Moses Mendelssohn (1785)",
+        "G. W. F. Hegel, Phenomenology of Spirit, Preface (1807)",
+        "G. W. F. Hegel, Lectures on the History of Philosophy, \"Spinoza\""
+      ],
+      "sources": [
+        {
+          "title": "Pantheism controversy",
+          "outlet": "Grokipedia",
+          "url": "https://grokipedia.com/page/Pantheism_controversy",
+          "role": "scholarship"
+        },
+        {
+          "title": "Pantheism controversy",
+          "outlet": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Pantheism_controversy",
+          "role": "scholarship"
+        },
+        {
+          "title": "Moses Mendelssohn",
+          "outlet": "Stanford Encyclopedia of Philosophy",
+          "url": "https://plato.stanford.edu/entries/mendelssohn/",
+          "role": "scholarship"
+        },
+        {
+          "title": "Moses Mendelssohn",
+          "outlet": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Moses_Mendelssohn",
+          "role": "scholarship"
+        },
+        {
+          "title": "Friedrich Heinrich Jacobi",
+          "outlet": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Friedrich_Heinrich_Jacobi",
+          "role": "scholarship"
+        },
+        {
+          "title": "Gotthold Ephraim Lessing",
+          "outlet": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Gotthold_Ephraim_Lessing",
+          "role": "scholarship"
+        },
+        {
+          "title": "Georg Wilhelm Friedrich Hegel",
+          "outlet": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Georg_Wilhelm_Friedrich_Hegel",
+          "role": "scholarship"
+        },
+        {
+          "title": "Hegel",
+          "outlet": "Stanford Encyclopedia of Philosophy",
+          "url": "https://plato.stanford.edu/entries/hegel/",
+          "role": "scholarship"
+        },
+        {
+          "title": "Friedrich Hölderlin",
+          "outlet": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Friedrich_H%C3%B6lderlin",
+          "role": "scholarship"
+        },
+        {
+          "title": "Phenomenology of Mind, Preface",
+          "outlet": "Marxists Internet Archive",
+          "url": "https://www.marxists.org/reference/archive/hegel/works/ph/phprefac.htm",
+          "role": "primary"
+        },
+        {
+          "title": "Lectures on the History of Philosophy: Spinoza",
+          "outlet": "Marxists Internet Archive",
+          "url": "https://www.marxists.org/reference/archive/hegel/works/hp/hpspinoz.htm",
+          "role": "primary"
+        }
+      ],
+      "memeplex": {
+        "ideas": [
+          "spinozism",
+          "hegelian_dialectic",
+          "transcendental_idealism"
+        ]
+      },
+      "path": "atlas/1785-spinoza-to-hegel-the-pantheism-controversy/index.md",
+      "words": 1365
+    },
+    {
       "slug": "1757-opium-trade-and-the-qing",
       "kind": "atlas",
       "tour_kind": "narrative",
@@ -1850,6 +2182,124 @@
       ],
       "path": "atlas/1918-the-great-war/index.md",
       "words": 623
+    },
+    {
+      "slug": "1954-how-wicca-was-assembled",
+      "kind": "atlas",
+      "tour_kind": "genealogy",
+      "desk": "ΛRX Atlas",
+      "author": "ΛRX Atlas",
+      "category": "Paper",
+      "series": [
+        "atlas"
+      ],
+      "title": "How Wicca Was Assembled",
+      "dek": "Of how an Egyptologist's theory, a London magical order, a ceremonial magician's rituals and a retired colonial officer's Masonic habits became a new English religion.",
+      "date": "1921–1957",
+      "year": 1954,
+      "location": "London",
+      "coords": [
+        51.5074,
+        -0.1278
+      ],
+      "card": "atlas/1954-how-wicca-was-assembled/card.png",
+      "art": "atlas/1954-how-wicca-was-assembled/art.jpg",
+      "pair": {
+        "left_label": "As the Founder Told It",
+        "left": "A hidden coven in the New Forest had kept the old pagan witch religion alive for centuries, and it let one initiate reveal it.",
+        "right_label": "As the Evidence Allows",
+        "right": "The coven most likely formed in the 1930s from Murray's theory. Gardner and his priestesses built the rites from ceremonial magic, Crowley and Freemasonry."
+      },
+      "tags": [
+        "wicca",
+        "gardner",
+        "murray",
+        "golden-dawn",
+        "crowley",
+        "freemasonry",
+        "valiente",
+        "hutton"
+      ],
+      "witnesses": [
+        "Margaret Murray, The Witch-Cult in Western Europe (1921)",
+        "Gerald Gardner, Witchcraft Today (1954)"
+      ],
+      "sources": [
+        {
+          "title": "Margaret Murray",
+          "outlet": "Grokipedia",
+          "url": "https://grokipedia.com/page/Margaret_Murray",
+          "role": "scholarship"
+        },
+        {
+          "title": "Margaret Murray",
+          "outlet": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Margaret_Murray",
+          "role": "scholarship"
+        },
+        {
+          "title": "Witch-cult hypothesis",
+          "outlet": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Witch-cult_hypothesis",
+          "role": "scholarship"
+        },
+        {
+          "title": "Hermetic Order of the Golden Dawn",
+          "outlet": "Grokipedia",
+          "url": "https://grokipedia.com/page/Hermetic_Order_of_the_Golden_Dawn",
+          "role": "scholarship"
+        },
+        {
+          "title": "Hermetic Order of the Golden Dawn",
+          "outlet": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Hermetic_Order_of_the_Golden_Dawn",
+          "role": "scholarship"
+        },
+        {
+          "title": "Aleister Crowley",
+          "outlet": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Aleister_Crowley",
+          "role": "scholarship"
+        },
+        {
+          "title": "Gerald Gardner",
+          "outlet": "Grokipedia",
+          "url": "https://grokipedia.com/page/Gerald_Gardner",
+          "role": "scholarship"
+        },
+        {
+          "title": "Gerald Gardner",
+          "outlet": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Gerald_Gardner",
+          "role": "scholarship"
+        },
+        {
+          "title": "Doreen Valiente",
+          "outlet": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Doreen_Valiente",
+          "role": "scholarship"
+        },
+        {
+          "title": "Wicca",
+          "outlet": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Wicca",
+          "role": "scholarship"
+        },
+        {
+          "title": "The Triumph of the Moon",
+          "outlet": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/The_Triumph_of_the_Moon",
+          "role": "scholarship"
+        }
+      ],
+      "memeplex": {
+        "ideas": [
+          "wicca",
+          "hermetic_correspondence"
+        ]
+      },
+      "path": "atlas/1954-how-wicca-was-assembled/index.md",
+      "words": 1299
     },
     {
       "slug": "1885-decolonization",
