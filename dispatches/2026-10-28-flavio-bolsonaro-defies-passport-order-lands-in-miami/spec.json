@@ -1,0 +1,29 @@
+{
+ "layout": "card",
+ "art": "art.jpg",
+ "desk": "ΛRX INTERCEPT",
+ "meta": "28 Oct 2026 · Miami",
+ "title": "Flávio Bolsonaro Defies a Passport Order and Lands in Miami",
+ "title_size": 52,
+ "dek": "Brazil's defeated candidate crossed into Argentina and flew via Ecuador to Florida after the State Department granted his family visas. He has not been charged.",
+ "body": "Ordered to hand over his passports, he crossed into Argentina, flew via Guayaquil and landed at Opa-locka on 28 October.",
+ "panels": [
+  {
+   "icon": "flame",
+   "label": "Bolsonaro's Allies Say",
+   "text": "Allies say he left “to continue the fight against tyranny” and would otherwise be “a political prisoner”; his camp calls the case political."
+  },
+  {
+   "icon": "eye",
+   "label": "Brazilian Officials Say",
+   "text": "Brazilian officials warned Washington not to accept him, a State Department official told the Post; police cancelled his passports."
+  },
+  {
+   "icon": "scales",
+   "label": "The Stakes",
+   "text": "His allies speak of “tyranny,” the court of a money-laundering probe; beneath both is whether Brazil can try him at all."
+  }
+ ],
+ "grade": "none",
+ "caption": "Photo: Falcão Alado, CC BY-SA 4.0"
+}

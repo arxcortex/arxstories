@@ -1,0 +1,18 @@
+{
+ "layout": "card",
+ "art": "art.jpg",
+ "desk": "ΛRX INTERCEPT",
+ "meta": "25 Oct 2026 · Caracas",
+ "title": "Machado Returns to Venezuela as Trump Backs Rodríguez",
+ "title_size": 54,
+ "dek": "The opposition leader returns after nearly a year abroad, with no election date set.",
+ "body": "Machado reappeared at a church in Lara and drove to Caracas. Trump says the US will keep working with Rodríguez.",
+ "panels": [
+  {"icon": "flame", "label": "Machado's Camp Says", "text": "Machado's adviser says she will push for a date for free and fair elections."},
+  {"icon": "eye", "label": "Washington Says", "text": "Trump says \u201cwe're doing really well in Venezuela\u201d; Rubio says talks are the best path to an election."},
+  {"icon": "scales", "label": "The Stakes", "text": "Both camps say they want elections; at stake is who sets the date and who controls Venezuela's oil until then."}
+ ],
+ "focus": [700, 300],
+ "grade": "warm",
+ "caption": "Illustration"
+}

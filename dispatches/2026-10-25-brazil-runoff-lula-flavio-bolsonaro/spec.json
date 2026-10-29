@@ -1,0 +1,27 @@
+{
+ "source": "source.jpg",
+ "map_box": [0, 0, 820, 702],
+ "pin": [674, 284],
+ "pin_label": "Bahia",
+ "zoom": 1.15,
+ "desk": "ΛRX INTERCEPT",
+ "category": "Diplomacy",
+ "headline": "Brazil Votes in Runoff Between Lula and Flávio Bolsonaro",
+ "headline_size": 44,
+ "dek": "Final polls put the incumbent and the senator Trump has praised within the margin of error.",
+ "location": "Bahia, Brazil",
+ "date": "25 Oct 2026",
+ "severity": 2,
+ "brief": "Lula, 80, seeks a fourth term against Sen. Flávio Bolsonaro, 45, whose father is serving 27 years over a plot to overturn the 2022 election. Flávio led the first round 47% to 45%.",
+ "framing": {
+  "left": "Lula and the Workers' Party call Flávio “dangerous” and cast the vote as a stand against U.S. interference in Brazil.",
+  "right": "Flávio and the Liberal Party say “Brazil needs change,” promising a crackdown on gangs and better deals with Washington."
+ },
+ "reading": {"label": "The Stakes", "text": "One camp speaks of “interference,” the other of “change”; the contest beneath is over the presidency, the courts, and Brazil's tilt between Washington and Beijing."},
+ "context": [
+  "2022: Lula defeats Jair Bolsonaro by under two points",
+  "4 Oct 2026: Flávio 47%, Lula 45% in the first round"
+ ],
+ "sources": ["messenger-inquirer.com", "pbs.org", "riotimesonline.com"],
+ "stamp": "DISPATCH · 25.X.2026"
+}

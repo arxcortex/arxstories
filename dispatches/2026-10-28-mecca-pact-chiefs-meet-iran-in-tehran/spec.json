@@ -1,0 +1,29 @@
+{
+ "layout": "card",
+ "art": "art.jpg",
+ "desk": "ΛRX INTERCEPT",
+ "meta": "28 Oct 2026 · Tehran",
+ "title": "Saudi, Pakistani and Turkish Chiefs Meet Iran's Leaders in Tehran",
+ "title_size": 52,
+ "dek": "The Mecca pact states and Iran agree to keep talking; sources tell The National the talks produced no deal on the Houthis or Hormuz.",
+ "body": "First high-level contact since the August Mecca defence pact. All four agreed to keep talking; no deal on the Houthis or Hormuz.",
+ "panels": [
+  {
+   "icon": "flame",
+   "label": "Tehran Says",
+   "text": "Rezaei calls the talks “very good” and says regional states, not outside powers, should secure the region; Iran wants the US blockade lifted."
+  },
+  {
+   "icon": "eye",
+   "label": "Washington Says",
+   "text": "Vance says Iran must cut nuclear enrichment to end the war; Trump says he and Netanyahu must “finish the job,” Channel 12 reports."
+  },
+  {
+   "icon": "scales",
+   "label": "The Stakes",
+   "text": "Tehran speaks of regional security, Washington of finishing the job; beneath both is who sets the terms for reopening Hormuz."
+  }
+ ],
+ "grade": "none",
+ "caption": "Photo: Bernard Gagnon, CC BY-SA 4.0"
+}

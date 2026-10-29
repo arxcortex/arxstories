@@ -1,0 +1,28 @@
+{
+ "layout": "card",
+ "art": "art.jpg",
+ "desk": "ΛRX ATLAS",
+ "meta": "1757–1901 · Humen",
+ "title": "Opium, Trade and the Qing",
+ "title_size": 76,
+ "dek": "Of how Britain paid for its tea with Indian opium, went to war to keep selling it, and opened China to a century of foreign power.",
+ "panels": [
+  {
+   "icon": "scroll",
+   "label": "As Each Side Told It",
+   "text": "British officials spoke of free trade and equal diplomacy; Qing officials spoke of a poison smuggled in by barbarians who would not obey the law."
+  },
+  {
+   "icon": "eye",
+   "label": "Evidence Allows",
+   "text": "Both sides were defending money. Britain needed opium to pay for tea; the Qing needed silver and authority. Force decided the question, and the Qing…"
+  },
+  {
+   "icon": "map",
+   "label": "The Tour",
+   "text": "10 stops on the Chronosphere globe, from Guangzhou to Beijing."
+  }
+ ],
+ "grade": "warm",
+ "caption": "Historical artwork"
+}

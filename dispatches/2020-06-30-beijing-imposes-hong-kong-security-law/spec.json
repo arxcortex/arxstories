@@ -1,0 +1,33 @@
+{
+ "layout": "card",
+ "art": "art.jpg",
+ "desk": "ΛRX INTERCEPT",
+ "meta": "30 Jun 2020 · Hong Kong",
+ "title": "Beijing Imposes a Security Law on Hong Kong",
+ "title_size": 52,
+ "dek": "China's top legislature outlaws secession, subversion, terrorism and foreign collusion in Hong Kong, and the law takes effect the same night.",
+ "body": "The law took effect on 30 June 2020. Police arrested Jimmy Lai that August, and a court sentenced him to 20 years in February 2026.",
+ "panels": [
+  {
+   "icon": "flame",
+   "label": "Hong Kong's Leaders Say",
+   "text": "Carrie Lam says the law is “a historical step” that protects “the vast majority” from “the minority” who undermine security."
+  },
+  {
+   "icon": "eye",
+   "label": "London Says",
+   "text": "Dominic Raab says it “constitutes a clear and serious breach” of the 1984 Sino-British Joint Declaration."
+  },
+  {
+   "icon": "scales",
+   "label": "The Stakes",
+   "text": "One side says it restored order, the other that it broke a treaty; at stake is who decides how Hong Kong governs itself."
+  }
+ ],
+ "focus": [
+  640,
+  330
+ ],
+ "grade": "none",
+ "caption": "Voice of America photo"
+}

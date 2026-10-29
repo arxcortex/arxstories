@@ -1,0 +1,28 @@
+{
+ "layout": "card",
+ "art": "art.jpg",
+ "desk": "ΛRX ATLAS",
+ "meta": "754–1417 · Rome",
+ "title": "Papacy Versus Empire",
+ "title_size": 76,
+ "dek": "Of how popes and emperors made each other, then fought for three centuries over who stood higher, and how kings won.",
+ "panels": [
+  {
+   "icon": "scroll",
+   "label": "As Each Side Told It",
+   "text": "Popes claimed that Christ gave Peter's heirs authority over kings; emperors claimed their crown came from God directly, not through Rome."
+  },
+  {
+   "icon": "eye",
+   "label": "Evidence Allows",
+   "text": "Both claims were weapons in fights over land, revenue and the right to appoint bishops. The winners were the national monarchies that neither side…"
+  },
+  {
+   "icon": "map",
+   "label": "The Tour",
+   "text": "12 stops on the Chronosphere globe, from Quierzy to Constance."
+  }
+ ],
+ "grade": "warm",
+ "caption": "Historical artwork"
+}

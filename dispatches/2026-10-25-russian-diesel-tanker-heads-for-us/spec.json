@@ -1,0 +1,18 @@
+{
+ "layout": "card",
+ "art": "art.jpg",
+ "desk": "ΛRX INTERCEPT",
+ "meta": "25 Oct 2026 · Primorsk – New York",
+ "title": "First Russian Diesel Under US Waiver Sails Toward New York",
+ "title_size": 52,
+ "dek": "The first Russian fuel cargo bound for the US since the 2022 ban is due around 7 November.",
+ "body": "Agioi Fanendes loaded about 40,000 t at Primorsk on 22 October. It now signals \u201cfor orders,\u201d with no confirmed port.",
+ "panels": [
+  {"icon": "flame", "label": "Washington and Moscow Say", "text": "Trump says the deal brings \u201cmassive amounts of oil\u201d; Peskov says shipments will continue \u201con a regular basis.\u201d"},
+  {"icon": "eye", "label": "Kyiv and Sanctions Hawks Say", "text": "Zelensky says the waiver is a \u201creward\u201d for Putin; 12 senators say it is \u201ca gift to our adversary.\u201d"},
+  {"icon": "scales", "label": "The Stakes", "text": "One side says the deal lowers fuel prices, the other that it funds the war; at stake is who pays for sanctions."}
+ ],
+ "focus": [520, 300],
+ "grade": "none",
+ "caption": "Illustration"
+}

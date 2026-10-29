@@ -1,0 +1,33 @@
+{
+ "layout": "card",
+ "art": "art.jpg",
+ "desk": "ΛRX INTERCEPT",
+ "meta": "6 Jan 2021 · Washington",
+ "title": "Trump Supporters Storm the US Capitol",
+ "title_size": 52,
+ "dek": "A mob halts Congress's count of Joe Biden's win for hours; Mike Pence declares the result before dawn on 7 January.",
+ "body": "Rioters injured 174 police officers. Congress finished the count before dawn, and Pence declared Biden the winner, 306 to 232.",
+ "panels": [
+  {
+   "icon": "flame",
+   "label": "Trump Says",
+   "text": "Trump calls it “a day of love”; his pardon order says it “ends a grave national injustice.”"
+  },
+  {
+   "icon": "eye",
+   "label": "His Critics Say",
+   "text": "McConnell calls Trump “practically and morally responsible”; Biden says the mob “held a dagger at the throat of America.”"
+  },
+  {
+   "icon": "scales",
+   "label": "The Stakes",
+   "text": "One side says the state punished his supporters, the other that he tried to keep power he lost; at stake is who certifies a US election."
+  }
+ ],
+ "focus": [
+  640,
+  330
+ ],
+ "grade": "none",
+ "caption": "Photo: Tyler Merbler, CC BY 2.0"
+}

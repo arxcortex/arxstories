@@ -1,0 +1,28 @@
+{
+ "layout": "card",
+ "art": "art.jpg",
+ "desk": "ΛRX ATLAS",
+ "meta": "1206–1346 · Onon River",
+ "title": "The Mongol Empire",
+ "title_size": 76,
+ "dek": "Of how a steppe confederation built the largest land empire yet seen, and broke apart over the rule that made it.",
+ "panels": [
+  {
+   "icon": "scroll",
+   "label": "Victims Tell It",
+   "text": "Chroniclers from Baghdad to Hungary describe the Mongols as a scourge sent to punish sin, sparing no one."
+  },
+  {
+   "icon": "eye",
+   "label": "Evidence Allows",
+   "text": "The killing was real and vast. So were the trade, the post roads and the movement of people and ideas across one jurisdiction. Both came from the…"
+  },
+  {
+   "icon": "map",
+   "label": "The Tour",
+   "text": "10 stops on the Chronosphere globe, from Onon River to Caffa."
+  }
+ ],
+ "grade": "warm",
+ "caption": "Historical artwork"
+}

@@ -1,0 +1,122 @@
+{
+  "desk": "ΛRX Currents",
+  "count": 1,
+  "entries": [
+    {
+      "slug": "2026-05-25-magnifica-humanitas-and-ai",
+      "kind": "currents",
+      "desk": "ΛRX Currents",
+      "author": "Arx",
+      "category": "Current",
+      "title": "A Pope Named Leo Takes On AI, 135 Years After Rerum Novarum",
+      "dek": "Leo XIV's first encyclical reads AI through a line of Catholic thought that runs from Aristotle and Aquinas to Leo XIII's 1891 letter on industrial labor.",
+      "date": "2026-05-25",
+      "year": 2026,
+      "location": "Vatican City",
+      "coords": [
+        41.9022,
+        12.4539
+      ],
+      "card": "currents/2026-05-25-magnifica-humanitas-and-ai/card.png",
+      "art": "currents/2026-05-25-magnifica-humanitas-and-ai/art.jpg",
+      "series": [
+        "currents"
+      ],
+      "pair": {
+        "left_label": "As the Encyclical Argues",
+        "left": "Leo XIV says AI should serve the person, be governed and be \"disarmed,\" and he calls human limits part of how humanity matures.",
+        "right_label": "As the Accelerationists and Transhumanists Argue",
+        "right": "Transhumanists say humanity should direct its own evolution past biological limits; effective accelerationists push for unconstrained AI progress."
+      },
+      "memeplex": {
+        "current": "magnifica_humanitas_ai",
+        "ideas": [
+          "catholic_social_teaching",
+          "thomism",
+          "aristotelian_teleology",
+          "post_vatican_ii_catholicism",
+          "roman_catholicism",
+          "accelerationism"
+        ]
+      },
+      "tags": [
+        "catholic-church",
+        "artificial-intelligence",
+        "papacy",
+        "transhumanism",
+        "accelerationism",
+        "21st-century"
+      ],
+      "sources": [
+        {
+          "title": "Magnifica Humanitas (English text)",
+          "outlet": "The Holy See",
+          "url": "https://www.vatican.va/content/leo-xiv/en/encyclicals/documents/20260515-magnifica-humanitas.html",
+          "role": "primary"
+        },
+        {
+          "title": "Pope Leo's 'Magnifica humanitas': AI must serve humanity not concentrate power",
+          "outlet": "Vatican News",
+          "url": "https://www.vaticannews.va/en/pope/news/2026-05/pope-leo-xiv-encyclical-magnifica-humanitas-ai.html",
+          "role": "primary"
+        },
+        {
+          "title": "Magnifica Humanitas",
+          "outlet": "Grokipedia",
+          "url": "https://grokipedia.com/page/Magnifica_Humanitas",
+          "role": "scholarship"
+        },
+        {
+          "title": "Rerum novarum",
+          "outlet": "Grokipedia",
+          "url": "https://grokipedia.com/page/Rerum_novarum",
+          "role": "scholarship"
+        },
+        {
+          "title": "Catholic social teaching",
+          "outlet": "Grokipedia",
+          "url": "https://grokipedia.com/page/Catholic_social_teaching",
+          "role": "scholarship"
+        },
+        {
+          "title": "Second Vatican Council",
+          "outlet": "Grokipedia",
+          "url": "https://grokipedia.com/page/Second_Vatican_Council",
+          "role": "scholarship"
+        },
+        {
+          "title": "Second Vatican Council (ΛRX Atlas)",
+          "outlet": "ΛRX Atlas",
+          "url": "https://arxcortex.github.io/arxstories/atlas/1962-second-vatican-council/",
+          "role": "context"
+        },
+        {
+          "title": "Thomism",
+          "outlet": "Grokipedia",
+          "url": "https://grokipedia.com/page/Thomism",
+          "role": "scholarship"
+        },
+        {
+          "title": "Transhumanism",
+          "outlet": "Grokipedia",
+          "url": "https://grokipedia.com/page/Transhumanism",
+          "role": "scholarship"
+        },
+        {
+          "title": "Julian Huxley",
+          "outlet": "Grokipedia",
+          "url": "https://grokipedia.com/page/Julian_Huxley",
+          "role": "scholarship"
+        },
+        {
+          "title": "Accelerationism",
+          "outlet": "Grokipedia",
+          "url": "https://grokipedia.com/page/Accelerationism",
+          "role": "scholarship"
+        }
+      ],
+      "path": "currents/2026-05-25-magnifica-humanitas-and-ai/index.md",
+      "words": 715
+    }
+  ]
+}

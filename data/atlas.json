@@ -1,0 +1,2054 @@
+{
+  "desk": "ΛRX Atlas",
+  "count": 19,
+  "entries": [
+    {
+      "slug": "509bc-founding-of-the-roman-republic",
+      "kind": "atlas",
+      "desk": "ΛRX Atlas",
+      "author": "ΛRX Atlas",
+      "category": "Event",
+      "title": "The Founding of the Roman Republic",
+      "dek": "Of how the Romans drove out their last king, and what they built in his place.",
+      "date": "509 BC",
+      "year": -509,
+      "location": "Rome, Latium",
+      "coords": [
+        41.8925,
+        12.4853
+      ],
+      "card": "atlas/509bc-founding-of-the-roman-republic/card.png",
+      "art": "atlas/509bc-founding-of-the-roman-republic/art.jpg",
+      "pair": {
+        "left_label": "As the Romans Tell It",
+        "left": "Livy and Dionysius tell of Lucretia's oath, of Brutus feigning dullness, and of a father who watched his own sons die for treason.",
+        "right_label": "As the Evidence Allows",
+        "right": "Historians suspect the date runs years off, and some, like Cornell, think Porsenna of Clusium briefly held Rome itself."
+      },
+      "tags": [
+        "rome",
+        "republic",
+        "antiquity",
+        "constitutions"
+      ],
+      "witnesses": [
+        "Livy, Ab Urbe Condita, I.57–II.15",
+        "Dionysius of Halicarnassus, Roman Antiquities, IV–V",
+        "Polybius, Histories, III.22",
+        "Tacitus, Histories, III.72"
+      ],
+      "sources": [
+        {
+          "title": "Livy, Ab Urbe Condita 1.59 (English translation)",
+          "outlet": "Perseids / Perseus Digital Library",
+          "url": "https://fgh.perseids.org/read/latinLit/phi0914/phi001/perseus-eng3/1.59.1-1.59.13",
+          "role": "primary"
+        },
+        {
+          "title": "Overthrow of the Roman monarchy",
+          "outlet": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Overthrow_of_the_Roman_monarchy",
+          "role": "scholarship"
+        },
+        {
+          "title": "Roman Republic",
+          "outlet": "Encyclopaedia Britannica",
+          "url": "https://www.britannica.com/place/Roman-Republic",
+          "role": "scholarship"
+        },
+        {
+          "title": "Consuls of the Roman Republic",
+          "outlet": "Encyclopaedia Romana (University of Chicago)",
+          "url": "https://penelope.uchicago.edu/encyclopaedia_romana/calendar/consuls.html",
+          "role": "scholarship"
+        }
+      ],
+      "path": "atlas/509bc-founding-of-the-roman-republic/index.md",
+      "words": 711
+    },
+    {
+      "slug": "500bc-confucius-and-the-search-for-a-virtuous-ruler",
+      "kind": "atlas",
+      "desk": "ΛRX Atlas",
+      "author": "ΛRX Atlas",
+      "category": "Historical Inquiry",
+      "title": "Confucius and the Search for a Virtuous Ruler",
+      "dek": "As the Zhou order fractured, a teacher from Lu sought to restore political authority through ritual, moral cultivation, and the example of the gentleman.",
+      "date": "c. 500–479 BC",
+      "year": -500,
+      "location": "State of Lu, Eastern Zhou China",
+      "coords": [
+        35.5967,
+        116.9914
+      ],
+      "card": "atlas/500bc-confucius-and-the-search-for-a-virtuous-ruler/card.png",
+      "art": "atlas/500bc-confucius-and-the-search-for-a-virtuous-ruler/art.jpg",
+      "pair": {
+        "left_label": "As the Tradition Tells It",
+        "left": "The Zuo Commentary and Sima Qian place Confucius in office in Lu, then on long travels through Wei, Song, Chen and Cai in search of a ruler who would govern by the Way.",
+        "right_label": "As the Evidence Allows",
+        "right": "The Analects was compiled across generations; manuscripts from about 300 BC show his sayings circulated early, without proving each one is his."
+      },
+      "tags": [
+        "china",
+        "confucius",
+        "zhou",
+        "political-philosophy",
+        "antiquity"
+      ],
+      "witnesses": [
+        "Analects (Lunyu)",
+        "Zuo Commentary (Zuozhuan)",
+        "Sima Qian, Records of the Grand Historian"
+      ],
+      "sources": [
+        {
+          "title": "Confucius",
+          "outlet": "Stanford Encyclopedia of Philosophy",
+          "url": "https://plato.stanford.edu/entries/confucius/",
+          "role": "scholarship"
+        },
+        {
+          "title": "Confucius",
+          "outlet": "Internet Encyclopedia of Philosophy",
+          "url": "https://iep.utm.edu/confucius/",
+          "role": "scholarship"
+        },
+        {
+          "title": "New Manuscript Evidence on the Formation of the Analects: The Warring States Anhui University Zhongni Said and the Wangjiazui Kongzi Said",
+          "outlet": "Early China, Cambridge University Press",
+          "url": "https://www.cambridge.org/core/journals/early-china/article/new-manuscript-evidence-on-the-formation-of-the-analects-the-warring-states-anhui-university-zhongni-said-and-the-wangjiazui-kongzi-said/08F1860CBCFD361F58B2034439A71526",
+          "role": "scholarship"
+        }
+      ],
+      "path": "atlas/500bc-confucius-and-the-search-for-a-virtuous-ruler/index.md",
+      "words": 650
+    },
+    {
+      "slug": "585bc-from-miletus-to-alexandria-greek-philosophy",
+      "kind": "atlas",
+      "tour_kind": "genealogy",
+      "desk": "ΛRX Atlas",
+      "author": "ΛRX Atlas",
+      "category": "Tour",
+      "tour": "greek-philosophy",
+      "series": [
+        "atlas"
+      ],
+      "title": "From Miletus to Alexandria: Greek Philosophy",
+      "dek": "Of how Greek philosophy began in free trading cities, survived Athens's death sentence on Socrates, and found its safest home on a king's payroll.",
+      "date": "585–283 BCE",
+      "year": -322,
+      "location": "Chalcis, Euboea",
+      "coords": [
+        38.4636,
+        23.5994
+      ],
+      "card": "atlas/585bc-from-miletus-to-alexandria-greek-philosophy/card.png",
+      "art": "atlas/585bc-from-miletus-to-alexandria-greek-philosophy/art.jpg",
+      "pair": {
+        "left_label": "As the Philosophers Tell It",
+        "left": "Reason freed itself from myth and grew by the force of its own arguments.",
+        "right_label": "As the Evidence Allows",
+        "right": "Philosophy grew where patrons protected it. Cities tolerated it until it touched their politics; kings paid for it when it served their prestige."
+      },
+      "tags": [
+        "philosophy",
+        "miletus",
+        "athens",
+        "socrates",
+        "plato",
+        "aristotle",
+        "alexandria",
+        "patronage"
+      ],
+      "witnesses": [
+        "Herodotus, Histories 1.74",
+        "Plato, Apology",
+        "Diogenes Laertius, Lives of the Eminent Philosophers",
+        "Strabo, Geography 17.1.8"
+      ],
+      "sources": [
+        {
+          "title": "Aristotle",
+          "outlet": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Aristotle",
+          "role": "scholarship"
+        },
+        {
+          "title": "Eclipse of Thales",
+          "outlet": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Eclipse_of_Thales",
+          "role": "scholarship"
+        },
+        {
+          "title": "Thales of Miletus",
+          "outlet": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Thales_of_Miletus",
+          "role": "scholarship"
+        },
+        {
+          "title": "Pythagoras",
+          "outlet": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Pythagoras",
+          "role": "scholarship"
+        },
+        {
+          "title": "Parmenides",
+          "outlet": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Parmenides",
+          "role": "scholarship"
+        },
+        {
+          "title": "Trial of Socrates",
+          "outlet": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Trial_of_Socrates",
+          "role": "scholarship"
+        },
+        {
+          "title": "Platonic Academy",
+          "outlet": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Platonic_Academy",
+          "role": "scholarship"
+        },
+        {
+          "title": "Lyceum (classical)",
+          "outlet": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Lyceum_(classical)",
+          "role": "scholarship"
+        },
+        {
+          "title": "Zeno of Citium",
+          "outlet": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Zeno_of_Citium",
+          "role": "scholarship"
+        },
+        {
+          "title": "Library of Alexandria",
+          "outlet": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Library_of_Alexandria",
+          "role": "scholarship"
+        },
+        {
+          "title": "Musaeum",
+          "outlet": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Musaeum",
+          "role": "scholarship"
+        }
+      ],
+      "memeplex": {
+        "ideas": [
+          "platonic_forms",
+          "aristotelian_teleology"
+        ]
+      },
+      "path": "atlas/585bc-from-miletus-to-alexandria-greek-philosophy/index.md",
+      "words": 1131
+    },
+    {
+      "slug": "49bc-caesar-crosses-the-rubicon",
+      "kind": "atlas",
+      "desk": "ΛRX Atlas",
+      "author": "ΛRX Atlas",
+      "category": "Event",
+      "title": "Caesar Crosses the Rubicon",
+      "dek": "A river, an army, and a decision that turned Rome toward civil war.",
+      "date": "49 BC",
+      "year": -49,
+      "location": "The Rubicon, between Cisalpine Gaul and Italy",
+      "coords": [
+        44.0918,
+        12.3976
+      ],
+      "card": "atlas/49bc-caesar-crosses-the-rubicon/card.png",
+      "art": "atlas/49bc-caesar-crosses-the-rubicon/art.jpg",
+      "pair": {
+        "left_label": "As the Romans Tell It",
+        "left": "Suetonius tells of a night march, a lost road, a piper who seized a trumpet and crossed first, and Caesar's words, \"The die is now cast.\"",
+        "right_label": "As the Evidence Allows",
+        "right": "Neither the exact date nor the river's location is certain; scholars place the crossing on the night of 10–11 January, and Caesar's men had crossed the day before."
+      },
+      "tags": [
+        "rome",
+        "caesar",
+        "civil-war",
+        "republic",
+        "antiquity"
+      ],
+      "witnesses": [
+        "Suetonius, Divus Julius, 31–33",
+        "Plutarch, Life of Caesar, 32",
+        "Lucan, Pharsalia, I"
+      ],
+      "sources": [
+        {
+          "title": "Suetonius, Divus Julius 31–40 (English translation)",
+          "outlet": "Perseids / Perseus Digital Library",
+          "url": "https://fgh.perseids.org/read/latinLit/phi1348/abo011/perseus-eng2/31-40",
+          "role": "primary"
+        },
+        {
+          "title": "Crossing the Rubicon",
+          "outlet": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Crossing_the_Rubicon",
+          "role": "scholarship"
+        },
+        {
+          "title": "Rubicon",
+          "outlet": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Rubicon",
+          "role": "scholarship"
+        },
+        {
+          "title": "Alea iacta est",
+          "outlet": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Alea_iacta_est",
+          "role": "scholarship"
+        }
+      ],
+      "path": "atlas/49bc-caesar-crosses-the-rubicon/index.md",
+      "words": 652
+    },
+    {
+      "slug": "30-how-a-jewish-sect-became-romes-religion",
+      "kind": "atlas",
+      "tour_kind": "narrative",
+      "desk": "ΛRX Atlas",
+      "author": "ΛRX Atlas",
+      "category": "Tour",
+      "tour": "rise-of-christianity",
+      "series": [
+        "atlas"
+      ],
+      "title": "How a Jewish Sect Became Rome's Religion",
+      "dek": "Of how the empire that crucified a Galilean preacher ended, 350 years later, by making his church its only lawful faith.",
+      "date": "c. AD 30–380",
+      "year": 30,
+      "location": "Jerusalem, Judaea",
+      "coords": [
+        31.778,
+        35.235
+      ],
+      "card": "atlas/30-how-a-jewish-sect-became-romes-religion/card.png",
+      "art": "atlas/30-how-a-jewish-sect-became-romes-religion/art.jpg",
+      "pair": {
+        "left_label": "As the Church Tells It",
+        "left": "The faith spread by the witness of martyrs, and God gave Constantine a sign of victory in the cross.",
+        "right_label": "As the Evidence Allows",
+        "right": "The church grew into an organized network that persecution could not break, and emperors in civil wars found it worth winning."
+      },
+      "tags": [
+        "christianity",
+        "roman-empire",
+        "persecution",
+        "constantine",
+        "nicaea",
+        "theodosius"
+      ],
+      "witnesses": [
+        "The Gospels and the Acts of the Apostles",
+        "Tacitus, Annals, Book 15",
+        "Libelli (sacrifice certificates), Egypt, AD 250",
+        "Lactantius, On the Deaths of the Persecutors",
+        "Eusebius of Caesarea, Life of Constantine"
+      ],
+      "sources": [
+        {
+          "title": "Crucifixion of Jesus",
+          "outlet": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Crucifixion_of_Jesus",
+          "role": "scholarship"
+        },
+        {
+          "title": "Council of Jerusalem",
+          "outlet": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Council_of_Jerusalem",
+          "role": "scholarship"
+        },
+        {
+          "title": "Great Fire of Rome",
+          "outlet": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Great_Fire_of_Rome",
+          "role": "scholarship"
+        },
+        {
+          "title": "Siege of Jerusalem (70 CE)",
+          "outlet": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Siege_of_Jerusalem_(70_CE)",
+          "role": "scholarship"
+        },
+        {
+          "title": "Decian persecution",
+          "outlet": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Decian_persecution",
+          "role": "scholarship"
+        },
+        {
+          "title": "Diocletianic Persecution",
+          "outlet": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Diocletianic_Persecution",
+          "role": "scholarship"
+        },
+        {
+          "title": "Battle of the Milvian Bridge",
+          "outlet": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Battle_of_the_Milvian_Bridge",
+          "role": "scholarship"
+        },
+        {
+          "title": "Edict of Milan",
+          "outlet": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Edict_of_Milan",
+          "role": "scholarship"
+        },
+        {
+          "title": "First Council of Nicaea",
+          "outlet": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/First_Council_of_Nicaea",
+          "role": "scholarship"
+        },
+        {
+          "title": "Edict of Thessalonica",
+          "outlet": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Edict_of_Thessalonica",
+          "role": "scholarship"
+        }
+      ],
+      "memeplex": {
+        "ideas": [
+          "christianity",
+          "apostolic_christianity"
+        ]
+      },
+      "path": "atlas/30-how-a-jewish-sect-became-romes-religion/index.md",
+      "words": 1392
+    },
+    {
+      "slug": "610-rise-of-islam-610-750",
+      "kind": "atlas",
+      "tour_kind": "narrative",
+      "desk": "ΛRX Atlas",
+      "author": "ΛRX Atlas",
+      "category": "Tour",
+      "tour": "rise-of-islam",
+      "series": [
+        "atlas"
+      ],
+      "title": "Rise of Islam, 610–750",
+      "dek": "Of how a prophet's community in Arabia became a state, defeated two empires, and fought itself over who should rule.",
+      "date": "610–750",
+      "year": 610,
+      "location": "Mecca, Arabia",
+      "coords": [
+        21.4225,
+        39.8262
+      ],
+      "card": "atlas/610-rise-of-islam-610-750/card.png",
+      "art": "atlas/610-rise-of-islam-610-750/art.jpg",
+      "pair": {
+        "left_label": "As the Tradition Tells It",
+        "left": "God revealed the Qur'an to Muhammad, and the community he founded spread the faith from Spain to Central Asia within a century.",
+        "right_label": "As the Evidence Allows",
+        "right": "The early record comes mostly from Muslim histories written generations later. They agree on the outline and differ, often by party, on the succession."
+      },
+      "tags": [
+        "islam",
+        "caliphate",
+        "umayyads",
+        "abbasids",
+        "conquests",
+        "succession"
+      ],
+      "witnesses": [
+        "The Qur'an",
+        "Ibn Ishaq, Life of the Messenger of God (as edited by Ibn Hisham)",
+        "Al-Tabari, History of the Prophets and Kings"
+      ],
+      "sources": [
+        {
+          "title": "Muhammad's first revelation",
+          "outlet": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Muhammad's_first_revelation",
+          "role": "scholarship"
+        },
+        {
+          "title": "Hijrah",
+          "outlet": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Hijrah",
+          "role": "scholarship"
+        },
+        {
+          "title": "Battle of Badr",
+          "outlet": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Battle_of_Badr",
+          "role": "scholarship"
+        },
+        {
+          "title": "Conquest of Mecca",
+          "outlet": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Conquest_of_Mecca",
+          "role": "scholarship"
+        },
+        {
+          "title": "Mu'awiya I",
+          "outlet": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Mu'awiya_I",
+          "role": "scholarship"
+        },
+        {
+          "title": "Saqifah",
+          "outlet": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Saqifah",
+          "role": "scholarship"
+        },
+        {
+          "title": "Byzantine–Sasanian War of 602–628",
+          "outlet": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Byzantine%E2%80%93Sasanian_War_of_602%E2%80%93628",
+          "role": "scholarship"
+        },
+        {
+          "title": "Battle of the Yarmuk",
+          "outlet": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Battle_of_the_Yarmuk",
+          "role": "scholarship"
+        },
+        {
+          "title": "Yazdegerd III",
+          "outlet": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Yazdegerd_III",
+          "role": "scholarship"
+        },
+        {
+          "title": "First Fitna",
+          "outlet": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/First_Fitna",
+          "role": "scholarship"
+        },
+        {
+          "title": "Battle of Karbala",
+          "outlet": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Battle_of_Karbala",
+          "role": "scholarship"
+        },
+        {
+          "title": "Umayyad conquest of Hispania",
+          "outlet": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Umayyad_conquest_of_Hispania",
+          "role": "scholarship"
+        },
+        {
+          "title": "Abbasid Revolution",
+          "outlet": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Abbasid_Revolution",
+          "role": "scholarship"
+        },
+        {
+          "title": "Battle of the Zab",
+          "outlet": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Battle_of_the_Zab",
+          "role": "scholarship"
+        }
+      ],
+      "memeplex": {
+        "ideas": [
+          "sufism",
+          "falsafa"
+        ]
+      },
+      "path": "atlas/610-rise-of-islam-610-750/index.md",
+      "words": 1395
+    },
+    {
+      "slug": "754-papacy-versus-empire",
+      "kind": "atlas",
+      "tour_kind": "narrative",
+      "desk": "ΛRX Atlas",
+      "author": "ΛRX Atlas",
+      "category": "Tour",
+      "tour": "papacy-vs-empire",
+      "series": [
+        "atlas"
+      ],
+      "title": "Papacy Versus Empire",
+      "dek": "Of how popes and emperors made each other, then fought for three centuries over who stood higher, and how kings won.",
+      "date": "754–1417",
+      "year": 754,
+      "location": "Rome",
+      "coords": [
+        41.9022,
+        12.4533
+      ],
+      "card": "atlas/754-papacy-versus-empire/card.png",
+      "art": "atlas/754-papacy-versus-empire/art.jpg",
+      "pair": {
+        "left_label": "As Each Side Told It",
+        "left": "Popes claimed that Christ gave Peter's heirs authority over kings; emperors claimed their crown came from God directly, not through Rome.",
+        "right_label": "As the Evidence Allows",
+        "right": "Both claims were weapons in fights over land, revenue and the right to appoint bishops. The winners were the national monarchies that neither side controlled."
+      },
+      "tags": [
+        "papacy",
+        "holy-roman-empire",
+        "investiture",
+        "canossa",
+        "avignon",
+        "schism",
+        "constance"
+      ],
+      "witnesses": [
+        "Dictatus papae, in the register of Gregory VII (1075)",
+        "Concordat of Worms (1122)",
+        "Boniface VIII, Unam sanctam (1302)",
+        "Decree Haec sancta of the Council of Constance (1415)"
+      ],
+      "sources": [
+        {
+          "title": "Road to Canossa",
+          "outlet": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Road_to_Canossa",
+          "role": "scholarship"
+        },
+        {
+          "title": "Donation of Pepin",
+          "outlet": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Donation_of_Pepin",
+          "role": "scholarship"
+        },
+        {
+          "title": "Charlemagne",
+          "outlet": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Charlemagne",
+          "role": "scholarship"
+        },
+        {
+          "title": "Otto I",
+          "outlet": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Otto_I",
+          "role": "scholarship"
+        },
+        {
+          "title": "Dictatus papae",
+          "outlet": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Dictatus_papae",
+          "role": "scholarship"
+        },
+        {
+          "title": "Investiture Controversy",
+          "outlet": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Investiture_Controversy",
+          "role": "scholarship"
+        },
+        {
+          "title": "Concordat of Worms",
+          "outlet": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Concordat_of_Worms",
+          "role": "scholarship"
+        },
+        {
+          "title": "Battle of Legnano",
+          "outlet": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Battle_of_Legnano",
+          "role": "scholarship"
+        },
+        {
+          "title": "Frederick II, Holy Roman Emperor",
+          "outlet": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Frederick_II,_Holy_Roman_Emperor",
+          "role": "scholarship"
+        },
+        {
+          "title": "Unam sanctam",
+          "outlet": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Unam_sanctam",
+          "role": "scholarship"
+        },
+        {
+          "title": "Anagni",
+          "outlet": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Anagni",
+          "role": "scholarship"
+        },
+        {
+          "title": "Avignon Papacy",
+          "outlet": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Avignon_Papacy",
+          "role": "scholarship"
+        },
+        {
+          "title": "Western Schism",
+          "outlet": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Western_Schism",
+          "role": "scholarship"
+        },
+        {
+          "title": "Council of Constance",
+          "outlet": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Council_of_Constance",
+          "role": "scholarship"
+        }
+      ],
+      "memeplex": {
+        "ideas": [
+          "roman_catholicism",
+          "divine_right_of_kings",
+          "catholic_integralism"
+        ]
+      },
+      "path": "atlas/754-papacy-versus-empire/index.md",
+      "words": 1400
+    },
+    {
+      "slug": "528bc-how-buddhism-spread",
+      "kind": "atlas",
+      "tour_kind": "transmission",
+      "desk": "ΛRX Atlas",
+      "author": "ΛRX Atlas",
+      "category": "Tour",
+      "tour": "buddhism-spreads",
+      "series": [
+        "atlas"
+      ],
+      "title": "How Buddhism Spread",
+      "dek": "Of how a wandering teacher's order crossed Asia by winning kings and merchants, and why it grew rich enough for an emperor to seize.",
+      "date": "c. 528 BCE–845 CE",
+      "year": 845,
+      "location": "Chang'an",
+      "coords": [
+        34.2658,
+        108.9541
+      ],
+      "card": "atlas/528bc-how-buddhism-spread/card.png",
+      "art": "atlas/528bc-how-buddhism-spread/art.jpg",
+      "pair": {
+        "left_label": "As the Monks Tell It",
+        "left": "The truth of the Dharma persuaded kings and peoples wherever it was preached.",
+        "right_label": "As the Evidence Allows",
+        "right": "Buddhism traveled with royal patrons and trade. Patronage made the monasteries rich, and wealth made them a target."
+      },
+      "tags": [
+        "buddhism",
+        "ashoka",
+        "kushan",
+        "silk road",
+        "china",
+        "korea",
+        "japan",
+        "patronage"
+      ],
+      "witnesses": [
+        "Edicts of Ashoka, Rock Edict XIII",
+        "Pali chronicles (Dipavamsa, Mahavamsa)",
+        "Nihon Shoki (720)",
+        "Edict of Emperor Wuzong (845)"
+      ],
+      "sources": [
+        {
+          "title": "Great Anti-Buddhist Persecution",
+          "outlet": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Great_Anti-Buddhist_Persecution",
+          "role": "scholarship"
+        },
+        {
+          "title": "Gautama Buddha",
+          "outlet": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Gautama_Buddha",
+          "role": "scholarship"
+        },
+        {
+          "title": "Third Buddhist council",
+          "outlet": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Third_Buddhist_council",
+          "role": "scholarship"
+        },
+        {
+          "title": "Kalinga War",
+          "outlet": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Kalinga_War",
+          "role": "scholarship"
+        },
+        {
+          "title": "Kanishka",
+          "outlet": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Kanishka",
+          "role": "scholarship"
+        },
+        {
+          "title": "Lokaksema (Buddhist monk)",
+          "outlet": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Lokaksema_(Buddhist_monk)",
+          "role": "scholarship"
+        },
+        {
+          "title": "Emperor Huan of Han",
+          "outlet": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Emperor_Huan_of_Han",
+          "role": "scholarship"
+        },
+        {
+          "title": "Sosurim of Goguryeo",
+          "outlet": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Sosurim_of_Goguryeo",
+          "role": "scholarship"
+        },
+        {
+          "title": "Korean Buddhism",
+          "outlet": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Korean_Buddhism",
+          "role": "scholarship"
+        },
+        {
+          "title": "Buddhism in Japan",
+          "outlet": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Buddhism_in_Japan",
+          "role": "scholarship"
+        }
+      ],
+      "memeplex": {
+        "ideas": [
+          "buddhas_dharma",
+          "zen",
+          "shinto"
+        ]
+      },
+      "path": "atlas/528bc-how-buddhism-spread/index.md",
+      "words": 1108
+    },
+    {
+      "slug": "1206-the-mongol-empire",
+      "kind": "atlas",
+      "tour_kind": "narrative",
+      "desk": "ΛRX Atlas",
+      "author": "ΛRX Atlas",
+      "category": "Tour",
+      "tour": "mongol-empire",
+      "series": [
+        "atlas"
+      ],
+      "title": "The Mongol Empire",
+      "dek": "Of how a steppe confederation built the largest land empire yet seen, and broke apart over the rule that made it.",
+      "date": "1206–1346",
+      "year": 1206,
+      "location": "Onon River, Mongolia",
+      "coords": [
+        48.8,
+        110.5
+      ],
+      "card": "atlas/1206-the-mongol-empire/card.png",
+      "art": "atlas/1206-the-mongol-empire/art.jpg",
+      "pair": {
+        "left_label": "As the Victims Tell It",
+        "left": "Chroniclers from Baghdad to Hungary describe the Mongols as a scourge sent to punish sin, sparing no one.",
+        "right_label": "As the Evidence Allows",
+        "right": "The killing was real and vast. So were the trade, the post roads and the movement of people and ideas across one jurisdiction. Both came from the same machine."
+      },
+      "tags": [
+        "mongols",
+        "genghis-khan",
+        "steppe",
+        "silk-road",
+        "yuan",
+        "black-death"
+      ],
+      "witnesses": [
+        "The Secret History of the Mongols",
+        "Rashid al-Din, Compendium of Chronicles",
+        "Gabriel de Mussis, account of the siege of Caffa"
+      ],
+      "sources": [
+        {
+          "title": "Mongol invasion of the Khwarazmian Empire",
+          "outlet": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Mongol_invasion_of_the_Khwarazmian_Empire",
+          "role": "scholarship"
+        },
+        {
+          "title": "Mongol Empire",
+          "outlet": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Mongol_Empire",
+          "role": "scholarship"
+        },
+        {
+          "title": "Mongol conquest of the Jin dynasty",
+          "outlet": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Mongol_conquest_of_the_Jin_dynasty",
+          "role": "scholarship"
+        },
+        {
+          "title": "Genghis Khan",
+          "outlet": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Genghis_Khan",
+          "role": "scholarship"
+        },
+        {
+          "title": "Karakorum",
+          "outlet": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Karakorum",
+          "role": "scholarship"
+        },
+        {
+          "title": "Battle of Mohi",
+          "outlet": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Battle_of_Mohi",
+          "role": "scholarship"
+        },
+        {
+          "title": "Siege of Baghdad (1258)",
+          "outlet": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Siege_of_Baghdad_(1258)",
+          "role": "scholarship"
+        },
+        {
+          "title": "Battle of Ain Jalut",
+          "outlet": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Battle_of_Ain_Jalut",
+          "role": "scholarship"
+        },
+        {
+          "title": "Division of the Mongol Empire",
+          "outlet": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Division_of_the_Mongol_Empire",
+          "role": "scholarship"
+        },
+        {
+          "title": "Yuan dynasty",
+          "outlet": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Yuan_dynasty",
+          "role": "scholarship"
+        },
+        {
+          "title": "Siege of Caffa",
+          "outlet": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Siege_of_Caffa",
+          "role": "scholarship"
+        }
+      ],
+      "memeplex": {
+        "ideas": [
+          "neo_confucianism",
+          "vajrayana"
+        ]
+      },
+      "path": "atlas/1206-the-mongol-empire/index.md",
+      "words": 1359
+    },
+    {
+      "slug": "1071-the-long-fall-of-constantinople",
+      "kind": "atlas",
+      "tour_kind": "narrative",
+      "desk": "ΛRX Atlas",
+      "author": "ΛRX Atlas",
+      "category": "Tour",
+      "tour": "fall-of-constantinople",
+      "series": [
+        "atlas"
+      ],
+      "title": "The Long Fall of Constantinople",
+      "dek": "Of how the city that held for a thousand years was first emptied by its friends, and only then taken by its enemy.",
+      "date": "1071–1453",
+      "year": 1453,
+      "location": "Constantinople",
+      "coords": [
+        41.008,
+        28.978
+      ],
+      "card": "atlas/1071-the-long-fall-of-constantinople/card.png",
+      "art": "atlas/1071-the-long-fall-of-constantinople/art.jpg",
+      "pair": {
+        "left_label": "As the Chroniclers Tell It",
+        "left": "The city fell to a great sultan and a great cannon on 29 May 1453, after a heroic last stand.",
+        "right_label": "As the Evidence Allows",
+        "right": "By 1453 the empire had lost its army, its provinces and its money over four centuries. The siege finished a state that could no longer pay for its own defense."
+      },
+      "tags": [
+        "byzantium",
+        "ottomans",
+        "constantinople",
+        "crusades",
+        "venice",
+        "seljuks",
+        "mehmed-ii"
+      ],
+      "witnesses": [
+        "Michael Attaleiates, History",
+        "Geoffrey of Villehardouin, The Conquest of Constantinople",
+        "George Sphrantzes, Chronicle",
+        "Doukas, Historia Turco-Byzantina"
+      ],
+      "sources": [
+        {
+          "title": "Fall of Constantinople",
+          "outlet": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Fall_of_Constantinople",
+          "role": "scholarship"
+        },
+        {
+          "title": "Battle of Manzikert",
+          "outlet": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Battle_of_Manzikert",
+          "role": "scholarship"
+        },
+        {
+          "title": "Alexios I Komnenos",
+          "outlet": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Alexios_I_Komnenos",
+          "role": "scholarship"
+        },
+        {
+          "title": "Fourth Crusade",
+          "outlet": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Fourth_Crusade",
+          "role": "scholarship"
+        },
+        {
+          "title": "Sack of Constantinople",
+          "outlet": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Sack_of_Constantinople",
+          "role": "scholarship"
+        },
+        {
+          "title": "Reconquest of Constantinople",
+          "outlet": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Reconquest_of_Constantinople",
+          "role": "scholarship"
+        },
+        {
+          "title": "Gallipoli",
+          "outlet": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Gallipoli",
+          "role": "scholarship"
+        },
+        {
+          "title": "Battle of Kosovo",
+          "outlet": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Battle_of_Kosovo",
+          "role": "scholarship"
+        },
+        {
+          "title": "Battle of Ankara",
+          "outlet": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Battle_of_Ankara",
+          "role": "scholarship"
+        },
+        {
+          "title": "Battle of Varna",
+          "outlet": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Battle_of_Varna",
+          "role": "scholarship"
+        },
+        {
+          "title": "Rumelihisarı",
+          "outlet": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Rumelihisar%C4%B1",
+          "role": "scholarship"
+        },
+        {
+          "title": "Constantine XI Palaiologos",
+          "outlet": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Constantine_XI_Palaiologos",
+          "role": "scholarship"
+        }
+      ],
+      "memeplex": {
+        "ideas": [
+          "eastern_orthodoxy",
+          "renaissance_humanism"
+        ]
+      },
+      "path": "atlas/1071-the-long-fall-of-constantinople/index.md",
+      "words": 1376
+    },
+    {
+      "slug": "1517-the-reformation-and-its-wars",
+      "kind": "atlas",
+      "tour_kind": "narrative",
+      "desk": "ΛRX Atlas",
+      "author": "ΛRX Atlas",
+      "category": "Tour",
+      "tour": "reformation",
+      "series": [
+        "atlas"
+      ],
+      "title": "The Reformation and Its Wars",
+      "dek": "Of how a friar's protest became a princes' settlement, and why it took 131 years and a continental war to finish.",
+      "date": "1517–1648",
+      "year": 1517,
+      "location": "Wittenberg, Holy Roman Empire",
+      "coords": [
+        51.866,
+        12.648
+      ],
+      "card": "atlas/1517-the-reformation-and-its-wars/card.png",
+      "art": "atlas/1517-the-reformation-and-its-wars/art.jpg",
+      "pair": {
+        "left_label": "As the Reformers Tell It",
+        "left": "A lone monk read Scripture, found the Church in error, and the truth he printed set Europe free.",
+        "right_label": "As the Evidence Allows",
+        "right": "The protest survived because printers sold it and princes protected it. Princes, not theologians, drew the final confessional map."
+      },
+      "tags": [
+        "reformation",
+        "luther",
+        "printing",
+        "princes",
+        "holy-roman-empire",
+        "thirty-years-war",
+        "westphalia"
+      ],
+      "witnesses": [
+        "Martin Luther, Ninety-five Theses (1517)",
+        "Martin Luther, Against the Murderous, Thieving Hordes of Peasants (1525)",
+        "The Augsburg Confession (1530)",
+        "The Peace of Augsburg (1555)",
+        "The Treaties of Münster and Osnabrück (1648)"
+      ],
+      "sources": [
+        {
+          "title": "Ninety-five Theses",
+          "outlet": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Ninety-five_Theses",
+          "role": "scholarship"
+        },
+        {
+          "title": "Printing press",
+          "outlet": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Printing_press",
+          "role": "scholarship"
+        },
+        {
+          "title": "Diet of Worms",
+          "outlet": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Diet_of_Worms",
+          "role": "scholarship"
+        },
+        {
+          "title": "German Peasants' War",
+          "outlet": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/German_Peasants'_War",
+          "role": "scholarship"
+        },
+        {
+          "title": "Augsburg Confession",
+          "outlet": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Augsburg_Confession",
+          "role": "scholarship"
+        },
+        {
+          "title": "Acts of Supremacy",
+          "outlet": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Acts_of_Supremacy",
+          "role": "scholarship"
+        },
+        {
+          "title": "Ecclesiastical Ordinances",
+          "outlet": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Ecclesiastical_Ordinances",
+          "role": "scholarship"
+        },
+        {
+          "title": "Council of Trent",
+          "outlet": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Council_of_Trent",
+          "role": "scholarship"
+        },
+        {
+          "title": "Peace of Augsburg",
+          "outlet": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Peace_of_Augsburg",
+          "role": "scholarship"
+        },
+        {
+          "title": "Defenestrations of Prague",
+          "outlet": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Defenestrations_of_Prague",
+          "role": "scholarship"
+        },
+        {
+          "title": "Peace of Westphalia",
+          "outlet": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Peace_of_Westphalia",
+          "role": "scholarship"
+        }
+      ],
+      "memeplex": {
+        "ideas": [
+          "protestantism",
+          "calvinism",
+          "anglicanism",
+          "anabaptism",
+          "tridentine_catholicism"
+        ]
+      },
+      "path": "atlas/1517-the-reformation-and-its-wars/index.md",
+      "words": 1374
+    },
+    {
+      "slug": "1082-merchant-republics-to-amsterdam-and-london",
+      "kind": "atlas",
+      "tour_kind": "narrative",
+      "desk": "ΛRX Atlas",
+      "author": "ΛRX Atlas",
+      "category": "Tour",
+      "tour": "merchant-republics",
+      "series": [
+        "atlas"
+      ],
+      "title": "Merchant Republics to Amsterdam and London",
+      "dek": "Of how the center of European trade and credit moved north, from Venice and Genoa to Antwerp, Amsterdam and London, carried by wars, defaults and refugees.",
+      "date": "1082–1688",
+      "year": 1585,
+      "location": "Antwerp",
+      "coords": [
+        51.2194,
+        4.4025
+      ],
+      "card": "atlas/1082-merchant-republics-to-amsterdam-and-london/card.png",
+      "art": "atlas/1082-merchant-republics-to-amsterdam-and-london/art.jpg",
+      "pair": {
+        "left_label": "As the Merchants Tell It",
+        "left": "Thrift, enterprise and good government made each city rich in turn.",
+        "right_label": "As the Evidence Allows",
+        "right": "Each city rose by financing a stronger power's wars and fell when that power defaulted, conquered it, or found a better lender. Capital moved with people fleeing war."
+      },
+      "tags": [
+        "venice",
+        "genoa",
+        "florence",
+        "antwerp",
+        "amsterdam",
+        "london",
+        "banking",
+        "trade"
+      ],
+      "witnesses": [
+        "Chrysobull of Alexios I for Venice (1082)",
+        "Account books of the Peruzzi company (1335–1343)",
+        "Terms of surrender of Antwerp (1585)",
+        "Charter of the Dutch East India Company (1602)"
+      ],
+      "sources": [
+        {
+          "title": "Fall of Antwerp",
+          "outlet": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Fall_of_Antwerp",
+          "role": "scholarship"
+        },
+        {
+          "title": "Byzantine–Venetian treaty of 1082",
+          "outlet": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Byzantine%E2%80%93Venetian_treaty_of_1082",
+          "role": "scholarship"
+        },
+        {
+          "title": "Fourth Crusade",
+          "outlet": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Fourth_Crusade",
+          "role": "scholarship"
+        },
+        {
+          "title": "Enrico Dandolo",
+          "outlet": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Enrico_Dandolo",
+          "role": "scholarship"
+        },
+        {
+          "title": "Bardi family",
+          "outlet": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Bardi_family",
+          "role": "scholarship"
+        },
+        {
+          "title": "Peruzzi",
+          "outlet": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Peruzzi",
+          "role": "scholarship"
+        },
+        {
+          "title": "Andrea Doria",
+          "outlet": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Andrea_Doria",
+          "role": "scholarship"
+        },
+        {
+          "title": "Republic of Genoa",
+          "outlet": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Republic_of_Genoa",
+          "role": "scholarship"
+        },
+        {
+          "title": "Philip II of Spain",
+          "outlet": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Philip_II_of_Spain",
+          "role": "scholarship"
+        },
+        {
+          "title": "Dutch East India Company",
+          "outlet": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Dutch_East_India_Company",
+          "role": "scholarship"
+        },
+        {
+          "title": "Rampjaar",
+          "outlet": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Rampjaar",
+          "role": "scholarship"
+        },
+        {
+          "title": "Glorious Revolution",
+          "outlet": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Glorious_Revolution",
+          "role": "scholarship"
+        },
+        {
+          "title": "Financial Revolution",
+          "outlet": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Financial_Revolution",
+          "role": "scholarship"
+        }
+      ],
+      "memeplex": {
+        "ideas": [
+          "calvinism",
+          "enlightenment_liberalism",
+          "eastern_orthodoxy"
+        ]
+      },
+      "path": "atlas/1082-merchant-republics-to-amsterdam-and-london/index.md",
+      "words": 1344
+    },
+    {
+      "slug": "600bc-money-and-central-banking",
+      "kind": "atlas",
+      "tour_kind": "narrative",
+      "desk": "ΛRX Atlas",
+      "author": "ΛRX Atlas",
+      "category": "Tour",
+      "tour": "money-and-central-banking",
+      "series": [
+        "atlas"
+      ],
+      "title": "Money and Central Banking",
+      "dek": "Of how money passed from stamped metal to a government's promise, and how lenders and rulers built the banks that keep it.",
+      "date": "c. 600 BC–AD 1971",
+      "year": 1694,
+      "location": "London",
+      "coords": [
+        51.5142,
+        -0.0885
+      ],
+      "card": "atlas/600bc-money-and-central-banking/card.png",
+      "art": "atlas/600bc-money-and-central-banking/art.jpg",
+      "pair": {
+        "left_label": "As the Bankers Tell It",
+        "left": "Sound institutions, built by prudent men, gave nations stable money and cheap credit.",
+        "right_label": "As the Evidence Allows",
+        "right": "Each new institution was a deal between a ruler who needed to borrow and lenders who wanted security. When the deal broke, the money did too."
+      },
+      "tags": [
+        "money",
+        "banking",
+        "central-banks",
+        "florence",
+        "genoa",
+        "amsterdam",
+        "bank-of-england",
+        "bretton-woods"
+      ],
+      "witnesses": [
+        "Leonardo of Pisa, Liber Abaci (1202)",
+        "Bank of England Act (1694)",
+        "Federal Reserve Act (1913)",
+        "Bretton Woods Agreements (1944)"
+      ],
+      "sources": [
+        {
+          "title": "Bank of England",
+          "outlet": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Bank_of_England",
+          "role": "scholarship"
+        },
+        {
+          "title": "Lydia",
+          "outlet": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Lydia",
+          "role": "scholarship"
+        },
+        {
+          "title": "Electrum",
+          "outlet": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Electrum",
+          "role": "scholarship"
+        },
+        {
+          "title": "Liber Abaci",
+          "outlet": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Liber_Abaci",
+          "role": "scholarship"
+        },
+        {
+          "title": "Florin",
+          "outlet": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Florin",
+          "role": "scholarship"
+        },
+        {
+          "title": "Medici Bank",
+          "outlet": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Medici_Bank",
+          "role": "scholarship"
+        },
+        {
+          "title": "Bank of Saint George",
+          "outlet": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Bank_of_Saint_George",
+          "role": "scholarship"
+        },
+        {
+          "title": "Bank of Amsterdam",
+          "outlet": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Bank_of_Amsterdam",
+          "role": "scholarship"
+        },
+        {
+          "title": "Stockholms Banco",
+          "outlet": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Stockholms_Banco",
+          "role": "scholarship"
+        },
+        {
+          "title": "Sveriges Riksbank",
+          "outlet": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Sveriges_Riksbank",
+          "role": "scholarship"
+        },
+        {
+          "title": "Mississippi Company",
+          "outlet": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Mississippi_Company",
+          "role": "scholarship"
+        },
+        {
+          "title": "Panic of 1907",
+          "outlet": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Panic_of_1907",
+          "role": "scholarship"
+        },
+        {
+          "title": "Federal Reserve Act",
+          "outlet": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Federal_Reserve_Act",
+          "role": "scholarship"
+        },
+        {
+          "title": "Bretton Woods Conference",
+          "outlet": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Bretton_Woods_Conference",
+          "role": "scholarship"
+        },
+        {
+          "title": "Nixon shock",
+          "outlet": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Nixon_shock",
+          "role": "scholarship"
+        }
+      ],
+      "memeplex": {
+        "ideas": [
+          "neoliberalism",
+          "new_deal_liberalism",
+          "enlightenment_liberalism"
+        ]
+      },
+      "path": "atlas/600bc-money-and-central-banking/index.md",
+      "words": 1479
+    },
+    {
+      "slug": "1763-the-age-of-revolutions",
+      "kind": "atlas",
+      "tour_kind": "narrative",
+      "desk": "ΛRX Atlas",
+      "author": "ΛRX Atlas",
+      "category": "Tour",
+      "tour": "age-of-revolutions",
+      "series": [
+        "atlas"
+      ],
+      "title": "The Age of Revolutions",
+      "dek": "Of how the cost of winning wars broke three empires, and how revolution passed from Boston to Paris to Saint-Domingue to Caracas.",
+      "date": "1763–1824",
+      "year": 1776,
+      "location": "Paris",
+      "coords": [
+        48.8566,
+        2.3522
+      ],
+      "card": "atlas/1763-the-age-of-revolutions/card.png",
+      "art": "atlas/1763-the-age-of-revolutions/art.jpg",
+      "pair": {
+        "left_label": "As the Revolutionaries Tell It",
+        "left": "Free peoples rose against tyranny in the name of the rights of man, and each revolution inspired the next.",
+        "right_label": "As the Evidence Allows",
+        "right": "Each revolution began in a fiscal or dynastic crisis of the empire above it. Ideas spread fast, but war debt and empty thrones opened the door."
+      },
+      "tags": [
+        "revolution",
+        "american-revolution",
+        "french-revolution",
+        "haiti",
+        "latin-america",
+        "debt",
+        "empire"
+      ],
+      "witnesses": [
+        "The Stamp Act (1765) and the resolutions of the Stamp Act Congress",
+        "The Declaration of Independence (1776)",
+        "The Haitian Declaration of Independence (1804)",
+        "The Abdications of Bayonne (1808)"
+      ],
+      "sources": [
+        {
+          "title": "Storming of the Bastille",
+          "outlet": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Storming_of_the_Bastille",
+          "role": "scholarship"
+        },
+        {
+          "title": "Treaty of Paris (1763)",
+          "outlet": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Treaty_of_Paris_(1763)",
+          "role": "scholarship"
+        },
+        {
+          "title": "Stamp Act 1765",
+          "outlet": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Stamp_Act_1765",
+          "role": "scholarship"
+        },
+        {
+          "title": "United States Declaration of Independence",
+          "outlet": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/United_States_Declaration_of_Independence",
+          "role": "scholarship"
+        },
+        {
+          "title": "France in the American Revolutionary War",
+          "outlet": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/France_in_the_American_Revolutionary_War",
+          "role": "scholarship"
+        },
+        {
+          "title": "Treaty of Paris (1783)",
+          "outlet": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Treaty_of_Paris_(1783)",
+          "role": "scholarship"
+        },
+        {
+          "title": "Haitian Revolution",
+          "outlet": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Haitian_Revolution",
+          "role": "scholarship"
+        },
+        {
+          "title": "Bois Caïman",
+          "outlet": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Bois_Ca%C3%AFman",
+          "role": "scholarship"
+        },
+        {
+          "title": "Haitian Declaration of Independence",
+          "outlet": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Haitian_Declaration_of_Independence",
+          "role": "scholarship"
+        },
+        {
+          "title": "Abdications of Bayonne",
+          "outlet": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Abdications_of_Bayonne",
+          "role": "scholarship"
+        },
+        {
+          "title": "Spanish American wars of independence",
+          "outlet": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Spanish_American_wars_of_independence",
+          "role": "scholarship"
+        },
+        {
+          "title": "Battle of Ayacucho",
+          "outlet": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Battle_of_Ayacucho",
+          "role": "scholarship"
+        }
+      ],
+      "memeplex": {
+        "ideas": [
+          "enlightenment_liberalism",
+          "social_contract",
+          "nationalism",
+          "burkean_conservatism"
+        ]
+      },
+      "path": "atlas/1763-the-age-of-revolutions/index.md",
+      "words": 1339
+    },
+    {
+      "slug": "1757-opium-trade-and-the-qing",
+      "kind": "atlas",
+      "tour_kind": "narrative",
+      "desk": "ΛRX Atlas",
+      "author": "ΛRX Atlas",
+      "category": "Tour",
+      "tour": "opium-wars",
+      "series": [
+        "atlas"
+      ],
+      "title": "Opium, Trade and the Qing",
+      "dek": "Of how Britain paid for its tea with Indian opium, went to war to keep selling it, and opened China to a century of foreign power.",
+      "date": "1757–1901",
+      "year": 1839,
+      "location": "Humen, Guangdong",
+      "coords": [
+        22.82,
+        113.67
+      ],
+      "card": "atlas/1757-opium-trade-and-the-qing/card.png",
+      "art": "atlas/1757-opium-trade-and-the-qing/art.jpg",
+      "pair": {
+        "left_label": "As Each Side Told It",
+        "left": "British officials spoke of free trade and equal diplomacy; Qing officials spoke of a poison smuggled in by barbarians who would not obey the law.",
+        "right_label": "As the Evidence Allows",
+        "right": "Both sides were defending money. Britain needed opium to pay for tea; the Qing needed silver and authority. Force decided the question, and the Qing paid the bill for sixty years."
+      },
+      "tags": [
+        "china",
+        "qing",
+        "opium",
+        "east-india-company",
+        "hong-kong",
+        "taiping",
+        "boxers"
+      ],
+      "witnesses": [
+        "Qianlong Emperor, edict to George III (1793)",
+        "Lin Zexu, letter to Queen Victoria (1839)",
+        "Treaty of Nanking (1842)",
+        "Boxer Protocol (1901)"
+      ],
+      "sources": [
+        {
+          "title": "Lin Zexu",
+          "outlet": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Lin_Zexu",
+          "role": "scholarship"
+        },
+        {
+          "title": "Destruction of opium at Humen",
+          "outlet": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Destruction_of_opium_at_Humen",
+          "role": "scholarship"
+        },
+        {
+          "title": "Canton System",
+          "outlet": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Canton_System",
+          "role": "scholarship"
+        },
+        {
+          "title": "Opium trade",
+          "outlet": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Opium_trade",
+          "role": "scholarship"
+        },
+        {
+          "title": "Macartney Embassy",
+          "outlet": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Macartney_Embassy",
+          "role": "scholarship"
+        },
+        {
+          "title": "First Opium War",
+          "outlet": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/First_Opium_War",
+          "role": "scholarship"
+        },
+        {
+          "title": "Treaty of Nanking",
+          "outlet": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Treaty_of_Nanking",
+          "role": "scholarship"
+        },
+        {
+          "title": "Taiping Rebellion",
+          "outlet": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Taiping_Rebellion",
+          "role": "scholarship"
+        },
+        {
+          "title": "Second Opium War",
+          "outlet": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Second_Opium_War",
+          "role": "scholarship"
+        },
+        {
+          "title": "Old Summer Palace",
+          "outlet": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Old_Summer_Palace",
+          "role": "scholarship"
+        },
+        {
+          "title": "Self-Strengthening Movement",
+          "outlet": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Self-Strengthening_Movement",
+          "role": "scholarship"
+        },
+        {
+          "title": "Boxer Rebellion",
+          "outlet": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Boxer_Rebellion",
+          "role": "scholarship"
+        }
+      ],
+      "memeplex": {
+        "ideas": [
+          "confucian_ethics",
+          "christianity"
+        ]
+      },
+      "path": "atlas/1757-opium-trade-and-the-qing/index.md",
+      "words": 1271
+    },
+    {
+      "slug": "1917-russian-revolution",
+      "kind": "atlas",
+      "desk": "ΛRX Atlas",
+      "author": "ΛRX Atlas",
+      "category": "Event",
+      "title": "The Russian Revolution",
+      "dek": "Of how the Bolsheviks took the capital, and turned the state against the Church.",
+      "date": "1917",
+      "year": 1917,
+      "location": "Petrograd, Russia",
+      "coords": [
+        59.9343,
+        30.3061
+      ],
+      "card": "atlas/1917-russian-revolution/card.png",
+      "art": "atlas/1917-russian-revolution/art.jpg",
+      "pair": {
+        "left_label": "As the Church Remembers It",
+        "left": "The Church counts its martyrs by the thousand, from the executions of the civil war to the purges of 1937–38.",
+        "right_label": "As the Evidence Allows",
+        "right": "The persecution is not in doubt; its toll is. Counts of clergy killed run from about 1,200 to more than 100,000, depending on years and sources."
+      },
+      "tags": [
+        "russia",
+        "revolution",
+        "bolsheviks",
+        "orthodox-church",
+        "state-atheism",
+        "religion"
+      ],
+      "witnesses": [
+        "John Reed, Ten Days That Shook the World (1919)",
+        "Patriarch Tikhon's anathema of January 1918",
+        "Lenin's secret letter on the seizure of church valuables (1922)"
+      ],
+      "sources": [
+        {
+          "title": "October Revolution",
+          "outlet": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/October_Revolution",
+          "role": "scholarship"
+        },
+        {
+          "title": "Persecution of Christians in the Soviet Union",
+          "outlet": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Persecution_of_Christians_in_the_Soviet_Union",
+          "role": "scholarship"
+        },
+        {
+          "title": "State atheism",
+          "outlet": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/State_atheism",
+          "role": "scholarship"
+        },
+        {
+          "title": "Saint Isaac's Cathedral",
+          "outlet": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Saint_Isaac%27s_Cathedral",
+          "role": "scholarship"
+        }
+      ],
+      "path": "atlas/1917-russian-revolution/index.md",
+      "words": 621
+    },
+    {
+      "slug": "1918-the-great-war",
+      "kind": "atlas",
+      "desk": "ΛRX Atlas",
+      "author": "ΛRX Atlas",
+      "category": "Event",
+      "title": "1918: The Great War Ends",
+      "dek": "Of how four years of industrial war ended in a railway carriage, and what the peace that followed left to the century.",
+      "date": "1918",
+      "year": 1918,
+      "location": "Compiègne, France · Western Front",
+      "coords": [
+        49.4273,
+        2.9064
+      ],
+      "card": "atlas/1918-the-great-war/card.png",
+      "art": "atlas/1918-the-great-war/art.jpg",
+      "pair": {
+        "left_label": "As the Witnesses Tell It",
+        "left": "Soldiers on the line remembered the last morning as silence and exhaustion, Germans bowing as they withdrew, shelling that went on to dusk.",
+        "right_label": "As the Evidence Allows",
+        "right": "The dead are counted in ranges, not totals; civilian and pandemic figures in particular vary by millions between estimates."
+      },
+      "tags": [
+        "world-war-i",
+        1918,
+        "armistice",
+        "empires",
+        "versailles",
+        "influenza"
+      ],
+      "witnesses": [
+        "British and American soldiers' accounts of 11 November 1918",
+        "Marshal Ferdinand Foch, on the Treaty of Versailles"
+      ],
+      "sources": [
+        {
+          "title": "Armistice of 11 November 1918",
+          "outlet": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Armistice_of_11_November_1918",
+          "role": "scholarship"
+        },
+        {
+          "title": "World War I casualties",
+          "outlet": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/World_War_I_casualties",
+          "role": "scholarship"
+        },
+        {
+          "title": "Spanish flu",
+          "outlet": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Spanish_flu",
+          "role": "scholarship"
+        },
+        {
+          "title": "Paris Peace Conference (1919–1920)",
+          "outlet": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Paris_Peace_Conference_(1919–1920)",
+          "role": "scholarship"
+        },
+        {
+          "title": "Aftermath of World War I",
+          "outlet": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Aftermath_of_World_War_I",
+          "role": "scholarship"
+        }
+      ],
+      "path": "atlas/1918-the-great-war/index.md",
+      "words": 623
+    },
+    {
+      "slug": "1885-decolonization",
+      "kind": "atlas",
+      "tour_kind": "narrative",
+      "desk": "ΛRX Atlas",
+      "author": "ΛRX Atlas",
+      "category": "Tour",
+      "tour": "decolonization",
+      "series": [
+        "atlas"
+      ],
+      "title": "Decolonization",
+      "dek": "Of how Europe's empires divided Africa and Asia, armed their subjects with the language of self-determination, and lost them within two generations.",
+      "date": "1884–1962",
+      "year": 1960,
+      "location": "Accra, Ghana",
+      "coords": [
+        5.556,
+        -0.1969
+      ],
+      "card": "atlas/1885-decolonization/card.png",
+      "art": "atlas/1885-decolonization/art.jpg",
+      "pair": {
+        "left_label": "As the Nationalists Tell It",
+        "left": "Peoples long held in subjection rose and took back their freedom.",
+        "right_label": "As the Evidence Allows",
+        "right": "Nationalist movements won, but they won against powers that two world wars had weakened, bankrupted and placed under American and Soviet pressure. The timing came from Europe's exhaustion."
+      },
+      "tags": [
+        "decolonization",
+        "empire",
+        "self-determination",
+        "india",
+        "indonesia",
+        "algeria",
+        "africa",
+        "suez"
+      ],
+      "witnesses": [
+        "General Act of the Berlin Conference (1885)",
+        "Nguyễn Ái Quốc and others, petition to the Versailles conference (1919)",
+        "The Atlantic Charter (1941)",
+        "UN General Assembly Resolution 1514 (1960)",
+        "Évian Accords (1962)"
+      ],
+      "sources": [
+        {
+          "title": "Ho Chi Minh",
+          "outlet": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Ho_Chi_Minh",
+          "role": "scholarship"
+        },
+        {
+          "title": "Berlin Conference",
+          "outlet": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Berlin_Conference",
+          "role": "scholarship"
+        },
+        {
+          "title": "Atlantic Charter",
+          "outlet": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Atlantic_Charter",
+          "role": "scholarship"
+        },
+        {
+          "title": "Partition of India",
+          "outlet": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Partition_of_India",
+          "role": "scholarship"
+        },
+        {
+          "title": "Indonesian National Revolution",
+          "outlet": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Indonesian_National_Revolution",
+          "role": "scholarship"
+        },
+        {
+          "title": "Battle of Dien Bien Phu",
+          "outlet": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Battle_of_Dien_Bien_Phu",
+          "role": "scholarship"
+        },
+        {
+          "title": "Algerian War",
+          "outlet": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Algerian_War",
+          "role": "scholarship"
+        },
+        {
+          "title": "Asian–African Conference",
+          "outlet": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Asian%E2%80%93African_Conference",
+          "role": "scholarship"
+        },
+        {
+          "title": "Suez Crisis",
+          "outlet": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Suez_Crisis",
+          "role": "scholarship"
+        },
+        {
+          "title": "Gold Coast (British colony)",
+          "outlet": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Gold_Coast_(British_colony)",
+          "role": "scholarship"
+        },
+        {
+          "title": "Wind of Change (speech)",
+          "outlet": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Wind_of_Change_(speech)",
+          "role": "scholarship"
+        },
+        {
+          "title": "Year of Africa",
+          "outlet": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Year_of_Africa",
+          "role": "scholarship"
+        },
+        {
+          "title": "Declaration on the Granting of Independence to Colonial Countries and Peoples",
+          "outlet": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Declaration_on_the_Granting_of_Independence_to_Colonial_Countries_and_Peoples",
+          "role": "scholarship"
+        },
+        {
+          "title": "Évian Accords",
+          "outlet": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/%C3%89vian_Accords",
+          "role": "scholarship"
+        }
+      ],
+      "memeplex": {
+        "ideas": [
+          "nationalism",
+          "enlightenment_liberalism",
+          "marxism"
+        ]
+      },
+      "path": "atlas/1885-decolonization/index.md",
+      "words": 1291
+    },
+    {
+      "slug": "1962-second-vatican-council",
+      "kind": "atlas",
+      "desk": "ΛRX Atlas",
+      "author": "ΛRX Atlas",
+      "category": "Event",
+      "title": "Second Vatican Council",
+      "dek": "Of how an old pope called the bishops of the world to Rome, and what they changed.",
+      "date": "1962–1965",
+      "year": 1962,
+      "location": "St Peter's Basilica, Rome",
+      "coords": [
+        41.9022,
+        12.4539
+      ],
+      "card": "atlas/1962-second-vatican-council/card.png",
+      "art": "atlas/1962-second-vatican-council/art.jpg",
+      "pair": {
+        "left_label": "As the Council Tells It",
+        "left": "John XXIII spoke of aggiornamento, bringing the Church up to date, and asked for \"the medicine of mercy\" rather than condemnation.",
+        "right_label": "As the Interpreters Divide",
+        "right": "Benedict XVI read the council as reform within continuity; traditionalists hold three of its texts break with earlier teaching."
+      },
+      "tags": [
+        "catholic-church",
+        "vatican-ii",
+        "papacy",
+        "religion",
+        "20th-century"
+      ],
+      "witnesses": [
+        "John XXIII, Gaudet Mater Ecclesia (opening address, 11 October 1962)",
+        "The sixteen conciliar documents (1963–1965)",
+        "Benedict XVI, address to the Roman Curia (22 December 2005)"
+      ],
+      "sources": [
+        {
+          "title": "Second Vatican Council",
+          "outlet": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Second_Vatican_Council",
+          "role": "scholarship"
+        },
+        {
+          "title": "John XXIII and the open window",
+          "outlet": "U.S. Catholic",
+          "url": "https://uscatholic.org/?p=71304",
+          "role": "context"
+        },
+        {
+          "title": "Religion News Service on John XXIII",
+          "outlet": "Religion News Service",
+          "url": "https://religionnews.com/?p=26108",
+          "role": "context"
+        }
+      ],
+      "path": "atlas/1962-second-vatican-council/index.md",
+      "words": 665
+    }
+  ]
+}

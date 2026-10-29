@@ -1,0 +1,33 @@
+{
+ "layout": "card",
+ "art": "art.jpg",
+ "desk": "ΛRX INTERCEPT",
+ "meta": "24 Jun 2023 · Rostov-on-Don",
+ "title": "Wagner Marches on Moscow, Then Turns Back",
+ "title_size": 52,
+ "dek": "Yevgeny Prigozhin's mercenaries take Rostov-on-Don and drive north for a day before a deal brokered by Alexander Lukashenko halts them.",
+ "body": "Prigozhin said his men came within 200 km of Moscow. Two months later his jet crashed, killing all 10 aboard.",
+ "panels": [
+  {
+   "icon": "flame",
+   "label": "Putin Says",
+   "text": "Putin calls the mutiny “a knife in the back” of Russia and “treason” born of “inflated ambitions.”"
+  },
+  {
+   "icon": "eye",
+   "label": "Prigozhin Said",
+   "text": "Prigozhin called it “a march of justice” and turned back so no “Russian blood” would be spilled."
+  },
+  {
+   "icon": "scales",
+   "label": "The Stakes",
+   "text": "One side calls it treason, the other justice; at stake is whether anyone but the Kremlin may command armed men in Russia."
+  }
+ ],
+ "focus": [
+  700,
+  330
+ ],
+ "grade": "none",
+ "caption": "Photo: Fargoh, CC0"
+}

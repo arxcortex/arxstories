@@ -1,0 +1,33 @@
+{
+ "layout": "card",
+ "art": "art.jpg",
+ "desk": "ΛRX INTERCEPT",
+ "meta": "15 Aug 2021 · Kabul",
+ "title": "Taliban Take Kabul as the Afghan Republic Collapses",
+ "title_size": 52,
+ "dek": "Ashraf Ghani flees, and a US-led airlift flies out more than 123,000 people before the last troops leave on 30 August.",
+ "body": "Taliban fighters entered Kabul on 15 August 2021. An Islamic State bomber killed 13 US troops and 169 Afghans at the airport on 26 August.",
+ "panels": [
+  {
+   "icon": "flame",
+   "label": "Washington Says",
+   "text": "Biden says he stands “squarely” behind his decision; Blinken says “this is manifestly not Saigon.”"
+  },
+  {
+   "icon": "eye",
+   "label": "Allied Critics Say",
+   "text": "Laschet says it is NATO’s “biggest debacle” since its creation; Tugendhat says it was “like a rug pulled from under” partners."
+  },
+  {
+   "icon": "scales",
+   "label": "The Stakes",
+   "text": "One side says it ended a war it could not win, the other that it broke faith with partners; at stake is what a US guarantee is worth."
+  }
+ ],
+ "focus": [
+  640,
+  330
+ ],
+ "grade": "none",
+ "caption": "US Marine Corps photo"
+}

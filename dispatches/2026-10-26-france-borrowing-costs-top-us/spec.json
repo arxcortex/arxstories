@@ -1,0 +1,18 @@
+{
+ "layout": "card",
+ "art": "art.jpg",
+ "desk": "ΛRX INTERCEPT",
+ "meta": "26 Oct 2026 · Paris",
+ "title": "France's Borrowing Costs Top America's as Prefects Ban Marches",
+ "title_size": 52,
+ "dek": "France's 10-year yield broke 5% for the first time since 2002 as the budget returns to the National Assembly on 27 October.",
+ "body": "The OAT-Bund spread hit about 175 bp on 22 October, the widest since 2011. It eased to about 156 bp on Monday.",
+ "panels": [
+  {"icon": "flame", "label": "The Government Says", "text": "Lescure says France has \u201ctwo safety rails\u201d to pass a budget: Article 49.3 and ordinances."},
+  {"icon": "eye", "label": "Unions and Students Say", "text": "Binet says the government can stop the marches if it will \u201crespond immediately to the demands.\u201d"},
+  {"icon": "scales", "label": "The Stakes", "text": "One side calls the cuts a debt rescue, the other a squeeze on schools and wages; at stake is who carries France's deficit."}
+ ],
+ "focus": [760, 300],
+ "grade": "none",
+ "caption": "illustration"
+}

@@ -1,0 +1,28 @@
+{
+ "layout": "card",
+ "art": "art.jpg",
+ "desk": "ΛRX ATLAS",
+ "meta": "1884–1962 · Accra",
+ "title": "Decolonization",
+ "title_size": 76,
+ "dek": "Of how Europe's empires divided Africa and Asia, armed their subjects with the language of self-determination, and lost them within two…",
+ "panels": [
+  {
+   "icon": "scroll",
+   "label": "Nationalists Tell It",
+   "text": "Peoples long held in subjection rose and took back their freedom."
+  },
+  {
+   "icon": "eye",
+   "label": "Evidence Allows",
+   "text": "Nationalist movements won, but they won against powers that two world wars had weakened, bankrupted and placed under American and Soviet pressure.…"
+  },
+  {
+   "icon": "map",
+   "label": "The Tour",
+   "text": "11 stops on the Chronosphere globe, from Berlin to Évian-les-Bains."
+  }
+ ],
+ "grade": "warm",
+ "caption": "Historical artwork"
+}

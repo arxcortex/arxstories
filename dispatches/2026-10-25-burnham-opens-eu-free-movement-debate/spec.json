@@ -1,0 +1,18 @@
+{
+ "layout": "card",
+ "art": "art.jpg",
+ "desk": "ΛRX INTERCEPT",
+ "meta": "25 Oct 2026 · London",
+ "title": "Burnham Opens Debate on Return to EU Free Movement",
+ "title_size": 54,
+ "dek": "The prime minister says he is open to free movement but rules out the euro and Schengen.",
+ "body": "Burnham told the Sunday Times he wants an evidence-based debate. Rayner says nothing is off the table.",
+ "panels": [
+  {"icon": "flame", "label": "The Government Says", "text": "Rayner says \u201cyou can't take anything off the table\u201d and that voters should decide at a general election."},
+  {"icon": "eye", "label": "The Opposition Says", "text": "Badenoch says Burnham \u201chasn't thought this through\u201d; Jenrick says the idea is \u201cmad.\u201d"},
+  {"icon": "scales", "label": "The Stakes", "text": "One side says Brexit costs trade, the other that free movement costs control; at stake is who sets Britain's borders."}
+ ],
+ "focus": [400, 250],
+ "grade": "none",
+ "caption": "Illustration"
+}

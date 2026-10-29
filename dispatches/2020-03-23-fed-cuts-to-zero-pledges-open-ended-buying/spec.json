@@ -1,0 +1,33 @@
+{
+ "layout": "card",
+ "art": "art.jpg",
+ "desk": "ΛRX INTERCEPT",
+ "meta": "23 Mar 2020 · Washington",
+ "title": "Fed Cuts to Zero and Pledges Open-Ended Bond Buying",
+ "title_size": 46,
+ "dek": "The Federal Reserve’s balance sheet climbs from $4.3 trillion to almost $7.2 trillion in under three months.",
+ "body": "Rates went to zero on 15 March. On 23 March the Fed pledged to buy Treasuries and mortgage bonds “in the amounts needed.”",
+ "panels": [
+  {
+   "icon": "flame",
+   "label": "Powell Says",
+   "text": "Powell says the Fed “crossed a lot of red lines” and that in this crisis “you do that and then you figure it out.”"
+  },
+  {
+   "icon": "eye",
+   "label": "Summers Says",
+   "text": "Summers says the Fed’s easy-money signals are creating “a dangerous complacency” in markets."
+  },
+  {
+   "icon": "scales",
+   "label": "The Stakes",
+   "text": "One side says the rescue saved jobs and markets, the other that it stoked bubbles and inflation; at stake is how far a central bank may go."
+  }
+ ],
+ "focus": [
+  640,
+  400
+ ],
+ "grade": "none",
+ "caption": "Federal Reserve photo"
+}

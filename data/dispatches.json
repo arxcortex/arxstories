@@ -1,0 +1,2225 @@
+{
+  "desk": "ΛRX Intercept",
+  "count": 26,
+  "entries": [
+    {
+      "slug": "2026-10-28-flavio-bolsonaro-defies-passport-order-lands-in-miami",
+      "desk": "ΛRX Intercept",
+      "author": "Arx",
+      "category": "Politics",
+      "story_type": "contested",
+      "title": "Flávio Bolsonaro Defies a Passport Order and Lands in Miami",
+      "dek": "Brazil's defeated candidate crossed into Argentina and flew via Ecuador to Florida after the State Department granted his family visas. He has not been charged.",
+      "date": "2026-10-28",
+      "location": "Opa-locka, Florida, United States",
+      "coords": [
+        25.907,
+        -80.278
+      ],
+      "severity": 3,
+      "card": "dispatches/2026-10-28-flavio-bolsonaro-defies-passport-order-lands-in-miami/card.png",
+      "art": "dispatches/2026-10-28-flavio-bolsonaro-defies-passport-order-lands-in-miami/art.jpg",
+      "pair": {
+        "left_label": "Bolsonaro's Allies Say",
+        "left": "Allies say he left \"to continue the fight against tyranny\" and would otherwise be \"a political prisoner\"; his camp calls the case political.",
+        "right_label": "Brazilian Officials Say",
+        "right": "Brazilian officials warned Washington not to accept him, a State Department official told the Post; police cancelled his passports."
+      },
+      "reading": {
+        "label": "The Stakes",
+        "text": "His allies speak of \"tyranny,\" the court of a money-laundering probe; beneath both is whether Brazil can try him at all."
+      },
+      "tags": [
+        "brazil",
+        "flavio-bolsonaro",
+        "moraes",
+        "supreme-court",
+        "united-states",
+        "argentina",
+        "ecuador",
+        "extradition"
+      ],
+      "sources": [
+        {
+          "title": "Defeated presidential candidate Flávio Bolsonaro and his family land in Miami after fleeing Brazil",
+          "outlet": "AP",
+          "url": "https://apnews.com/article/brazil-election-flavio-bolsonaro-ecuador-argentina-9fc1f409ed993403736dbae07bd74bd8",
+          "role": "origin"
+        },
+        {
+          "title": "Bolsonaro is granted a U.S. visa after fleeing Brazil following election loss",
+          "outlet": "The Washington Post",
+          "url": "https://www.washingtonpost.com/world/2026/10/27/flvio-bolsonaro-fails-turn-passports-brazilians-question-his-whereabouts/",
+          "role": "origin"
+        },
+        {
+          "title": "Confusion about Flávio Bolsonaro's whereabouts after Brazil cancels his passports",
+          "outlet": "BBC News",
+          "url": "https://www.bbc.com/news/articles/ckly0xpxp243o",
+          "role": "origin"
+        },
+        {
+          "title": "Como Flávio entrou na Argentina e nos EUA? Veja quais passaportes ele usou",
+          "outlet": "CNN Brasil",
+          "url": "https://www.cnnbrasil.com.br/politica/como-flavio-entrou-na-argentina-e-nos-eua-veja-quais-passaportes-ele-usou/",
+          "role": "origin"
+        },
+        {
+          "title": "Migraciones confirmó que Flávio Bolsonaro viajó con su familia desde Argentina hacia Ecuador",
+          "outlet": "APFDigital",
+          "url": "https://www.apfdigital.com.ar/noticias/2026/10/28/476661-migraciones-confirmo-que-flavio-bolsonaro-viajo-con-su-familia-desde-argentina-hacia-ecuador-sin-ningun-impedimento-legal",
+          "role": "context"
+        },
+        {
+          "title": "Flavio Bolsonaro landed in Miami, using his Italian passport to leave Brazil",
+          "outlet": "Agenzia Nova",
+          "url": "https://www.agenzianova.com/en/news/Flavio-Bolsonaro-landed-in-Miami-to-leave-Brazil-using-his-Italian-passport./",
+          "role": "context"
+        },
+        {
+          "title": "Wikimedia Commons",
+          "outlet": "Falcão Alado",
+          "url": "https://commons.wikimedia.org/wiki/File:Supremo_Tribunal_Federal_por_Henrique_Goldenstein_(01).jpg",
+          "role": "image"
+        }
+      ],
+      "path": "dispatches/2026-10-28-flavio-bolsonaro-defies-passport-order-lands-in-miami/index.md",
+      "words": 615
+    },
+    {
+      "slug": "2026-10-28-israel-vote-leaves-no-majority-arab-parties-hold-balance",
+      "desk": "ΛRX Intercept",
+      "author": "Arx",
+      "category": "Politics",
+      "story_type": "contested",
+      "title": "Israel's Vote Leaves No Majority as Arab Parties Win a Record 19 Seats",
+      "dek": "Neither Netanyahu's bloc nor Eisenkot's reaches 61 seats, Likud calls the result \"stolen,\" and the count of soldiers' and diplomats' ballots starts Thursday.",
+      "date": "2026-10-28",
+      "location": "Jerusalem, Israel",
+      "coords": [
+        31.7767,
+        35.2052
+      ],
+      "severity": 4,
+      "card": "dispatches/2026-10-28-israel-vote-leaves-no-majority-arab-parties-hold-balance/card.png",
+      "art": "dispatches/2026-10-28-israel-vote-leaves-no-majority-arab-parties-hold-balance/art.jpg",
+      "pair": {
+        "left_label": "Likud Says",
+        "left": "Likud says Arab parties \"stole\" the election through bribery, threats and forgery, and asks police and the Shin Bet to investigate.",
+        "right_label": "The Opposition Says",
+        "right": "Eisenkot says he will form \"a Zionist government\" and that Netanyahu should step down; Golan says the opposition should govern with Arab parties."
+      },
+      "reading": {
+        "label": "The Stakes",
+        "text": "Likud speaks of a \"stolen\" election, the opposition of change; beneath both is who forms the government that runs the Iran war."
+      },
+      "tags": [
+        "israel",
+        "election",
+        "knesset",
+        "netanyahu",
+        "eisenkot",
+        "likud",
+        "raam",
+        "joint-list",
+        "iran"
+      ],
+      "sources": [
+        {
+          "title": "With over 85% of votes counted, pro-Netanyahu bloc gets 53 seats, Eisenkot-led bloc at 48 and Arab parties have 19",
+          "outlet": "The Times of Israel",
+          "url": "https://www.timesofisrael.com/liveblog_entry/with-over-85-of-votes-counted-pro-netanyahu-bloc-gets-53-seats-eisenkot-led-bloc-at-48-and-arab-parties-have-19/",
+          "role": "origin"
+        },
+        {
+          "title": "Live updates, October 28, 2026",
+          "outlet": "The Times of Israel",
+          "url": "https://www.timesofisrael.com/liveblog-october-28-2026/",
+          "role": "origin"
+        },
+        {
+          "title": "Israel election results live",
+          "outlet": "The Guardian",
+          "url": "https://www.theguardian.com/world/live/2026/oct/28/israel-election-results-live-updates-exit-polls-netanyahu-likud-eisenkot-latest-news",
+          "role": "origin"
+        },
+        {
+          "title": "Turnout hits historic high as Israel votes; election committee rejects multiple claims of foul play",
+          "outlet": "The Times of Israel",
+          "url": "https://www.timesofisrael.com/turnout-hits-historic-high-as-israel-votes-in-national-election-parties-allege-foul-play/",
+          "role": "context"
+        },
+        {
+          "title": "Elections panel says it is reviewing all fraud allegations after Likud demand for probe of Arab parties",
+          "outlet": "The Times of Israel",
+          "url": "https://www.timesofisrael.com/liveblog_entry/elections-panel-says-it-is-reviewing-all-fraud-allegations-after-likud-demand-for-probe-of-arab-parties/",
+          "role": "context"
+        },
+        {
+          "title": "Likud claims election 'stolen' by Arab parties, demands investigation into alleged fraud",
+          "outlet": "The Times of Israel",
+          "url": "https://www.timesofisrael.com/liveblog_entry/likud-claims-election-stolen-by-arab-parties-demands-investigation-into-alleged-fraud/",
+          "role": "side"
+        },
+        {
+          "title": "Netanyahu's Likud accuses Arab parties of election fraud, demands police probe",
+          "outlet": "Ynetnews",
+          "url": "https://www.ynetnews.com/article/s1q6l51tmx",
+          "role": "side"
+        },
+        {
+          "title": "Wikimedia Commons",
+          "outlet": "James Emery",
+          "url": "https://commons.wikimedia.org/wiki/File:Knesset.jpg",
+          "role": "image"
+        }
+      ],
+      "path": "dispatches/2026-10-28-israel-vote-leaves-no-majority-arab-parties-hold-balance/index.md",
+      "words": 757
+    },
+    {
+      "slug": "2026-10-28-mecca-pact-chiefs-meet-iran-in-tehran",
+      "desk": "ΛRX Intercept",
+      "author": "Arx",
+      "category": "Conflict",
+      "story_type": "contested",
+      "title": "Saudi, Pakistani and Turkish Chiefs Meet Iran's Leaders in Tehran",
+      "dek": "The Mecca pact states and Iran agree to keep talking; sources tell The National the talks produced no deal on the Houthis or Hormuz.",
+      "date": "2026-10-28",
+      "location": "Tehran, Iran",
+      "coords": [
+        35.6997,
+        51.338
+      ],
+      "severity": 4,
+      "card": "dispatches/2026-10-28-mecca-pact-chiefs-meet-iran-in-tehran/card.png",
+      "art": "dispatches/2026-10-28-mecca-pact-chiefs-meet-iran-in-tehran/art.jpg",
+      "pair": {
+        "left_label": "Tehran Says",
+        "left": "Rezaei calls the talks \"very good\" and says regional states, not outside powers, should secure the region; Iran wants the US blockade lifted.",
+        "right_label": "Washington Says",
+        "right": "Vance says Iran must cut nuclear enrichment to end the war; Trump says he and Netanyahu must \"finish the job,\" Channel 12 reports."
+      },
+      "reading": {
+        "label": "The Stakes",
+        "text": "Tehran speaks of regional security, Washington of finishing the job; beneath both is who sets the terms for reopening Hormuz."
+      },
+      "tags": [
+        "iran",
+        "saudi-arabia",
+        "pakistan",
+        "turkey",
+        "mecca-pact",
+        "hormuz",
+        "houthis",
+        "oman",
+        "diplomacy"
+      ],
+      "sources": [
+        {
+          "title": "Iran, Saudi Arabia, Turkiye and Pakistan agree to continue talks for peace",
+          "outlet": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/10/26/officials-from-mecca-pact-states-to-hold-talks-in-iran-amid-regional-tensions",
+          "role": "origin"
+        },
+        {
+          "title": "Iran security chief meets Supreme Leader after talks with Mecca pact countries",
+          "outlet": "Al-Monitor (Reuters)",
+          "url": "https://www.al-monitor.com/originals/2026/10/iran-security-chief-meets-supreme-leader-after-talks-mecca-pact-countries",
+          "role": "origin"
+        },
+        {
+          "title": "Inside Tehran talks: Iranians link Houthi de-escalation to US approval of regional truce",
+          "outlet": "The National",
+          "url": "https://www.thenationalnews.com/news/gulf/2026/10/27/exclusive-iran-saudi-arabia-inside-tehran-talks/",
+          "role": "origin"
+        },
+        {
+          "title": "Turkish intelligence chief holds talks in Iran with Saudi, Pakistani officials",
+          "outlet": "Anadolu Agency",
+          "url": "https://aa.com.tr/en/world/turkish-intelligence-chief-holds-talks-in-iran-with-saudi-pakistani-officials/4101915",
+          "role": "origin"
+        },
+        {
+          "title": "High-level delegations meeting in Tehran to avert more war",
+          "outlet": "AP",
+          "url": "https://apnews.com/article/iran-israel-us-war-10-26-2026-36486edb61b3bf4e0df67e8a17123e44",
+          "role": "origin"
+        },
+        {
+          "title": "Minister calls on Gulf states to take responsibility for their own security",
+          "outlet": "Oman Ministry of Foreign Affairs",
+          "url": "https://www.fm.gov.om/en/62242/",
+          "role": "context"
+        },
+        {
+          "title": "Middle East peace held back by US insistence that Iran is a threat, Oman's foreign minister says",
+          "outlet": "The Guardian",
+          "url": "https://www.theguardian.com/world/2026/oct/26/saudi-pakistani-turkish-delegation-iran-avert-flare-up-conflict-us",
+          "role": "context"
+        },
+        {
+          "title": "Oman calls for economic and security pact between Iran and Gulf countries",
+          "outlet": "The National",
+          "url": "https://www.thenationalnews.com/news/mena/2026/10/28/oman-calls-for-economic-and-security-pact-between-iran-and-gulf-countries/",
+          "role": "context"
+        },
+        {
+          "title": "Live updates, October 28, 2026",
+          "outlet": "The Times of Israel",
+          "url": "https://www.timesofisrael.com/liveblog-october-28-2026/",
+          "role": "side"
+        },
+        {
+          "title": "Wikimedia Commons",
+          "outlet": "Bernard Gagnon",
+          "url": "https://commons.wikimedia.org/wiki/File:Azadi_Tower,_Tehran.jpg",
+          "role": "image"
+        }
+      ],
+      "path": "dispatches/2026-10-28-mecca-pact-chiefs-meet-iran-in-tehran/index.md",
+      "words": 735
+    },
+    {
+      "slug": "2026-10-27-houthis-hit-ras-tanura-as-saudi-oil-war-widens",
+      "desk": "ΛRX Intercept",
+      "author": "Arx",
+      "category": "Conflict",
+      "story_type": "contested",
+      "title": "Houthis Hit Ras Tanura as Their War on Saudi Oil Reaches Both Coasts",
+      "dek": "Riyadh confirms a Houthi missile struck its largest refinery; the group's claimed hits on the East-West pipeline and Yanbu remain unconfirmed.",
+      "date": "2026-10-27",
+      "location": "Ras Tanura, Saudi Arabia",
+      "coords": [
+        26.6436,
+        50.16
+      ],
+      "severity": 4,
+      "card": "dispatches/2026-10-27-houthis-hit-ras-tanura-as-saudi-oil-war-widens/card.png",
+      "art": "dispatches/2026-10-27-houthis-hit-ras-tanura-as-saudi-oil-war-widens/art.jpg",
+      "pair": {
+        "left_label": "The Houthis Say",
+        "left": "The Houthis say Saudi-linked ships and sites are targets, and other shipping can pass freely if governments stay out.",
+        "right_label": "The Coalition Says",
+        "right": "Coalition spokesman Turki al-Maliki pledges \"deterrent operational measures\" and says strikes on Houthi launchers protect civilians."
+      },
+      "reading": {
+        "label": "The Stakes",
+        "text": "Each side says it is defending itself; at stake is who can shut Saudi oil's last open routes while Hormuz stays closed."
+      },
+      "tags": [
+        "houthis",
+        "yemen",
+        "saudi-arabia",
+        "ras-tanura",
+        "yanbu",
+        "red-sea",
+        "bab-el-mandeb",
+        "iran-war",
+        "oil"
+      ],
+      "sources": [
+        {
+          "title": "Houthi missiles hit Saudi's largest oil refinery, Riyadh confirms material damage",
+          "outlet": "India Today (Reuters)",
+          "url": "https://www.indiatoday.in/amp/world/story/yemens-houthis-hit-saudi-oil-refinery-with-missile-riyadh-confirms-target-was-direct-3026347-2026-10-27",
+          "role": "origin"
+        },
+        {
+          "title": "Houthis say they attacked Saudi oil pumping stations, Riyadh airport as fighting intensifies",
+          "outlet": "Al-Monitor (Reuters)",
+          "url": "https://www.al-monitor.com/originals/2026/10/houthis-say-they-attacked-saudi-oil-pumping-stations-riyadh-airport-fighting",
+          "role": "origin"
+        },
+        {
+          "title": "EUNAVFOR Aspides informational message to the shipping industry",
+          "outlet": "EUNAVFOR Aspides",
+          "url": "https://mscio.eu/media/documents/20260821-EUNAVFOR_ASPIDES_Informational_Message_to_the_Shipping_Industry.pdf",
+          "role": "origin"
+        },
+        {
+          "title": "Houthis seize key Yemeni port of Mocha in drive to take control of Red Sea coast",
+          "outlet": "The Guardian",
+          "url": "https://www.theguardian.com/world/2026/sep/10/houthis-seize-key-port-mocha-yemen-red-sea-coast-iran-saudi-arabia-us",
+          "role": "origin"
+        },
+        {
+          "title": "As Houthis undercut Saudi security, a cautious kingdom pivots",
+          "outlet": "Christian Science Monitor",
+          "url": "https://www.csmonitor.com/World/Middle-East/2026/1013/saudi-security-houthi-airport-attacks-iran-yemen",
+          "role": "origin"
+        },
+        {
+          "title": "Houthi gains around Bab al-Mandab raise risks to Red Sea shipping and global oil markets",
+          "outlet": "ACLED",
+          "url": "https://acleddata.com/report/houthi-gains-around-bab-al-mandab-raise-risks-red-sea-shipping-and-global-oil-markets",
+          "role": "context"
+        },
+        {
+          "title": "Houthi blitz leaves Saudi Arabia exposed, Iran emboldened",
+          "outlet": "Reuters",
+          "url": "https://www.reuters.com/world/middle-east/houthi-blitz-leaves-saudi-arabia-exposed-iran-emboldened-2026-09-16/",
+          "role": "context"
+        },
+        {
+          "title": "Houthi attacks on commercial shipping",
+          "outlet": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Houthi_attacks_on_commercial_shipping",
+          "role": "context"
+        },
+        {
+          "title": "Abqaiq–Khurais attack",
+          "outlet": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Abqaiq%E2%80%93Khurais_attack",
+          "role": "context"
+        }
+      ],
+      "path": "dispatches/2026-10-27-houthis-hit-ras-tanura-as-saudi-oil-war-widens/index.md",
+      "words": 797
+    },
+    {
+      "slug": "2026-10-27-ukraine-peace-talks-circle-back-to-abu-dhabi",
+      "desk": "ΛRX Intercept",
+      "author": "Arx",
+      "category": "Conflict",
+      "story_type": "contested",
+      "title": "Four Years of Ukraine Peace Talks Circle Back to Abu Dhabi",
+      "dek": "Russia, Ukraine and the US plan a trilateral round in the first half of November, the first since the Iran war froze talks in March.",
+      "date": "2026-10-27",
+      "location": "Abu Dhabi, United Arab Emirates",
+      "coords": [
+        24.4539,
+        54.3773
+      ],
+      "severity": 4,
+      "card": "dispatches/2026-10-27-ukraine-peace-talks-circle-back-to-abu-dhabi/card.png",
+      "art": "dispatches/2026-10-27-ukraine-peace-talks-circle-back-to-abu-dhabi/art.jpg",
+      "pair": {
+        "left_label": "Moscow Says",
+        "left": "Putin says talks should settle long-term security for a final deal, not a \"short\" truce.",
+        "right_label": "Kyiv Says",
+        "right": "Zelenskyy says any deal needs strong security guarantees and 10 years of funding for Ukraine's army."
+      },
+      "reading": {
+        "label": "The Stakes",
+        "text": "Moscow wants a final settlement on its terms; Kyiv wants guarantees first. At stake is the Donbas and who secures Ukraine after."
+      },
+      "tags": [
+        "russia",
+        "ukraine",
+        "united-states",
+        "peace-talks",
+        "abu-dhabi",
+        "istanbul",
+        "witkoff",
+        "donbas",
+        "ceasefire"
+      ],
+      "sources": [
+        {
+          "title": "Russia and Ukraine say talks planned for November in UAE",
+          "outlet": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/10/23/russia-ukraine-talks-planned-for-november-in-uae-kremlin",
+          "role": "origin"
+        },
+        {
+          "title": "Moscow ready to resume trilateral talks with Ukraine, US after Nov. 4, Kremlin aide says",
+          "outlet": "Kyiv Independent",
+          "url": "https://kyivindependent.com/moscow-ready-to-resume-trilateral-talks-with-ukraine-us-after-nov-4-kremlin-aide-says/",
+          "role": "origin"
+        },
+        {
+          "title": "Russia and Ukraine exchange prisoners as peace talks end without breakthrough",
+          "outlet": "BBC News",
+          "url": "https://www.bbc.com/news/articles/c62np09q7l1o",
+          "role": "origin"
+        },
+        {
+          "title": "No breakthrough on bridging gaps in Russia-Ukraine talks",
+          "outlet": "AP News",
+          "url": "https://apnews.com/article/russia-ukraine-war-talks-geneva-0f22fa796cafd6606a88ad1b101ab3fb",
+          "role": "origin"
+        },
+        {
+          "title": "U.S., Ukraine discussed postponing peace talks with Russia, Zelenskiy says",
+          "outlet": "Reuters",
+          "url": "https://www.reuters.com/world/europe/ukraine-seeks-postpone-next-round-trilateral-talks-with-russia-amid-middle-east-2026-03-05/",
+          "role": "origin"
+        },
+        {
+          "title": "2026 United States–Ukraine–Russia meetings in Abu Dhabi",
+          "outlet": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/2026_United_States%E2%80%93Ukraine%E2%80%93Russia_meetings_in_Abu_Dhabi",
+          "role": "context"
+        },
+        {
+          "title": "Peace negotiations in the Russian invasion of Ukraine",
+          "outlet": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Peace_negotiations_in_the_Russian_invasion_of_Ukraine",
+          "role": "context"
+        },
+        {
+          "title": "Black Sea Grain Initiative",
+          "outlet": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Black_Sea_Grain_Initiative",
+          "role": "context"
+        },
+        {
+          "title": "2025 Russia–United States summit",
+          "outlet": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/2025_Russia%E2%80%93United_States_summit",
+          "role": "context"
+        }
+      ],
+      "path": "dispatches/2026-10-27-ukraine-peace-talks-circle-back-to-abu-dhabi/index.md",
+      "words": 804
+    },
+    {
+      "slug": "2026-10-27-white-house-says-canada-deal-close-ottawa-disagrees",
+      "desk": "ΛRX Intercept",
+      "author": "Arx",
+      "category": "Economy",
+      "story_type": "contested",
+      "title": "White House Says a Canada Deal Is Close; Ottawa Says It Isn't",
+      "dek": "Twenty months into the tariff war, Washington reshuffles its 50% list a week before the midterms while Canadian officials say a wide gap remains.",
+      "date": "2026-10-27",
+      "location": "Ottawa, Canada",
+      "coords": [
+        45.4215,
+        -75.6972
+      ],
+      "severity": 3,
+      "card": "dispatches/2026-10-27-white-house-says-canada-deal-close-ottawa-disagrees/card.png",
+      "art": "dispatches/2026-10-27-white-house-says-canada-deal-close-ottawa-disagrees/art.jpg",
+      "pair": {
+        "left_label": "The White House Says",
+        "left": "Hassett says talks are \"gathering steam\" and \"very close to finally having a deal.\"",
+        "right_label": "Ottawa Says",
+        "right": "Carney says any progress came \"because the U.S. is coming closer to our position.\""
+      },
+      "reading": {
+        "label": "The Stakes",
+        "text": "Washington says a deal is near; Ottawa says the gap is wide. At stake is who sets the terms of North American trade."
+      },
+      "tags": [
+        "canada",
+        "united-states",
+        "tariffs",
+        "trade",
+        "carney",
+        "hassett",
+        "collins",
+        "maine",
+        "midterms",
+        "usmca"
+      ],
+      "sources": [
+        {
+          "title": "Hassett says U.S.-Canada trade talks are 'very close' to deal",
+          "outlet": "Financial Post (Bloomberg)",
+          "url": "https://financialpost.com/news/economy/hassett-us-canada-trade-talks-very-close",
+          "role": "origin"
+        },
+        {
+          "title": "Canada-U.S. trade talks intensifying but wide gap remains, sources say",
+          "outlet": "CBC News",
+          "url": "https://www.cbc.ca/news/politics/trade-talks-intensifying-no-deal-in-sight-9.7396332",
+          "role": "origin"
+        },
+        {
+          "title": "Annex I: Products no longer covered / newly covered by Section 338 tariffs",
+          "outlet": "The White House",
+          "url": "https://www.whitehouse.gov/wp-content/uploads/2026/10/2026ModifyingAuto338.prc_.AnnexI-3.pdf",
+          "role": "origin"
+        },
+        {
+          "title": "Trump to lower Canada tariffs for certain agricultural goods, Collins says",
+          "outlet": "Politico",
+          "url": "https://www.politico.com/news/2026/10/23/collins-trump-canada-tariffs-maine-agriculture-01134028",
+          "role": "origin"
+        },
+        {
+          "title": "US hits Canadian goods with 50% tariffs after trade talks fail",
+          "outlet": "Reuters",
+          "url": "https://www.reuters.com/world/americas/us-canadian-trade-teams-meet-again-tariffs-deadline-looms-2026-08-21/",
+          "role": "origin"
+        },
+        {
+          "title": "Canada slaps retaliatory tariffs on US goods worth $20 billion as trade war intensifies",
+          "outlet": "Reuters",
+          "url": "https://www.reuters.com/business/canada-announces-20-bln-retaliatory-tariffs-us-goods-unveils-support-measures-2026-08-25/",
+          "role": "origin"
+        },
+        {
+          "title": "U.S.–Canada tariffs: timeline of key dates and documents",
+          "outlet": "Blakes",
+          "url": "https://www.blakes.com/insights/us-canada-tariffs-timeline-of-key-dates-and-documents/",
+          "role": "context"
+        },
+        {
+          "title": "Learning Resources, Inc. v. Trump, No. 24-1287 (20 February 2026)",
+          "outlet": "Supreme Court of the United States",
+          "url": "https://www.supremecourt.gov/opinions/25pdf/24-1287_4gcj.pdf",
+          "role": "context"
+        },
+        {
+          "title": "Alberta's referendum count is finished, and 74.9 per cent of voters want to stay in Canada",
+          "outlet": "The Canada Brief",
+          "url": "https://thecanadabrief.com/p/1371-alberta-s-referendum-count-is-finished-and-74-9-per-cent-of",
+          "role": "context"
+        },
+        {
+          "title": "Statement by Prime Minister Carney on Canada-U.S. trade negotiations",
+          "outlet": "Prime Minister of Canada",
+          "url": "https://www.pm.gc.ca/en/news/statements/2026/08/21/statement-prime-minister-carney-canada-us-trade-negotiations",
+          "role": "side"
+        },
+        {
+          "title": "Trump adviser says Alberta referendum made it essentially impossible to negotiate",
+          "outlet": "CP24",
+          "url": "https://www.cp24.com/news/canada/2026/10/26/trump-adviser-says-alberta-referendum-made-it-essentially-impossible-to-negotiate-on-trade-deal/",
+          "role": "side"
+        }
+      ],
+      "path": "dispatches/2026-10-27-white-house-says-canada-deal-close-ottawa-disagrees/index.md",
+      "words": 888
+    },
+    {
+      "slug": "2026-10-26-france-borrowing-costs-top-us",
+      "desk": "ΛRX Intercept",
+      "author": "Arx",
+      "category": "Economy",
+      "story_type": "contested",
+      "title": "France's Borrowing Costs Top America's as Prefects Ban Marches",
+      "dek": "France's 10-year yield broke 5% for the first time since 2002 as the budget returns to the National Assembly on 27 October.",
+      "date": "2026-10-26",
+      "location": "Paris, France",
+      "coords": [
+        48.8616,
+        2.3186
+      ],
+      "severity": 3,
+      "card": "dispatches/2026-10-26-france-borrowing-costs-top-us/card.png",
+      "art": "dispatches/2026-10-26-france-borrowing-costs-top-us/art.jpg",
+      "pair": {
+        "left_label": "The Government Says",
+        "left": "Lescure says France has \"two safety rails\" to pass a budget, Article 49.3 and ordinances.",
+        "right_label": "Unions and Students Say",
+        "right": "Binet says the government can stop the marches if it will \"respond immediately to the demands.\""
+      },
+      "reading": {
+        "label": "The Stakes",
+        "text": "One side calls the cuts a debt rescue, the other a squeeze on schools and wages; at stake is who carries France's deficit."
+      },
+      "tags": [
+        "france",
+        "bonds",
+        "oat",
+        "budget",
+        "protests",
+        "ecb",
+        "article-49-3"
+      ],
+      "sources": [
+        {
+          "title": "French borrowing costs overtake US amid budget turmoil",
+          "outlet": "The Guardian",
+          "url": "https://www.theguardian.com/world/2026/oct/22/french-borrowing-costs-overtake-us-amid-budget-turmoil",
+          "role": "origin"
+        },
+        {
+          "title": "What next for France as riots rattle markets? Three questions facing investors ahead of more protests",
+          "outlet": "CNBC",
+          "url": "https://www.cnbc.com/2026/10/24/france-riots-paris-unrest-debt-budget.html",
+          "role": "origin"
+        },
+        {
+          "title": "Bond indexes, 26 October 2026",
+          "outlet": "Banque de France",
+          "url": "https://www.banque-france.fr/en/statistics/rates-and-prices/bond-indexes-2026-10-26",
+          "role": "origin"
+        },
+        {
+          "title": "Prévenir les troubles à l'ordre public et les violences",
+          "outlet": "Préfecture du Var",
+          "url": "https://www.var.gouv.fr/Actualites/Prevenir-les-troubles-a-l-ordre-public",
+          "role": "origin"
+        },
+        {
+          "title": "Arrêté portant interdiction de manifestations dans l'agglomération orléanaise le 25 octobre 2026",
+          "outlet": "Préfecture du Loiret",
+          "url": "https://www.loiret.gouv.fr/Actualite/Arrete-portant-interdiction-de-manifestations-dans-l-agglomeration-orleanaise-le-25-octobre-2026",
+          "role": "origin"
+        },
+        {
+          "title": "Budget 2027 : les députés n'attendent plus que le 49.3 ou les ordonnances",
+          "outlet": "Capital",
+          "url": "https://www.capital.fr/economie-politique/budget-2027-on-va-arreter-de-faire-semblant-les-deputes-nattendent-plus-que-le-493-ou-les-ordonnances-1531230",
+          "role": "context"
+        },
+        {
+          "title": "Roland Lescure brandit la menace du 49.3 pour le budget",
+          "outlet": "BFM TV",
+          "url": "https://www.bfmtv.com/economie/soit-les-parlementaires-nous-y-amenent-soit-on-les-y-amenera-face-a-la-flambee-des-taux-d-emprunt-roland-lescure-brandit-la-menace-du-49-3-pour-le-budget_AD-202610210295.html",
+          "role": "side"
+        },
+        {
+          "title": "Sophie Binet : « La liberté de manifester c'est ce qui fait la différence entre une démocratie et une dictature »",
+          "outlet": "franceinfo",
+          "url": "https://www.franceinfo.fr/societe/manifestations/sophie-binet-la-liberte-de-manifester-c-est-ce-qui-fait-la-difference-entre-une-democratie-et-une-dictature_8250679.html",
+          "role": "side"
+        }
+      ],
+      "path": "dispatches/2026-10-26-france-borrowing-costs-top-us/index.md",
+      "words": 703
+    },
+    {
+      "slug": "2026-10-25-brazil-runoff-lula-flavio-bolsonaro",
+      "desk": "ΛRX Intercept",
+      "author": "Arx",
+      "category": "Diplomacy",
+      "story_type": "partisan",
+      "title": "Brazil Votes in Runoff Between Lula and Flávio Bolsonaro",
+      "dek": "Final polls put the incumbent and the senator Trump has praised within the margin of error.",
+      "date": "2026-10-25",
+      "location": "Bahia, Brazil",
+      "coords": [
+        -12.9714,
+        -38.5014
+      ],
+      "severity": 2,
+      "card": "dispatches/2026-10-25-brazil-runoff-lula-flavio-bolsonaro/card.png",
+      "art": "dispatches/2026-10-25-brazil-runoff-lula-flavio-bolsonaro/art.jpg",
+      "framing": {
+        "left": "Lula and the Workers' Party call Flávio \"dangerous\" and cast the vote as a stand against U.S. interference in Brazil.",
+        "right": "Flávio and the Liberal Party say \"Brazil needs change,\" promising a crackdown on gangs and better deals with Washington."
+      },
+      "reading": {
+        "label": "The Stakes",
+        "text": "One camp speaks of \"interference,\" the other of \"change\"; the contest beneath is over the presidency, the courts, and Brazil's tilt between Washington and Beijing."
+      },
+      "tags": [
+        "brazil",
+        "elections",
+        "lula",
+        "bolsonaro",
+        "united-states"
+      ],
+      "sources": [
+        {
+          "title": "Brazil presidential vote pits Trump ally against Lula, who is seeking 4th nonconsecutive term",
+          "outlet": "Associated Press (via ABC News; also carried by the Messenger-Inquirer)",
+          "url": "https://abcnews.com/International/wireStory/brazil-presidential-vote-pits-trump-ally-lula-seeking-136982206",
+          "role": "origin"
+        },
+        {
+          "title": "Brazil's presidential vote pits Trump ally against incumbent Lula",
+          "outlet": "PBS NewsHour",
+          "url": "https://www.pbs.org/newshour/world/brazils-presidential-vote-pits-trump-ally-against-incumbent-lula",
+          "role": "context"
+        },
+        {
+          "title": "Lula seeks shake-up and Flávio Bolsonaro reaches for more support ahead of Brazil's election runoff",
+          "outlet": "ITV News (AP)",
+          "url": "https://www.itv.com/news/2026-10-05/what-to-know-about-the-election-runoff-between-lula-and-flavio-bolsonaro",
+          "role": "context"
+        },
+        {
+          "title": "Brazil Election 2026: Presidential Runoff, Lula vs Flávio",
+          "outlet": "The Rio Times",
+          "url": "https://www.riotimesonline.com/brazil-runoff-october-25-2026-flavio-bolsonaro-lula/",
+          "role": "context"
+        },
+        {
+          "title": "Voting extended in tight Brazil runoff between leftist Lula and Trump ally Bolsonaro",
+          "outlet": "CNN",
+          "url": "https://www.cnn.com/2026/10/25/americas/brazil-election-lula-bolsonaro-intl-latam",
+          "role": "context"
+        }
+      ],
+      "path": "dispatches/2026-10-25-brazil-runoff-lula-flavio-bolsonaro/index.md",
+      "words": 557
+    },
+    {
+      "slug": "2026-10-25-burnham-opens-eu-free-movement-debate",
+      "desk": "ΛRX Intercept",
+      "author": "Arx",
+      "category": "Diplomacy",
+      "story_type": "contested",
+      "title": "Burnham Opens Debate on Return to EU Free Movement",
+      "dek": "The prime minister says he is open to free movement but rules out the euro and Schengen.",
+      "date": "2026-10-25",
+      "location": "London, United Kingdom",
+      "coords": [
+        51.5034,
+        -0.1276
+      ],
+      "severity": 2,
+      "card": "dispatches/2026-10-25-burnham-opens-eu-free-movement-debate/card.png",
+      "art": "dispatches/2026-10-25-burnham-opens-eu-free-movement-debate/art.jpg",
+      "pair": {
+        "left_label": "The Government Says",
+        "left": "Rayner says \"you can't take anything off the table\" and that voters should decide at a general election.",
+        "right_label": "The Opposition Says",
+        "right": "Badenoch says Burnham \"hasn't thought this through\"; Jenrick says the idea is \"mad.\""
+      },
+      "reading": {
+        "label": "The Stakes",
+        "text": "One side says Brexit costs trade, the other that free movement costs control; at stake is who sets Britain's borders."
+      },
+      "tags": [
+        "uk",
+        "eu",
+        "brexit",
+        "burnham",
+        "rayner",
+        "free-movement"
+      ],
+      "sources": [
+        {
+          "title": "Burnham open to 'honest discussion' on EU free movement",
+          "outlet": "BBC News",
+          "url": "https://www.bbc.com/news/articles/c8e36kyk1qx5o",
+          "role": "origin"
+        },
+        {
+          "title": "Rayner says 'nothing off the table' for Burnham to undo harms of Brexit",
+          "outlet": "The Independent",
+          "url": "https://www.independent.co.uk/news/uk/politics/brexit-angela-rayner-andy-burnham-rejoin-eu-budget-b3072929.html",
+          "role": "origin"
+        },
+        {
+          "title": "Rayner says nothing off table in Burnham's talks with European Union",
+          "outlet": "Penarth Times (PA)",
+          "url": "https://www.penarthtimes.co.uk/news/national/26667927.rayner-nothing-off-table-burnhams-talks-european-union/",
+          "role": "origin"
+        },
+        {
+          "title": "Rayner says PM considering all options on relationship with EU",
+          "outlet": "The Independent",
+          "url": "https://www.independent.co.uk/bulletin/news/burnham-angela-rayner-brexit-eu-b3072947.html",
+          "role": "side"
+        }
+      ],
+      "path": "dispatches/2026-10-25-burnham-opens-eu-free-movement-debate/index.md",
+      "words": 508
+    },
+    {
+      "slug": "2026-10-25-lula-wins-runoff-flavio-seeks-annulment",
+      "desk": "ΛRX Intercept",
+      "author": "Arx",
+      "category": "Diplomacy",
+      "story_type": "contested",
+      "title": "Lula Wins Runoff; Flávio Seeks Annulment",
+      "dek": "Lula takes 51.79% to 48.21%, the first comeback from a first-round loss since 1988.",
+      "date": "2026-10-25",
+      "location": "Brasília, Brazil",
+      "coords": [
+        -15.7939,
+        -47.8828
+      ],
+      "severity": 2,
+      "card": "dispatches/2026-10-25-lula-wins-runoff-flavio-seeks-annulment/card.png",
+      "art": "dispatches/2026-10-25-lula-wins-runoff-flavio-seeks-annulment/art.jpg",
+      "pair": {
+        "left_label": "Lula's Camp Says",
+        "left": "Lula says the result was a \"defeat of lies\" and that Brazil will not be \"anyone's backyard.\"",
+        "right_label": "Bolsonaro's Camp Says",
+        "right": "Flávio Bolsonaro says the result is \"impossible\" to recognize and that he will seek its annulment."
+      },
+      "reading": {
+        "label": "The Stakes",
+        "text": "One camp says the vote was won, the other that the rules were changed; at stake is who the courts let decide an election."
+      },
+      "tags": [
+        "brazil",
+        "elections",
+        "lula",
+        "bolsonaro",
+        "tse",
+        "stf"
+      ],
+      "sources": [
+        {
+          "title": "Brazil election 2026 — full second round results",
+          "outlet": "The Guardian",
+          "url": "https://www.theguardian.com/world/ng-interactive/2026/oct/25/brazil-election-2026-live-second-round-results",
+          "role": "origin"
+        },
+        {
+          "title": "Brazil election live: Lula beats Bolsonaro",
+          "outlet": "BBC News",
+          "url": "https://www.bbc.com/news/live/cmgelnrd4r3jt",
+          "role": "origin"
+        },
+        {
+          "title": "Votos de Lula e Flávio Bolsonaro — compare o 1º e o 2º turno",
+          "outlet": "G1",
+          "url": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/25/lula-flavio-bolsonaro-resultado-segundo-primeiro-turno-2026.ghtml",
+          "role": "origin"
+        },
+        {
+          "title": "Flávio diz que vai pedir a anulação da eleição presidencial",
+          "outlet": "UOL",
+          "url": "https://noticias.uol.com.br/eleicoes/2026/10/25/flavio-bolsonaro-discurso-eleicao-presidente-presidenciais.ghtm",
+          "role": "side"
+        },
+        {
+          "title": "Flávio Bolsonaro diz ser 'impossível reconhecer resultado da eleição'",
+          "outlet": "Estadão",
+          "url": "https://www.estadao.com.br/politica/eleicoes/flavio-bolsonaro-diz-ser-impossivel-reconhecer-resultado-da-eleicao-e-promete-recorrer-npr/",
+          "role": "side"
+        },
+        {
+          "title": "Flávio fala em pedir anulação de eleição",
+          "outlet": "Folha de S.Paulo",
+          "url": "https://www1.folha.uol.com.br/poder/2026/10/flavio-tem-festa-frustrada-e-churrasco-da-vitoria-vira-oracao.shtml",
+          "role": "side"
+        },
+        {
+          "title": "Brazil Votes in Runoff Between Lula and Flávio Bolsonaro",
+          "outlet": "ΛRX Intercept",
+          "url": "../2026-10-25-brazil-runoff-lula-flavio-bolsonaro/",
+          "role": "context"
+        }
+      ],
+      "path": "dispatches/2026-10-25-lula-wins-runoff-flavio-seeks-annulment/index.md",
+      "words": 512
+    },
+    {
+      "slug": "2026-10-25-machado-returns-trump-backs-rodriguez",
+      "desk": "ΛRX Intercept",
+      "author": "Arx",
+      "category": "Diplomacy",
+      "story_type": "contested",
+      "title": "Machado Returns to Venezuela as Trump Backs Rodríguez",
+      "dek": "The opposition leader returns after nearly a year abroad, with no election date set.",
+      "date": "2026-10-25",
+      "location": "Caracas, Venezuela",
+      "coords": [
+        10.4806,
+        -66.9036
+      ],
+      "severity": 2,
+      "card": "dispatches/2026-10-25-machado-returns-trump-backs-rodriguez/card.png",
+      "art": "dispatches/2026-10-25-machado-returns-trump-backs-rodriguez/art.jpg",
+      "pair": {
+        "left_label": "Machado's Camp Says",
+        "left": "Machado's adviser says she will push for a date for free and fair elections.",
+        "right_label": "Washington Says",
+        "right": "Trump says \"we're doing really well in Venezuela\"; Rubio says US-backed talks are the best path to an election."
+      },
+      "reading": {
+        "label": "The Stakes",
+        "text": "Both camps say they want elections; at stake is who sets the date and who controls Venezuela's oil until then."
+      },
+      "tags": [
+        "venezuela",
+        "machado",
+        "rodriguez",
+        "trump",
+        "oil",
+        "elections"
+      ],
+      "sources": [
+        {
+          "title": "Venezuela opposition leader Maria Corina Machado returns to Venezuela",
+          "outlet": "Reuters (via SRN News)",
+          "url": "https://ksevradio.com/venezuela-opposition-leader-maria-corina-machado-returns-to-venezuela/",
+          "role": "origin"
+        },
+        {
+          "title": "Opposition leader María Machado returns to Venezuela",
+          "outlet": "BBC News",
+          "url": "https://www.bbc.com/news/articles/cq8ez592pp0eo",
+          "role": "origin"
+        },
+        {
+          "title": "Venezuela's opposition leader María Corina Machado returns after months in exile",
+          "outlet": "NPR",
+          "url": "https://www.npr.org/2026/10/25/nx-s1-6016222/venezuela-maria-corina-machado-leader-returns-exile",
+          "role": "origin"
+        },
+        {
+          "title": "Venezuela's opposition leader Machado returns after months in exile, as doubts over democracy deepen",
+          "outlet": "AP",
+          "url": "https://apnews.com/article/venezuela-maria-corina-machado-return-democracy-maduro-e6eff0c2ff962fd9b0f87270b24ef567",
+          "role": "context"
+        },
+        {
+          "title": "Exiled opposition leader María Corina Machado returns to Venezuela",
+          "outlet": "The Guardian",
+          "url": "https://www.theguardian.com/world/2026/oct/25/exiled-venezuelan-opposition-leader-maria-corina-machado-announces-her-return",
+          "role": "side"
+        }
+      ],
+      "path": "dispatches/2026-10-25-machado-returns-trump-backs-rodriguez/index.md",
+      "words": 567
+    },
+    {
+      "slug": "2026-10-25-russian-diesel-tanker-heads-for-us",
+      "desk": "ΛRX Intercept",
+      "author": "Arx",
+      "category": "Economy",
+      "story_type": "contested",
+      "title": "First Russian Diesel Under US Waiver Sails Toward New York",
+      "dek": "The first Russian fuel cargo bound for the US since the 2022 ban is due around 7 November.",
+      "date": "2026-10-25",
+      "location": "Primorsk, Russia",
+      "coords": [
+        60.355,
+        28.6136
+      ],
+      "severity": 2,
+      "card": "dispatches/2026-10-25-russian-diesel-tanker-heads-for-us/card.png",
+      "art": "dispatches/2026-10-25-russian-diesel-tanker-heads-for-us/art.jpg",
+      "pair": {
+        "left_label": "Washington and Moscow Say",
+        "left": "Trump says the deal brings \"massive amounts of oil\"; Peskov says shipments will continue \"on a regular basis.\"",
+        "right_label": "Kyiv and Sanctions Hawks Say",
+        "right": "Zelensky says the waiver is a \"reward\" for Putin; 12 senators say it is \"a gift to our adversary.\""
+      },
+      "reading": {
+        "label": "The Stakes",
+        "text": "One side says the deal lowers fuel prices, the other that it funds the war; at stake is who pays for sanctions."
+      },
+      "tags": [
+        "russia",
+        "united-states",
+        "diesel",
+        "sanctions",
+        "ukraine",
+        "ofac"
+      ],
+      "sources": [
+        {
+          "title": "Exclusive: First Russian diesel from Putin-Trump deal heading for US, data shows",
+          "outlet": "Reuters (via Investing.com)",
+          "url": "https://www.investing.com/news/economic-indicators/exclusivetanker-carrying-40000-t-of-russian-diesel-heads-to-new-york-after-putintrump-deal-data-shows-4968099",
+          "role": "origin"
+        },
+        {
+          "title": "Russian diesel tanker shipment to the US",
+          "outlet": "AP",
+          "url": "https://apnews.com/article/russia-united-states-tanker-diesel-shipment-f2c733604fd4fbd82e7b668c94fad978",
+          "role": "origin"
+        },
+        {
+          "title": "Russian Diesel Shipment Signals U.S. Destination After Trump Suspends Sanctions",
+          "outlet": "Wall Street Journal",
+          "url": "https://www.wsj.com/finance/commodities-futures/tanker-carrying-russian-diesel-signals-u-s-port-after-trump-putin-deal-c09c15dd",
+          "role": "origin"
+        },
+        {
+          "title": "Russian diesel tanker heads to New York as Kremlin claims regular shipments",
+          "outlet": "S&P Global",
+          "url": "https://www.spglobal.com/energy/en/news-research/latest-news/refined-products/102326-russian-diesel-tanker-heads-to-new-york-as-kremlin-claims-regular-shipments",
+          "role": "origin"
+        },
+        {
+          "title": "Trump strikes deal with Putin to get diesel in sharp reversal of US policy weeks before midterms",
+          "outlet": "AP",
+          "url": "https://apnews.com/article/trump-russia-diesel-midterms-12baccc7aade559bf329079b0548c9da",
+          "role": "context"
+        },
+        {
+          "title": "Trump's pause on Russia sanctions is 'reward' for Putin, Zelenskyy says",
+          "outlet": "The Guardian",
+          "url": "https://www.theguardian.com/world/2026/oct/17/volodymyr-zelenskyy-donald-trump-lift-sanctions-russia-intensify-war-ukraine",
+          "role": "side"
+        },
+        {
+          "title": "Bipartisan Senators Call on Trump to Rescind Russian Diesel Deal",
+          "outlet": "Office of Sen. Richard Blumenthal",
+          "url": "https://www.blumenthal.senate.gov/newsroom/press/release/bipartisan-senators-call-on-trump-to-rescind-russian-diesel-deal-and-implement-sanctions-authorized-by-congress-last-month-on-enablers-of-putins-war-against-ukraine",
+          "role": "side"
+        }
+      ],
+      "path": "dispatches/2026-10-25-russian-diesel-tanker-heads-for-us/index.md",
+      "words": 619
+    },
+    {
+      "slug": "2026-10-25-starship-orbit-dual-catch",
+      "desk": "ΛRX Intercept",
+      "author": "Arx",
+      "category": "Technology",
+      "story_type": "contested",
+      "title": "Starship Reached Orbit. Next, SpaceX Tries to Catch It",
+      "dek": "After a first orbital flight, SpaceX plans to catch both stages on Flight 15.",
+      "date": "2026-10-25",
+      "location": "Starbase, Texas",
+      "coords": [
+        25.9972,
+        -97.1556
+      ],
+      "card": "dispatches/2026-10-25-starship-orbit-dual-catch/card.png",
+      "art": "dispatches/2026-10-25-starship-orbit-dual-catch/art.jpg",
+      "pair": {
+        "left_label": "SpaceX Says",
+        "left": "Elon Musk says a catch of both stages is \"more likely than not\" and calls full reuse \"a profound technology milestone.\"",
+        "right_label": "Critics Say",
+        "right": "Mexican nonprofit Conibio Global says suspected Starship debris is washing onto Playa Bagdad and asks for an investigation."
+      },
+      "reading": {
+        "label": "The Stakes",
+        "text": "One side speaks of progress, the other of harm; at stake is who sets the terms for launches from a border coast."
+      },
+      "tags": [
+        "spacex",
+        "starship",
+        "elon-musk",
+        "starlink",
+        "faa",
+        "mexico",
+        "technology"
+      ],
+      "sources": [
+        {
+          "title": "Starship Flight 14",
+          "outlet": "SpaceX",
+          "url": "https://www.spacex.com/launches/starship-flight-14/",
+          "role": "origin"
+        },
+        {
+          "title": "SpaceX's Starship makes orbital debut deploying Starlinks before early ending",
+          "outlet": "Reuters",
+          "url": "https://www.reuters.com/business/media-telecom/spacexs-starship-launches-14th-flight-first-headed-orbit-2026-09-28/",
+          "role": "origin"
+        },
+        {
+          "title": "SpaceX will attempt 1st-ever double Starship rocket catch on next test launch",
+          "outlet": "Space.com",
+          "url": "https://www.space.com/space-exploration/launches-spacecraft/spacex-will-attempt-1st-ever-double-starship-rocket-catch-on-next-test-launch-a-profound-technology-milestone-elon-musk-says",
+          "role": "origin"
+        },
+        {
+          "title": "SpaceX to attempt Starship catch on next flight, with eye on rapid cadence increase",
+          "outlet": "Ars Technica",
+          "url": "https://arstechnica.com/space/2026/10/spacex-will-attempt-to-reach-weekly-starship-launches-by-early-2027/",
+          "role": "context"
+        },
+        {
+          "title": "SpaceX working through Starship Flight 15 and 16 milestones",
+          "outlet": "NASASpaceFlight.com",
+          "url": "https://www.nasaspaceflight.com/2026/10/spacex-flight-15-16-milestones/",
+          "role": "context"
+        },
+        {
+          "title": "Starship (finally) reaches orbit",
+          "outlet": "The Space Review",
+          "url": "https://thespacereview.com/article/5324/1",
+          "role": "context"
+        },
+        {
+          "title": "Space debris on Mexico's Bagdad Beach might be from a launch by SpaceX",
+          "outlet": "Mexico News Daily",
+          "url": "https://mexiconewsdaily.com/news/space-debris-mexicos-bagdad-beach-launch-by-musks-spacex/",
+          "role": "side"
+        }
+      ],
+      "path": "dispatches/2026-10-25-starship-orbit-dual-catch/index.md",
+      "words": 525
+    },
+    {
+      "slug": "2026-10-15-tesla-roadster-leaves-the-ground",
+      "desk": "ΛRX Intercept",
+      "author": "Arx",
+      "category": "Technology",
+      "story_type": "contested",
+      "title": "Tesla's Roadster Leaves the Ground",
+      "dek": "Nine years after its first reveal, the car lifts off on compressed-air thrusters.",
+      "date": "2026-10-15",
+      "location": "Near Waco, Texas",
+      "coords": [
+        31.5493,
+        -97.1467
+      ],
+      "card": "dispatches/2026-10-15-tesla-roadster-leaves-the-ground/card.png",
+      "art": "dispatches/2026-10-15-tesla-roadster-leaves-the-ground/art.jpg",
+      "pair": {
+        "left_label": "Enthusiasts Say",
+        "left": "Commentator Carol Roth says America needs more Elon Musks, and that policy should reward that kind of risk.",
+        "right_label": "Skeptics Say",
+        "right": "AI scientist Yann LeCun says the demo car must be a light shell of air tanks, \"Cute demo, but totally impractical.\""
+      },
+      "reading": {
+        "label": "The Stakes",
+        "text": "One side sees ambition, the other a marketing stunt; at stake is how far a promise may run ahead of a product."
+      },
+      "tags": [
+        "tesla",
+        "elon-musk",
+        "roadster",
+        "flying-cars",
+        "retrofuturism",
+        "technology"
+      ],
+      "sources": [
+        {
+          "title": "Tesla reveals SpaceX-powered Roadster that flies and falls with style",
+          "outlet": "TechCrunch",
+          "url": "https://techcrunch.com/2026/10/15/tesla-reveals-spacex-powered-roadster-that-flies-and-falls-with-style/",
+          "role": "origin"
+        },
+        {
+          "title": "With Tesla Roadster debut, Elon Musk shows \"flying cars are real\"",
+          "outlet": "CBS News",
+          "url": "https://www.cbsnews.com/news/tesla-roadster-debut-elon-musk-flying-cars-are-real/",
+          "role": "origin"
+        },
+        {
+          "title": "Elon Musk's flying Tesla is gloriously absurd",
+          "outlet": "Axios",
+          "url": "https://www.axios.com/2026/10/16/tesla-roadster-elon-musk-flying-car",
+          "role": "context"
+        },
+        {
+          "title": "Wait, Was Elon's \"Flying Car\" Just an Empty Shell?",
+          "outlet": "Futurism",
+          "url": "https://futurism.com/advanced-transport/elon-flying-car-empty-shell",
+          "role": "side"
+        },
+        {
+          "title": "Elon Musk is building the future. America needs thousands more like him",
+          "outlet": "Fox News (opinion, Carol Roth)",
+          "url": "https://www.foxnews.com/opinion/want-flying-cars-america-needs-thousands-more-elon-musks-less-red-tape",
+          "role": "side"
+        },
+        {
+          "title": "Futurama (New York World's Fair)",
+          "outlet": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Futurama_(New_York_World%27s_Fair)",
+          "role": "context"
+        },
+        {
+          "title": "Retrofuturism",
+          "outlet": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Retrofuturism",
+          "role": "context"
+        },
+        {
+          "title": "Founders Fund",
+          "outlet": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Founders_Fund",
+          "role": "context"
+        }
+      ],
+      "path": "dispatches/2026-10-15-tesla-roadster-leaves-the-ground/index.md",
+      "words": 562
+    },
+    {
+      "slug": "2026-01-03-us-forces-seize-maduro-in-caracas",
+      "desk": "ΛRX Intercept",
+      "author": "Arx",
+      "category": "Politics",
+      "story_type": "contested",
+      "title": "US Forces Seize Maduro in Caracas and Fly Him to New York",
+      "dek": "Before dawn on 3 January 2026, US aircraft and Delta Force raid Caracas and seize Nicolás Maduro; his deputy keeps the government, and Washington takes charge of the oil money.",
+      "date": "2026-01-03",
+      "location": "Caracas, Venezuela",
+      "coords": [
+        10.4806,
+        -66.9036
+      ],
+      "severity": 5,
+      "card": "dispatches/2026-01-03-us-forces-seize-maduro-in-caracas/card.png",
+      "art": "dispatches/2026-01-03-us-forces-seize-maduro-in-caracas/art.jpg",
+      "pair": {
+        "left_label": "Trump Said",
+        "left": "Trump said the US would \"run the country until such time as we can do a safe, proper and judicious transition.\"",
+        "right_label": "Rodríguez Said",
+        "right": "Delcy Rodríguez called the raid an \"illegal and illegitimate kidnapping\" and said Venezuela would \"never again be a colony of any empire.\""
+      },
+      "reading": {
+        "label": "The Stakes",
+        "text": "Both sides speak of law; at stake is who controls the world's largest proven oil reserves, and whether Washington may remove a leader in its hemisphere alone."
+      },
+      "tags": [
+        "venezuela",
+        "united-states",
+        "trump",
+        "maduro",
+        "delcy-rodriguez",
+        "oil",
+        "caribbean",
+        "international-law"
+      ],
+      "sources": [
+        {
+          "title": "How the US captured Venezuelan leader Nicolás Maduro",
+          "outlet": "AP News",
+          "url": "https://apnews.com/article/trump-maduro-venezuela-presidential-palace-blowtorches-7969152ae48510003fe9cbde92f3c102",
+          "role": "origin"
+        },
+        {
+          "title": "What we know about a US strike that captured Venezuela's Maduro",
+          "outlet": "AP News",
+          "url": "https://apnews.com/article/venezuela-us-maduro-what-to-know-a57528ff315a7f70ed51a1721f5e0bc2",
+          "role": "origin"
+        },
+        {
+          "title": "Trump says second Venezuela strike possible if government does not cooperate",
+          "outlet": "Reuters",
+          "url": "https://www.reuters.com/world/us/venezuelas-maduro-custody-trump-says-us-will-run-country-2026-01-04/",
+          "role": "origin"
+        },
+        {
+          "title": "Trump says US is taking partial control of Venezuela's vast oil reserves",
+          "outlet": "Reuters",
+          "url": "https://www.reuters.com/business/energy/us-enters-into-oil-agreement-with-venezuela-trump-says-2026-08-28/",
+          "role": "origin"
+        },
+        {
+          "title": "US capture of Maduro raises new legal questions",
+          "outlet": "AP News",
+          "url": "https://apnews.com/article/legal-questions-maduro-trump-venezuela-capture-congress-7c686106ae7ffc759e5a1726e1b85576",
+          "role": "context"
+        },
+        {
+          "title": "2026 United States intervention in Venezuela",
+          "outlet": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/2026_United_States_intervention_in_Venezuela",
+          "role": "context"
+        },
+        {
+          "title": "Trump Announces U.S. Military's Capture of Maduro",
+          "outlet": "U.S. Department of War",
+          "url": "https://www.war.gov/News/News-Stories/Article/Article/4370431/trump-announces-us-militarys-capture-of-maduro/",
+          "role": "side"
+        },
+        {
+          "title": "Fact Sheet: President Donald J. Trump Announces Historic Oil Agreement to Secure American Energy Dominance and Drive Venezuela's Economic Recovery",
+          "outlet": "The White House",
+          "url": "https://www.whitehouse.gov/fact-sheets/2026/08/fact-sheet-president-donald-j-trump-announces-historic-oil-agreement-to-secure-american-energy-dominance-and-drive-venezuelas-economic-recovery/",
+          "role": "side"
+        },
+        {
+          "title": "Venezuelan officials condemn Maduro's capture, calling it a \"kidnapping\"",
+          "outlet": "CBS News",
+          "url": "https://www.cbsnews.com/news/venezuelan-officials-condemn-maduro-capture-kidnapping-trump-delcy-rodriguez/",
+          "role": "side"
+        }
+      ],
+      "path": "dispatches/2026-01-03-us-forces-seize-maduro-in-caracas/index.md",
+      "words": 754
+    },
+    {
+      "slug": "2025-06-13-israel-and-the-us-bomb-irans-nuclear-sites",
+      "desk": "ΛRX Intercept",
+      "author": "Arx",
+      "category": "Conflict",
+      "story_type": "contested",
+      "title": "Israel and the US Bomb Iran's Nuclear Sites in a Twelve-Day War",
+      "dek": "Israel opens a surprise air war on Iran on 13 June 2025; nine days later US bombers hit Fordow, Natanz and Isfahan, and a ceasefire Trump brokers takes hold on 24 June.",
+      "date": "2025-06-13",
+      "location": "Natanz, Iran",
+      "coords": [
+        33.724,
+        51.727
+      ],
+      "severity": 5,
+      "card": "dispatches/2025-06-13-israel-and-the-us-bomb-irans-nuclear-sites/card.png",
+      "art": "dispatches/2025-06-13-israel-and-the-us-bomb-irans-nuclear-sites/art.jpg",
+      "pair": {
+        "left_label": "Trump Said",
+        "left": "Trump said Iran's key enrichment sites had been \"completely and totally obliterated\" and that Iran, \"the bully of the Middle East, must now make peace.\"",
+        "right_label": "Khamenei Said",
+        "right": "Ali Khamenei said \"the Islamic Republic slapped America in the face\" and that the US strikes failed to \"achieve anything significant.\""
+      },
+      "reading": {
+        "label": "The Stakes",
+        "text": "Both sides claim victory; at stake is whether bombing can keep a state from the bomb, and whether Israel and the US may strike Iran whenever they judge it close."
+      },
+      "tags": [
+        "iran",
+        "israel",
+        "united-states",
+        "trump",
+        "khamenei",
+        "netanyahu",
+        "nuclear",
+        "fordow",
+        "war"
+      ],
+      "sources": [
+        {
+          "title": "Iranian commanders and nuclear scientists killed in Israeli strikes",
+          "outlet": "Reuters",
+          "url": "https://www.reuters.com/world/middle-east/iranian-commanders-nuclear-scientists-killed-israeli-strikes-2025-06-13/",
+          "role": "origin"
+        },
+        {
+          "title": "How the US bombarded Iranian nuclear sites without detection",
+          "outlet": "AP News",
+          "url": "https://apnews.com/article/iran-fordo-us-strike-trump-israel-nuclear-sites-320a85327f94ed7496f09564261f3148",
+          "role": "origin"
+        },
+        {
+          "title": "Ceasefire between Israel and Iran appears to hold as Trump vents frustration with both sides",
+          "outlet": "AP News",
+          "url": "https://apnews.com/article/israel-iran-trump-ceasefire-attacks-continue-f1e60190722cc3410b69f21717872ffa",
+          "role": "origin"
+        },
+        {
+          "title": "Supreme Leader, in first appearance since ceasefire, says Iran would strike back if attacked",
+          "outlet": "Reuters",
+          "url": "https://www.reuters.com/world/middle-east/supreme-leader-first-appearance-since-ceasefire-says-iran-would-strike-back-if-2025-06-26/",
+          "role": "origin"
+        },
+        {
+          "title": "Twelve-Day War",
+          "outlet": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Twelve-Day_War",
+          "role": "context"
+        },
+        {
+          "title": "Address to the Nation on United States Airstrikes on Iran, 21 June 2025",
+          "outlet": "GovInfo (White House)",
+          "url": "https://www.govinfo.gov/content/pkg/DCPD-202500711/html/DCPD-202500711.htm",
+          "role": "side"
+        },
+        {
+          "title": "Iran's Supreme Leader makes first public statement since ceasefire",
+          "outlet": "AP News",
+          "url": "https://apnews.com/article/israel-iran-war-nuclear-06-26-2025-d09bf2282deea3b2edd63f29c867c058",
+          "role": "side"
+        }
+      ],
+      "path": "dispatches/2025-06-13-israel-and-the-us-bomb-irans-nuclear-sites/index.md",
+      "words": 741
+    },
+    {
+      "slug": "2025-04-02-trump-declares-liberation-day-tariffs",
+      "desk": "ΛRX Intercept",
+      "author": "Arx",
+      "category": "Economy",
+      "story_type": "contested",
+      "title": "Trump Declares 'Liberation Day' and Tariffs Nearly Every Country",
+      "dek": "From the Rose Garden, Trump sets a 10% tariff on nearly all imports and higher rates on dozens of countries; the S&P 500 sheds $5 trillion in two days.",
+      "date": "2025-04-02",
+      "location": "Washington, DC, United States",
+      "coords": [
+        38.8975,
+        -77.0372
+      ],
+      "severity": 5,
+      "card": "dispatches/2025-04-02-trump-declares-liberation-day-tariffs/card.png",
+      "art": "dispatches/2025-04-02-trump-declares-liberation-day-tariffs/art.jpg",
+      "pair": {
+        "left_label": "Trump Said",
+        "left": "Trump called the tariffs \"our declaration of economic independence\" after decades of being \"looted, pillaged, raped, and plundered.\"",
+        "right_label": "Beijing Said",
+        "right": "China's commerce ministry called them \"a typical unilateral bullying practice\" and vowed to \"fight to the end.\""
+      },
+      "reading": {
+        "label": "The Stakes",
+        "text": "Both sides speak of fairness; at stake is whether access to the US market can be rationed to pull factories home, and who may set the price."
+      },
+      "tags": [
+        "united-states",
+        "trump",
+        "tariffs",
+        "trade",
+        "china",
+        "ieepa",
+        "supreme-court",
+        "markets"
+      ],
+      "sources": [
+        {
+          "title": "Trump announces sweeping new tariffs to promote US manufacturing, risking inflation and trade wars",
+          "outlet": "AP News",
+          "url": "https://apnews.com/article/trump-tariffs-liberation-day-2a031b3c16120a5672a6ddd01da09933",
+          "role": "origin"
+        },
+        {
+          "title": "S&P 500 loses $5 trillion in two days in Trump tariff selloff",
+          "outlet": "Reuters",
+          "url": "https://www.reuters.com/markets/global-markets-wrapup-1-2025-04-04/",
+          "role": "origin"
+        },
+        {
+          "title": "China strikes back with 125% tariffs on U.S. goods as trade war intensifies",
+          "outlet": "CNBC",
+          "url": "https://www.cnbc.com/2025/04/11/china-strikes-back-with-125percent-tariffs-on-us-goods-starting-april-12.html",
+          "role": "origin"
+        },
+        {
+          "title": "Learning Resources, Inc. v. Trump, No. 24-1287 (20 February 2026)",
+          "outlet": "Supreme Court of the United States",
+          "url": "https://www.supremecourt.gov/opinions/25pdf/24-1287_4gcj.pdf",
+          "role": "origin"
+        },
+        {
+          "title": "Supreme Court Rules Against Tariffs Imposed Under the International Emergency Economic Powers Act (IEEPA)",
+          "outlet": "Congressional Research Service",
+          "url": "https://www.congress.gov/crs-product/LSB11398",
+          "role": "context"
+        },
+        {
+          "title": "Liberation Day tariffs",
+          "outlet": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Liberation_Day_tariffs",
+          "role": "context"
+        },
+        {
+          "title": "Remarks Announcing Additional United States Tariff Actions on Foreign Imports, 2 April 2025",
+          "outlet": "GovInfo (White House)",
+          "url": "https://www.govinfo.gov/content/pkg/DCPD-202500423/html/DCPD-202500423.htm",
+          "role": "side"
+        },
+        {
+          "title": "China will 'fight to the end' after Trump threatens to impose more tariffs",
+          "outlet": "AP News",
+          "url": "https://apnews.com/article/china-us-tariffs-trade-trump-b5010acb08114304d8c36267b47eda13",
+          "role": "side"
+        }
+      ],
+      "path": "dispatches/2025-04-02-trump-declares-liberation-day-tariffs/index.md",
+      "words": 751
+    },
+    {
+      "slug": "2024-12-08-rebels-take-damascus-as-assad-flees",
+      "desk": "ΛRX Intercept",
+      "author": "Arx",
+      "category": "Diplomacy",
+      "story_type": "contested",
+      "title": "Rebels Take Damascus as Bashar al-Assad Flees",
+      "dek": "An offensive led by Hayat Tahrir al-Sham reaches the capital in 11 days and ends 54 years of Assad family rule.",
+      "date": "2024-12-08",
+      "location": "Damascus, Syria",
+      "coords": [
+        33.5116,
+        36.3065
+      ],
+      "severity": 5,
+      "card": "dispatches/2024-12-08-rebels-take-damascus-as-assad-flees/card.png",
+      "art": "dispatches/2024-12-08-rebels-take-damascus-as-assad-flees/art.jpg",
+      "pair": {
+        "left_label": "Assad's Foes Say",
+        "left": "Al-Sharaa says \"a new history\" is being written; Biden calls the fall \"a fundamental act of justice.\"",
+        "right_label": "Assad's Camp Says",
+        "right": "Khamenei calls it \"a joint American and Zionist plot\"; Assad says he never considered \"stepping down.\""
+      },
+      "reading": {
+        "label": "The Stakes",
+        "text": "One side calls it justice, the other a foreign plot; at stake is whether Syria stays Iran and Russia’s corridor or answers to new patrons."
+      },
+      "tags": [
+        "syria",
+        "assad",
+        "hts",
+        "iran",
+        "russia",
+        "israel",
+        "damascus"
+      ],
+      "sources": [
+        {
+          "title": "Syrian rebels topple Assad who flees to Russia in Mideast shakeup",
+          "outlet": "Reuters",
+          "url": "https://www.reuters.com/world/middle-east/syria-rebels-celebrate-captured-homs-set-sights-damascus-2024-12-07/",
+          "role": "origin"
+        },
+        {
+          "title": "Remarks on the Situation in Syria and an Exchange With Reporters, 8 December 2024",
+          "outlet": "The American Presidency Project",
+          "url": "https://www.presidency.ucsb.edu/documents/remarks-the-situation-syria-and-exchange-with-reporters",
+          "role": "origin"
+        },
+        {
+          "title": "Fall of the Assad regime",
+          "outlet": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Fall_of_the_Assad_regime",
+          "role": "context"
+        },
+        {
+          "title": "'New history written' says HTS leader al-Julani in Syria victory speech",
+          "outlet": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2024/12/8/hts-leader-al-julani-arrives-in-syrias-capital-delivers-victory-speech",
+          "role": "side"
+        },
+        {
+          "title": "Iranian Leader Blames Assad's Downfall On U.S., Israel, And Turkey",
+          "outlet": "RFE/RL",
+          "url": "https://www.rferl.org/a/iran-khamenei-syria-assad-turkey-israel-united-states/33235885.html",
+          "role": "side"
+        },
+        {
+          "title": "Assad says he had no plans to leave Syria, was evacuated by Russians",
+          "outlet": "PBS News",
+          "url": "https://www.pbs.org/newshour/world/assad-says-he-had-no-plans-to-leave-syria-was-evacuated-by-russians",
+          "role": "side"
+        }
+      ],
+      "path": "dispatches/2024-12-08-rebels-take-damascus-as-assad-flees/index.md",
+      "words": 504
+    },
+    {
+      "slug": "2024-11-05-trump-wins-second-nonconsecutive-term",
+      "desk": "ΛRX Intercept",
+      "author": "Arx",
+      "category": "Politics",
+      "story_type": "partisan",
+      "title": "Trump Wins a Second, Non-Consecutive Term",
+      "dek": "Donald Trump carries all seven swing states, 312 electoral votes and the popular vote; Kamala Harris concedes at Howard University.",
+      "date": "2024-11-05",
+      "location": "Washington, D.C.",
+      "coords": [
+        38.8899,
+        -77.0091
+      ],
+      "severity": 5,
+      "card": "dispatches/2024-11-05-trump-wins-second-nonconsecutive-term/card.png",
+      "art": "dispatches/2024-11-05-trump-wins-second-nonconsecutive-term/art.jpg",
+      "pair": {
+        "left_label": "Trump Says",
+        "left": "Trump says \"America has given us an unprecedented and powerful mandate.\"",
+        "right_label": "Harris Says",
+        "right": "Harris says she concedes the election but does \"not concede the fight that fueled this campaign.\""
+      },
+      "reading": {
+        "label": "The Stakes",
+        "text": "One side calls the result a mandate, the other a lost round in a longer fight; at stake is how much power a 49.8% win confers."
+      },
+      "tags": [
+        "united-states",
+        "elections",
+        "trump",
+        "harris",
+        "electoral-college",
+        2024
+      ],
+      "sources": [
+        {
+          "title": "Remarks Accepting Election as the 47th President of the United States in Palm Beach, Florida",
+          "outlet": "The American Presidency Project",
+          "url": "https://presidency.ucsb.edu/documents/remarks-accepting-election-the-47th-president-the-united-states-palm-beach-florida",
+          "role": "origin"
+        },
+        {
+          "title": "Address Conceding the 2024 Presidential Election",
+          "outlet": "The American Presidency Project",
+          "url": "https://www.presidency.ucsb.edu/documents/address-conceding-the-2024-presidential-election",
+          "role": "origin"
+        },
+        {
+          "title": "2024 United States presidential election",
+          "outlet": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/2024_United_States_presidential_election",
+          "role": "context"
+        },
+        {
+          "title": "Harris urges supporters to 'never give up the fight for our democracy' in concession",
+          "outlet": "PBS News",
+          "url": "https://www.pbs.org/newshour/show/harris-urges-supporters-to-never-give-up-the-fight-for-our-democracy-in-concession",
+          "role": "side"
+        },
+        {
+          "title": "Full transcript: Donald Trump's 2024 election victory speech",
+          "outlet": "NBC4 Washington",
+          "url": "https://www.nbcwashington.com/news/local/donald-trump-victory-speech-presidential-election/3762750/",
+          "role": "side"
+        }
+      ],
+      "path": "dispatches/2024-11-05-trump-wins-second-nonconsecutive-term/index.md",
+      "words": 521
+    },
+    {
+      "slug": "2023-06-24-wagner-marches-on-moscow-then-turns-back",
+      "desk": "ΛRX Intercept",
+      "author": "Arx",
+      "category": "Politics",
+      "story_type": "contested",
+      "title": "Wagner Marches on Moscow, Then Turns Back",
+      "dek": "Yevgeny Prigozhin's mercenaries take Rostov-on-Don and drive north for a day before a deal brokered by Alexander Lukashenko halts them.",
+      "date": "2023-06-24",
+      "location": "Rostov-on-Don, Russia",
+      "coords": [
+        47.2357,
+        39.7015
+      ],
+      "severity": 4,
+      "card": "dispatches/2023-06-24-wagner-marches-on-moscow-then-turns-back/card.png",
+      "art": "dispatches/2023-06-24-wagner-marches-on-moscow-then-turns-back/art.jpg",
+      "pair": {
+        "left_label": "Putin Says",
+        "left": "Putin calls the mutiny \"a knife in the back\" of Russia and \"treason\" born of \"inflated ambitions.\"",
+        "right_label": "Prigozhin Said",
+        "right": "Prigozhin called it \"a march of justice\" and turned back so no \"Russian blood\" would be spilled."
+      },
+      "reading": {
+        "label": "The Stakes",
+        "text": "One side calls it treason, the other justice; at stake is whether anyone but the Kremlin may command armed men in Russia."
+      },
+      "tags": [
+        "russia",
+        "wagner",
+        "prigozhin",
+        "putin",
+        "mutiny",
+        "rostov-on-don",
+        "belarus"
+      ],
+      "sources": [
+        {
+          "title": "Leader of Wagner mercenaries says forces entered Russian city of Rostov facing no resistance",
+          "outlet": "PBS News (AP)",
+          "url": "https://www.pbs.org/newshour/world/leader-of-wagner-mercenaries-says-forces-entered-russian-city-of-rostov-facing-no-resistance",
+          "role": "origin"
+        },
+        {
+          "title": "Rebel Russian mercenaries turn back short of Moscow 'to avoid bloodshed'",
+          "outlet": "Reuters",
+          "url": "https://www.reuters.com/world/europe/rebel-russian-mercenaries-turn-back-short-moscow-to-avoid-bloodshed-2023-06-24/",
+          "role": "origin"
+        },
+        {
+          "title": "US intel: Intentional explosion brought down Wagner chief's plane",
+          "outlet": "VOA",
+          "url": "https://www.voanews.com/a/us-intel-intentional-explosion-brought-down-wagner-chief-s-plane/7240028.html",
+          "role": "origin"
+        },
+        {
+          "title": "Wagner Group rebellion",
+          "outlet": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Wagner_Group_rebellion",
+          "role": "context"
+        },
+        {
+          "title": "Africa Corps (Russia)",
+          "outlet": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Africa_Corps_(Russia)",
+          "role": "context"
+        },
+        {
+          "title": "Address to citizens of Russia, 24 June 2023",
+          "outlet": "President of Russia",
+          "url": "http://en.kremlin.ru/events/president/news/71496",
+          "role": "side"
+        },
+        {
+          "title": "Wagner chief vows to topple Russian military leaders",
+          "outlet": "BBC News",
+          "url": "https://www.bbc.com/news/world-europe-66005256",
+          "role": "side"
+        },
+        {
+          "title": "Putin offers condolences to families of plane crash victims believed to include Prigozhin",
+          "outlet": "RFE/RL",
+          "url": "https://www.rferl.org/a/prigozhin-plane-crash-russia-putin-mutiny/32562550.html",
+          "role": "side"
+        },
+        {
+          "title": "Russia plane crash: Kremlin denies role in Yevgeny Prigozhin's presumed death",
+          "outlet": "ABC7 (AP)",
+          "url": "https://abc7news.com/post/yevgeny-prigozhin-russia-plane-crash-how-did-russian-mercenary-leader-die-president-putin/13699734/",
+          "role": "side"
+        }
+      ],
+      "path": "dispatches/2023-06-24-wagner-marches-on-moscow-then-turns-back/index.md",
+      "words": 699
+    },
+    {
+      "slug": "2022-02-28-west-freezes-russias-central-bank-reserves",
+      "desk": "ΛRX Intercept",
+      "author": "Arx",
+      "category": "Economy",
+      "story_type": "contested",
+      "title": "The West Freezes Russia's Central Bank Reserves",
+      "dek": "The US, EU, UK and allies lock up about $300 billion of the Bank of Russia's reserves and move to cut major Russian banks from SWIFT.",
+      "date": "2022-02-28",
+      "location": "Moscow, Russia",
+      "coords": [
+        55.7609,
+        37.6205
+      ],
+      "severity": 5,
+      "card": "dispatches/2022-02-28-west-freezes-russias-central-bank-reserves/card.png",
+      "art": "dispatches/2022-02-28-west-freezes-russias-central-bank-reserves/art.jpg",
+      "pair": {
+        "left_label": "G7 Leaders Said",
+        "left": "Western leaders vowed to stop the Bank of Russia \"deploying its international reserves in ways that undermine the impact of our sanctions.\"",
+        "right_label": "Lavrov Said",
+        "right": "Sergei Lavrov said the West had \"tossed out all their principles\" and called the freeze \"nothing but theft.\""
+      },
+      "reading": {
+        "label": "The Stakes",
+        "text": "Each side says it defends the rules; at stake is whether a state's reserves held abroad stay its own once it goes to war."
+      },
+      "tags": [
+        "russia",
+        "sanctions",
+        "central-bank",
+        "reserves",
+        "swift",
+        "euroclear",
+        "gold",
+        "ukraine"
+      ],
+      "sources": [
+        {
+          "title": "Russian central bank hikes rate to 20% in emergency move, tells firms to sell FX",
+          "outlet": "Reuters",
+          "url": "https://www.reuters.com/business/finance/russia-hikes-key-rate-20-tells-companies-sell-fx-2022-02-28/",
+          "role": "origin"
+        },
+        {
+          "title": "Sanctions have frozen around $300 bln of Russian reserves, FinMin says",
+          "outlet": "Reuters",
+          "url": "https://www.reuters.com/article/markets/currencies/sanctions-have-frozen-around-300-bln-of-russian-reserves-finmin-says-idUSL5N2VG0BU/",
+          "role": "origin"
+        },
+        {
+          "title": "EU bans certain Russian banks from SWIFT system and introduces further restrictions",
+          "outlet": "Council of the EU",
+          "url": "https://www.consilium.europa.eu/en/press/press-releases/2022/03/02/russia-s-military-aggression-against-ukraine-eu-bans-certain-russian-banks-from-swift-system-and-introduces-further-restrictions/",
+          "role": "origin"
+        },
+        {
+          "title": "Council decides to prohibit transfers of immobilised Central Bank of Russia assets back to Russia",
+          "outlet": "Council of the EU",
+          "url": "https://www.consilium.europa.eu/en/press/press-releases/2025/12/12/council-decides-to-prohibit-transfers-of-immobilised-central-bank-of-russia-assets-back-to-russia/",
+          "role": "origin"
+        },
+        {
+          "title": "EU leaders will loan 90 billion euros to Ukraine, but fail to agree to use frozen Russian assets",
+          "outlet": "Reuters",
+          "url": "https://www.reuters.com/world/europe/eu-leaders-agree-ukraine-financing-2026-27-belgiums-approval-key-2025-12-18/",
+          "role": "origin"
+        },
+        {
+          "title": "Euroclear appeals Russian ruling on €200.1 billion claim, with hearing on 22 October",
+          "outlet": "The Global Banker",
+          "url": "https://www.theglobalbanker.com/euroclear-appeals-russian-ruling-on-eur200-1-billion-claim-with-hearing-on-22-october/",
+          "role": "origin"
+        },
+        {
+          "title": "Court rejects Euroclear's cassation appeal on €200 billion claim by the Bank of Russia (in Russian)",
+          "outlet": "RAPSI",
+          "url": "https://rapsinews.ru/judicial_news/20261022/312310072.html",
+          "role": "origin"
+        },
+        {
+          "title": "International sanctions during the Russian invasion of Ukraine",
+          "outlet": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/International_sanctions_during_the_Russian_invasion_of_Ukraine",
+          "role": "context"
+        },
+        {
+          "title": "Gold Demand Trends Full Year 2024: Central banks",
+          "outlet": "World Gold Council",
+          "url": "https://www.gold.org/goldhub/research/gold-demand-trends/gold-demand-trends-full-year-2024/central-banks",
+          "role": "context"
+        },
+        {
+          "title": "Joint Statement on further restrictive economic measures, 26 February 2022",
+          "outlet": "Prime Minister of Canada",
+          "url": "https://www.pm.gc.ca/en/news/statements/2022/02/26/joint-statement-further-restrictive-economic-measures",
+          "role": "side"
+        },
+        {
+          "title": "Lavrov describes West's freeze on Russian Central Bank's assets as theft",
+          "outlet": "Interfax",
+          "url": "https://interfax.com/newsroom/top-stories/75126/",
+          "role": "side"
+        }
+      ],
+      "path": "dispatches/2022-02-28-west-freezes-russias-central-bank-reserves/index.md",
+      "words": 753
+    },
+    {
+      "slug": "2021-08-15-taliban-take-kabul-as-us-withdraws",
+      "desk": "ΛRX Intercept",
+      "author": "Arx",
+      "category": "Diplomacy",
+      "story_type": "contested",
+      "title": "Taliban Take Kabul as the Afghan Republic Collapses",
+      "dek": "Ashraf Ghani flees, and a US-led airlift flies out more than 123,000 people before the last troops leave on 30 August.",
+      "date": "2021-08-15",
+      "location": "Kabul, Afghanistan",
+      "coords": [
+        34.5328,
+        69.1658
+      ],
+      "severity": 5,
+      "card": "dispatches/2021-08-15-taliban-take-kabul-as-us-withdraws/card.png",
+      "art": "dispatches/2021-08-15-taliban-take-kabul-as-us-withdraws/art.jpg",
+      "pair": {
+        "left_label": "Washington Says",
+        "left": "Biden says he stands \"squarely\" behind his decision; Blinken says \"this is manifestly not Saigon.\"",
+        "right_label": "Allied Critics Say",
+        "right": "Laschet says it is NATO's \"biggest debacle\" since its creation; Tugendhat says it was \"like a rug pulled from under\" partners."
+      },
+      "reading": {
+        "label": "The Stakes",
+        "text": "One side says it ended a war it could not win, the other that it broke faith with partners; at stake is what a US guarantee is worth."
+      },
+      "tags": [
+        "afghanistan",
+        "taliban",
+        "united-states",
+        "nato",
+        "withdrawal",
+        "kabul"
+      ],
+      "sources": [
+        {
+          "title": "Taliban sweep into Afghan capital after government collapses",
+          "outlet": "AP",
+          "url": "https://apnews.com/article/afghanistan-taliban-kabul-bagram-e1ed33fe0c665ee67ba132c51b8e32a5",
+          "role": "origin"
+        },
+        {
+          "title": "Remarks on the Situation in Afghanistan, 16 August 2021",
+          "outlet": "The American Presidency Project",
+          "url": "https://www.presidency.ucsb.edu/documents/remarks-the-situation-afghanistan",
+          "role": "origin"
+        },
+        {
+          "title": "Fall of Kabul (2021)",
+          "outlet": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Fall_of_Kabul_(2021)",
+          "role": "context"
+        },
+        {
+          "title": "'This is manifestly not Saigon': Blinken defends US mission in Afghanistan",
+          "outlet": "The Guardian",
+          "url": "https://www.theguardian.com/us-news/2021/aug/15/antony-blinken-us-mission-afghanistan-saigon",
+          "role": "side"
+        },
+        {
+          "title": "Afghanistan troop withdrawals slammed as 'NATO's biggest debacle'",
+          "outlet": "Euronews",
+          "url": "https://www.euronews.com/2021/08/16/betrayal-uk-and-us-politicians-slam-afghanistan-troop-withdrawals-as-taliban-advance",
+          "role": "side"
+        }
+      ],
+      "path": "dispatches/2021-08-15-taliban-take-kabul-as-us-withdraws/index.md",
+      "words": 546
+    },
+    {
+      "slug": "2021-01-06-trump-supporters-storm-the-capitol",
+      "desk": "ΛRX Intercept",
+      "author": "Arx",
+      "category": "Politics",
+      "story_type": "partisan",
+      "title": "Trump Supporters Storm the US Capitol",
+      "dek": "A mob halts Congress's count of Joe Biden's win for hours; Mike Pence declares the result before dawn on 7 January.",
+      "date": "2021-01-06",
+      "location": "Washington, D.C.",
+      "coords": [
+        38.8899,
+        -77.0091
+      ],
+      "severity": 5,
+      "card": "dispatches/2021-01-06-trump-supporters-storm-the-capitol/card.png",
+      "art": "dispatches/2021-01-06-trump-supporters-storm-the-capitol/art.jpg",
+      "pair": {
+        "left_label": "Trump Says",
+        "left": "Trump calls it \"a day of love\"; his pardon order says it \"ends a grave national injustice.\"",
+        "right_label": "His Critics Say",
+        "right": "McConnell calls Trump \"practically and morally responsible\"; Biden says the mob \"held a dagger at the throat of America.\""
+      },
+      "reading": {
+        "label": "The Stakes",
+        "text": "One side says the state punished his supporters, the other that he tried to keep power he lost; at stake is who certifies a US election."
+      },
+      "tags": [
+        "united-states",
+        "january-6",
+        "capitol",
+        "trump",
+        "election-2020",
+        "pardons"
+      ],
+      "sources": [
+        {
+          "title": "Biden win confirmed after pro-Trump mob storms US Capitol",
+          "outlet": "AP",
+          "url": "https://apnews.com/article/joe-biden-confirmed-0409d7d753461377ff2c5bb91ac4050c",
+          "role": "origin"
+        },
+        {
+          "title": "Granting Pardons and Commutation of Sentences for Certain Offenses Relating to the Events at or Near the United States Capitol on January 6, 2021",
+          "outlet": "The White House",
+          "url": "https://www.whitehouse.gov/presidential-actions/2025/01/granting-pardons-and-commutation-of-sentences-for-certain-offenses-relating-to-the-events-at-or-near-the-united-states-capitol-on-january-6-2021/",
+          "role": "origin"
+        },
+        {
+          "title": "January 6 United States Capitol attack",
+          "outlet": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/January_6_United_States_Capitol_attack",
+          "role": "context"
+        },
+        {
+          "title": "Congressional Record, Senate, 13 February 2021",
+          "outlet": "govinfo.gov",
+          "url": "https://www.govinfo.gov/content/pkg/CREC-2021-02-13/html/CREC-2021-02-13-pt1-PgS735-2.htm",
+          "role": "side"
+        },
+        {
+          "title": "Remarks on the First Anniversary of the Insurrection at the United States Capitol",
+          "outlet": "The American Presidency Project",
+          "url": "https://www.presidency.ucsb.edu/documents/remarks-the-first-anniversary-the-insurrection-the-united-states-capitol",
+          "role": "side"
+        },
+        {
+          "title": "Trump says Jan. 6 was a \"day of love,\" glossing over his supporters' assault on officers",
+          "outlet": "CBS News",
+          "url": "https://www.cbsnews.com/news/trump-january-6-univision-town-hall/",
+          "role": "side"
+        }
+      ],
+      "path": "dispatches/2021-01-06-trump-supporters-storm-the-capitol/index.md",
+      "words": 604
+    },
+    {
+      "slug": "2020-06-30-beijing-imposes-hong-kong-security-law",
+      "desk": "ΛRX Intercept",
+      "author": "Arx",
+      "category": "Politics",
+      "story_type": "contested",
+      "title": "Beijing Imposes a Security Law on Hong Kong",
+      "dek": "China's top legislature outlaws secession, subversion, terrorism and foreign collusion in Hong Kong, and the law takes effect the same night.",
+      "date": "2020-06-30",
+      "location": "Hong Kong",
+      "coords": [
+        22.2819,
+        114.1659
+      ],
+      "severity": 4,
+      "card": "dispatches/2020-06-30-beijing-imposes-hong-kong-security-law/card.png",
+      "art": "dispatches/2020-06-30-beijing-imposes-hong-kong-security-law/art.jpg",
+      "pair": {
+        "left_label": "Hong Kong's Leaders Say",
+        "left": "Carrie Lam says the law is \"a historical step\" that protects \"the vast majority\" from \"the minority\" who undermine security.",
+        "right_label": "London Says",
+        "right": "Dominic Raab says it \"constitutes a clear and serious breach\" of the 1984 Sino-British Joint Declaration."
+      },
+      "reading": {
+        "label": "The Stakes",
+        "text": "One side says it restored order, the other that it broke a treaty; at stake is who decides how Hong Kong governs itself."
+      },
+      "tags": [
+        "hong-kong",
+        "china",
+        "united-kingdom",
+        "national-security-law",
+        "press-freedom"
+      ],
+      "sources": [
+        {
+          "title": "The Law of the People's Republic of China on Safeguarding National Security in the Hong Kong Special Administrative Region gazetted and takes immediate effect",
+          "outlet": "Hong Kong Government",
+          "url": "https://www.info.gov.hk/gia/general/202006/30/P2020063001015.htm",
+          "role": "origin"
+        },
+        {
+          "title": "Hong Kong ex-publisher Jimmy Lai sentenced to 20 years in Hong Kong security case",
+          "outlet": "AP",
+          "url": "https://apnews.com/article/hong-kong-jimmy-lai-sentencing-apple-daily-1c3baaedf2abe7710f149c55ce4111d9",
+          "role": "origin"
+        },
+        {
+          "title": "2020 Hong Kong national security law",
+          "outlet": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/2020_Hong_Kong_national_security_law",
+          "role": "context"
+        },
+        {
+          "title": "Hong Kong 47",
+          "outlet": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Hong_Kong_47",
+          "role": "context"
+        },
+        {
+          "title": "Speech by CE at reception in celebration of 23rd anniversary of establishment of HKSAR",
+          "outlet": "Hong Kong Government",
+          "url": "https://www.info.gov.hk/gia/general/202007/01/P2020070100213.htm",
+          "role": "side"
+        },
+        {
+          "title": "National security legislation in Hong Kong: Foreign Secretary's statement in Parliament",
+          "outlet": "GOV.UK",
+          "url": "https://www.gov.uk/government/speeches/foreign-secretary-statement-on-national-security-legislation-in-hong-kong",
+          "role": "side"
+        }
+      ],
+      "path": "dispatches/2020-06-30-beijing-imposes-hong-kong-security-law/index.md",
+      "words": 609
+    },
+    {
+      "slug": "2020-03-23-fed-cuts-to-zero-pledges-open-ended-buying",
+      "desk": "ΛRX Intercept",
+      "author": "Arx",
+      "category": "Economy",
+      "story_type": "contested",
+      "title": "Fed Cuts to Zero and Pledges Open-Ended Bond Buying",
+      "dek": "The Federal Reserve's balance sheet climbs from $4.3 trillion to almost $7.2 trillion in under three months.",
+      "date": "2020-03-23",
+      "location": "Washington, D.C.",
+      "coords": [
+        38.8929,
+        -77.0459
+      ],
+      "severity": 4,
+      "card": "dispatches/2020-03-23-fed-cuts-to-zero-pledges-open-ended-buying/card.png",
+      "art": "dispatches/2020-03-23-fed-cuts-to-zero-pledges-open-ended-buying/art.jpg",
+      "pair": {
+        "left_label": "Powell Says",
+        "left": "Powell says the Fed \"crossed a lot of red lines\" and that in this crisis \"you do that and then you figure it out.\"",
+        "right_label": "Summers Says",
+        "right": "Summers says the Fed's easy-money signals are creating \"a dangerous complacency\" in markets."
+      },
+      "reading": {
+        "label": "The Stakes",
+        "text": "One side says the rescue saved jobs and markets, the other that it stoked bubbles and inflation; at stake is how far a central bank may go."
+      },
+      "tags": [
+        "federal-reserve",
+        "quantitative-easing",
+        "covid-19",
+        "interest-rates",
+        "inflation",
+        "united-states"
+      ],
+      "sources": [
+        {
+          "title": "Federal Reserve issues FOMC statement (15 March 2020)",
+          "outlet": "Federal Reserve Board",
+          "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20200315a.htm",
+          "role": "origin"
+        },
+        {
+          "title": "Federal Reserve announces extensive new measures to support the economy (23 March 2020)",
+          "outlet": "Federal Reserve Board",
+          "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20200323b.htm",
+          "role": "origin"
+        },
+        {
+          "title": "Federal Reserve Balance Sheet Developments, August 2020",
+          "outlet": "Federal Reserve Board",
+          "url": "https://www.federalreserve.gov/monetarypolicy/bsd-overview-202008.htm",
+          "role": "context"
+        },
+        {
+          "title": "Federal Reserve Balance Sheet Developments, May 2022",
+          "outlet": "Federal Reserve Board",
+          "url": "https://www.federalreserve.gov/monetarypolicy/files/balance_sheet_developments_report_202205.pdf",
+          "role": "context"
+        },
+        {
+          "title": "Consumer prices up 9.1 percent over the year ended June 2022, largest increase in 40 years",
+          "outlet": "US Bureau of Labor Statistics",
+          "url": "https://www.bls.gov/opub/ted/2022/consumer-prices-up-9-1-percent-over-the-year-ended-june-2022-largest-increase-in-40-years.htm",
+          "role": "context"
+        },
+        {
+          "title": "Powell Says Fed Crossed Red Lines When Virus Demanded Action",
+          "outlet": "Bloomberg",
+          "url": "https://www.bloomberg.com/news/articles/2020-05-29/powell-says-fed-crossed-red-lines-because-virus-demanded-action",
+          "role": "side"
+        },
+        {
+          "title": "Larry Summers accuses Fed of 'dangerous complacency' over inflation",
+          "outlet": "Australian Financial Review (Financial Times)",
+          "url": "https://www.afr.com/policy/economy/larry-summers-accuses-fed-of-dangerous-complacency-over-inflation-20210519-p57t6m",
+          "role": "side"
+        }
+      ],
+      "path": "dispatches/2020-03-23-fed-cuts-to-zero-pledges-open-ended-buying/index.md",
+      "words": 588
+    },
+    {
+      "slug": "1589-02-05-moscow-gets-a-patriarch-and-calls-itself-the-third-rome",
+      "desk": "ΛRX Intercept",
+      "author": "Arx",
+      "category": "Historical Inquiry",
+      "story_type": "contested",
+      "title": "Moscow Gets a Patriarch and Calls Itself the Third Rome",
+      "dek": "In 1589 the patriarch of Constantinople installs Job as Moscow's first patriarch, in a charter that names Russia the Third Rome. In 2018 the two churches split over Kyiv.",
+      "date": "1589-02-05",
+      "location": "Moscow Kremlin, Russia",
+      "coords": [
+        55.7509,
+        37.6171
+      ],
+      "severity": 3,
+      "card": "dispatches/1589-02-05-moscow-gets-a-patriarch-and-calls-itself-the-third-rome/card.png",
+      "art": "dispatches/1589-02-05-moscow-gets-a-patriarch-and-calls-itself-the-third-rome/art.jpg",
+      "pair": {
+        "left_label": "Moscow's Synod Said",
+        "left": "In 2018 Moscow's Holy Synod said Constantinople's Ukraine decisions were an \"encroachment on someone else's canonical regions\" and broke communion with it.",
+        "right_label": "Constantinople's Synod Said",
+        "right": "In 2018 Constantinople's Holy Synod said the 1686 letter letting Moscow ordain Kyiv's metropolitan was \"issued for the circumstances of that time\" and revoked it."
+      },
+      "reading": {
+        "label": "The Stakes",
+        "text": "Both churches cite old charters; at stake is who ranks first in Orthodoxy, and whether the church in Kyiv answers to Moscow or stands on its own."
+      },
+      "tags": [
+        "russia",
+        "orthodoxy",
+        "moscow-patriarchate",
+        "constantinople",
+        "third-rome",
+        "ukraine",
+        "religion",
+        "16th-century"
+      ],
+      "sources": [
+        {
+          "title": "Patriarch Job of Moscow",
+          "outlet": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Patriarch_Job_of_Moscow",
+          "role": "origin"
+        },
+        {
+          "title": "Moscow, third Rome",
+          "outlet": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Moscow,_third_Rome",
+          "role": "origin"
+        },
+        {
+          "title": "Philotheus of Pskov",
+          "outlet": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Philotheus_of_Pskov",
+          "role": "origin"
+        },
+        {
+          "title": "Russian Orthodox Church breaks with Constantinople in row over Ukraine",
+          "outlet": "Reuters",
+          "url": "https://www.reuters.com/article/us-ukraine-church-russia/russian-orthodox-church-breaks-with-constantinople-in-row-over-ukraine-idUSKCN1MP24G/",
+          "role": "origin"
+        },
+        {
+          "title": "2018 Moscow–Constantinople schism",
+          "outlet": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/2018_Moscow%E2%80%93Constantinople_schism",
+          "role": "context"
+        },
+        {
+          "title": "The Three Romes: The Migration of an Ideology and the Making of an Autocrat (Daedalus 88:2, 1959)",
+          "outlet": "Robert Lee Wolff, JSTOR",
+          "url": "https://www.jstor.org/stable/20026497",
+          "role": "context"
+        },
+        {
+          "title": "Russian Orthodox Church breaks \"Eucharistic communion\" with Patriarchate of Constantinople",
+          "outlet": "Vatican News",
+          "url": "https://www.vaticannews.va/en/world/news/2018-10/russian-orthodox-break-communion-with-ecumenical-patriarch.html",
+          "role": "side"
+        },
+        {
+          "title": "Announcement of the Holy and Sacred Synod (11 October 2018)",
+          "outlet": "Ecumenical Patriarchate",
+          "url": "https://ec-patr.org/en/11/10/00/00/announcement-of-the-holy-and-sacred-synod-11th/",
+          "role": "side"
+        }
+      ],
+      "path": "dispatches/1589-02-05-moscow-gets-a-patriarch-and-calls-itself-the-third-rome/index.md",
+      "words": 723
+    }
+  ]
+}

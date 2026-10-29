@@ -1,0 +1,30 @@
+{
+ "layout": "card",
+ "art": "art.jpg",
+ "desk": "ΛRX INTERCEPT",
+ "meta": "5 Feb 1589 · Moscow",
+ "title": "Moscow Gets a Patriarch and Calls Itself the Third Rome",
+ "title_size": 56,
+ "dek": "In 1589 the patriarch of Constantinople installs Job as Moscow's first patriarch, in a charter that names Russia the Third Rome. In 2018 the two churches split over Kyiv.",
+ "body": "Two Romes have fallen, a Pskov monk wrote, and a fourth there shall not be. Four centuries on, Moscow and Constantinople still contest who leads the Orthodox world.",
+ "panels": [
+  {
+   "icon": "tower",
+   "label": "Moscow's Synod Said",
+   "text": "In 2018 Moscow’s Holy Synod said Constantinople’s Ukraine decisions were an “encroachment on someone else’s canonical regions” and broke communion with it."
+  },
+  {
+   "icon": "crossed-keys",
+   "label": "Constantinople's Synod Said",
+   "text": "In 2018 Constantinople’s Holy Synod said the 1686 letter letting Moscow ordain Kyiv’s metropolitan was “issued for the circumstances of that time” and revoked it."
+  },
+  {
+   "icon": "scales",
+   "label": "The Stakes",
+   "text": "Both churches cite old charters; at stake is who ranks first in Orthodoxy, and whether the church in Kyiv answers to Moscow or stands on its own."
+  }
+ ],
+ "focus": [1100, 600],
+ "grade": "warm",
+ "caption": "Photo: V. Argenberg, CC BY 4.0"
+}

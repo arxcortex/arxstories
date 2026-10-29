@@ -1,0 +1,33 @@
+{
+ "layout": "card",
+ "art": "art.jpg",
+ "desk": "ΛRX ATLAS",
+ "meta": "1962–1965 AD · Rome",
+ "title": "Second Vatican Council",
+ "dek": "Of how an old pope called the bishops of the world to Rome, and what they changed.",
+ "body": "John XXIII opened it in St Peter's Basilica on 11 October 1962 and died before the second session. Paul VI closed it on 8 December 1965.",
+ "panels": [
+  {
+   "icon": "scroll",
+   "label": "Sixteen Documents",
+   "text": "Four constitutions, nine decrees and three declarations, on the liturgy, the Church, revelation and the modern world."
+  },
+  {
+   "icon": "book",
+   "label": "The Liturgy",
+   "text": "Latin was kept, but the vernacular was allowed for readings and the people's parts where bishops judged it useful."
+  },
+  {
+   "icon": "globe",
+   "label": "Other Faiths",
+   "text": "Religious freedom grounded in human dignity; the Church “rejects nothing that is true and holy” in other religions."
+  }
+ ],
+ "focus": [
+  780,
+  520
+ ],
+ "grade": "warm",
+ "caption": "Illustration",
+ "zoom": 1.14
+}

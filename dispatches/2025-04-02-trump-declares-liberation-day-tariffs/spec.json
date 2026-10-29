@@ -1,0 +1,33 @@
+{
+ "layout": "card",
+ "art": "art.jpg",
+ "desk": "ΛRX INTERCEPT",
+ "meta": "2 Apr 2025 · Washington",
+ "title": "Trump Declares 'Liberation Day' and Tariffs Nearly Every Country",
+ "title_size": 52,
+ "dek": "From the Rose Garden, Trump sets a 10% tariff on nearly all imports and higher rates on dozens of countries; the S&P 500 sheds $5 trillion in two days.",
+ "body": "A 10% tariff on nearly all imports, up to 50% on some. The Supreme Court struck it down in February 2026.",
+ "panels": [
+  {
+   "icon": "flame",
+   "label": "Trump Said",
+   "text": "Trump called the tariffs “our declaration of economic independence” after decades of being “looted, pillaged, raped, and plundered.”"
+  },
+  {
+   "icon": "eye",
+   "label": "Beijing Said",
+   "text": "China’s commerce ministry called them “a typical unilateral bullying practice” and vowed to “fight to the end.”"
+  },
+  {
+   "icon": "scales",
+   "label": "The Stakes",
+   "text": "Both sides speak of fairness; at stake is whether access to the US market can be rationed to pull factories home, and who may set the price."
+  }
+ ],
+ "focus": [
+  1000,
+  560
+ ],
+ "grade": "none",
+ "caption": "White House photo"
+}

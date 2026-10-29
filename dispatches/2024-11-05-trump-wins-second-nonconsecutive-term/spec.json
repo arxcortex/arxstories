@@ -1,0 +1,33 @@
+{
+ "layout": "card",
+ "art": "art.jpg",
+ "desk": "ΛRX INTERCEPT",
+ "meta": "5 Nov 2024 · Washington",
+ "title": "Trump Wins a Second, Non-Consecutive Term",
+ "title_size": 52,
+ "dek": "Donald Trump carries all seven swing states, 312 electoral votes and the popular vote; Kamala Harris concedes at Howard University.",
+ "body": "Trump took 49.8% of the popular vote to Harris’s 48.3%. Only Grover Cleveland, in 1892, had won non-consecutive terms before.",
+ "panels": [
+  {
+   "icon": "flame",
+   "label": "Trump Says",
+   "text": "Trump says “America has given us an unprecedented and powerful mandate.”"
+  },
+  {
+   "icon": "eye",
+   "label": "Harris Says",
+   "text": "Harris says she concedes the election but does “not concede the fight that fueled this campaign.”"
+  },
+  {
+   "icon": "scales",
+   "label": "The Stakes",
+   "text": "One side calls the result a mandate, the other a lost round in a longer fight; at stake is how much power a 49.8% win confers."
+  }
+ ],
+ "focus": [
+  640,
+  330
+ ],
+ "grade": "none",
+ "caption": "Architect of the Capitol photo"
+}

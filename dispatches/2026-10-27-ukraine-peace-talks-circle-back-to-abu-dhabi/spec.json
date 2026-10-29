@@ -1,0 +1,29 @@
+{
+ "layout": "card",
+ "art": "art.jpg",
+ "desk": "ΛRX INTERCEPT",
+ "meta": "27 Oct 2026 · Abu Dhabi",
+ "title": "Four Years of Ukraine Peace Talks Circle Back to Abu Dhabi",
+ "title_size": 52,
+ "dek": "Russia, Ukraine and the US plan a trilateral round in the first half of November, the first since the Iran war froze talks in March.",
+ "body": "Talks since 2022 have produced prisoner swaps and a grain deal, but no ceasefire. The Kremlin calls November a \"trial run.\"",
+ "panels": [
+  {
+   "icon": "flame",
+   "label": "Moscow Says",
+   "text": "Putin says talks should settle long-term security for a final deal, not a \"short\" truce."
+  },
+  {
+   "icon": "eye",
+   "label": "Kyiv Says",
+   "text": "Zelenskyy says any deal needs strong security guarantees and 10 years of funding for Ukraine's army."
+  },
+  {
+   "icon": "scales",
+   "label": "The Stakes",
+   "text": "Moscow wants a final settlement on its terms; Kyiv wants guarantees first. At stake is the Donbas and who secures Ukraine after."
+  }
+ ],
+ "grade": "none",
+ "caption": "Photo: AdnanDekedek, CC BY-SA 4.0"
+}

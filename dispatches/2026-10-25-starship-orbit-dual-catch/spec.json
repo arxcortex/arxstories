@@ -1,0 +1,18 @@
+{
+ "layout": "card",
+ "art": "art.jpg",
+ "desk": "ΛRX INTERCEPT",
+ "meta": "25 Oct 2026 · Texas",
+ "title": "Starship Reached Orbit. Next, SpaceX Tries to Catch It",
+ "title_size": 58,
+ "dek": "After a first orbital flight, SpaceX plans to catch both stages on Flight 15.",
+ "body": "Flight 14 deployed 26 Starlink satellites on 28 September. Flight 15 is set for no earlier than 8 November.",
+ "panels": [
+  {"icon": "flame", "label": "SpaceX Says", "text": "Elon Musk says a catch of both stages is “more likely than not” and calls full reuse “a profound technology milestone.”"},
+  {"icon": "eye", "label": "Critics Say", "text": "Mexican nonprofit Conibio Global says suspected Starship debris is washing onto Playa Bagdad and asks for an investigation."},
+  {"icon": "scales", "label": "The Stakes", "text": "One side speaks of progress, the other of harm; at stake is who sets the terms for launches from a border coast."}
+ ],
+ "focus": [2048, 1000],
+ "grade": "warm",
+ "caption": "Starship Flight 14 · photo supplied"
+}

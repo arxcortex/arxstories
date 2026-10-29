@@ -1,0 +1,33 @@
+{
+ "layout": "card",
+ "art": "art.jpg",
+ "desk": "ΛRX INTERCEPT",
+ "meta": "28 Feb 2022 · Moscow",
+ "title": "The West Freezes Russia's Central Bank Reserves",
+ "title_size": 52,
+ "dek": "The US, EU, UK and allies lock up about $300 billion of the Bank of Russia's reserves and move to cut major Russian banks from SWIFT.",
+ "body": "Russia lost access to about $300 billion of reserves. The EU now bars the return of about €210 billion of them.",
+ "panels": [
+  {
+   "icon": "flame",
+   "label": "G7 Leaders Said",
+   "text": "Western leaders vowed to stop the Bank of Russia “deploying its international reserves in ways that undermine the impact of our sanctions.”"
+  },
+  {
+   "icon": "eye",
+   "label": "Lavrov Said",
+   "text": "Sergei Lavrov said the West had “tossed out all their principles” and called the freeze “nothing but theft.”"
+  },
+  {
+   "icon": "scales",
+   "label": "The Stakes",
+   "text": "Each side says it defends the rules; at stake is whether a state’s reserves held abroad stay its own once it goes to war."
+  }
+ ],
+ "focus": [
+  1000,
+  420
+ ],
+ "grade": "none",
+ "caption": "Photo: Ludvig14, CC BY-SA 4.0"
+}

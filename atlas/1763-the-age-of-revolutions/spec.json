@@ -1,0 +1,28 @@
+{
+ "layout": "card",
+ "art": "art.jpg",
+ "desk": "ΛRX ATLAS",
+ "meta": "1763–1824 · Paris",
+ "title": "The Age of Revolutions",
+ "title_size": 76,
+ "dek": "Of how the cost of winning wars broke three empires, and how revolution passed from Boston to Paris to Saint-Domingue to Caracas.",
+ "panels": [
+  {
+   "icon": "scroll",
+   "label": "Revolutionaries Tell It",
+   "text": "Free peoples rose against tyranny in the name of the rights of man, and each revolution inspired the next."
+  },
+  {
+   "icon": "eye",
+   "label": "Evidence Allows",
+   "text": "Each revolution began in a fiscal or dynastic crisis of the empire above it. Ideas spread fast, but war debt and empty thrones opened the door."
+  },
+  {
+   "icon": "map",
+   "label": "The Tour",
+   "text": "10 stops on the Chronosphere globe, from Paris to Ayacucho."
+  }
+ ],
+ "grade": "warm",
+ "caption": "Historical artwork"
+}

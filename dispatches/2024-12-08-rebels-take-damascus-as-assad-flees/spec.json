@@ -1,0 +1,33 @@
+{
+ "layout": "card",
+ "art": "art.jpg",
+ "desk": "ΛRX INTERCEPT",
+ "meta": "8 Dec 2024 · Damascus",
+ "title": "Rebels Take Damascus as Bashar al-Assad Flees",
+ "title_size": 52,
+ "dek": "An offensive led by Hayat Tahrir al-Sham reaches the capital in 11 days and ends 54 years of Assad family rule.",
+ "body": "Assad flew from Russia's Hmeimim base to Moscow and asylum. His father, Hafez al-Assad, had seized power in 1970.",
+ "panels": [
+  {
+   "icon": "flame",
+   "label": "Assad's Foes Say",
+   "text": "Al-Sharaa says “a new history” is being written; Biden calls the fall “a fundamental act of justice.”"
+  },
+  {
+   "icon": "eye",
+   "label": "Assad's Camp Says",
+   "text": "Khamenei calls it “a joint American and Zionist plot”; Assad says he never considered “stepping down.”"
+  },
+  {
+   "icon": "scales",
+   "label": "The Stakes",
+   "text": "One side calls it justice, the other a foreign plot; at stake is whether Syria stays Iran and Russia’s corridor or answers to new patrons."
+  }
+ ],
+ "focus": [
+  640,
+  360
+ ],
+ "grade": "none",
+ "caption": "Voice of America photo"
+}

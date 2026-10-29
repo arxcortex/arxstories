@@ -1,0 +1,33 @@
+{
+ "layout": "card",
+ "art": "art.jpg",
+ "desk": "ΛRX INTERCEPT",
+ "meta": "3 Jan 2026 · Caracas",
+ "title": "US Forces Seize Maduro in Caracas and Fly Him to New York",
+ "title_size": 52,
+ "dek": "Before dawn on 3 January 2026, US aircraft and Delta Force raid Caracas and seize Nicolás Maduro; his deputy keeps the government, and Washington takes charge of the oil money.",
+ "body": "About 150 aircraft and half an hour of strikes. Maduro's trial in New York is set for June 2027.",
+ "panels": [
+  {
+   "icon": "flame",
+   "label": "Trump Said",
+   "text": "Trump said the US would “run the country until such time as we can do a safe, proper and judicious transition.”"
+  },
+  {
+   "icon": "eye",
+   "label": "Rodríguez Said",
+   "text": "Delcy Rodríguez called the raid an “illegal and illegitimate kidnapping” and said Venezuela would “never again be a colony of any empire.”"
+  },
+  {
+   "icon": "scales",
+   "label": "The Stakes",
+   "text": "Both sides speak of law; at stake is who controls the world’s largest proven oil reserves, and whether Washington may remove a leader in its hemisphere alone."
+  }
+ ],
+ "focus": [
+  1150,
+  560
+ ],
+ "grade": "none",
+ "caption": "White House photo"
+}

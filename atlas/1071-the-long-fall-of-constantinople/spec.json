@@ -1,0 +1,28 @@
+{
+ "layout": "card",
+ "art": "art.jpg",
+ "desk": "ΛRX ATLAS",
+ "meta": "1071–1453 · Constantinople",
+ "title": "The Long Fall of Constantinople",
+ "title_size": 76,
+ "dek": "Of how the city that held for a thousand years was first emptied by its friends, and only then taken by its enemy.",
+ "panels": [
+  {
+   "icon": "scroll",
+   "label": "Chroniclers Tell It",
+   "text": "The city fell to a great sultan and a great cannon on 29 May 1453, after a heroic last stand."
+  },
+  {
+   "icon": "eye",
+   "label": "Evidence Allows",
+   "text": "By 1453 the empire had lost its army, its provinces and its money over four centuries. The siege finished a state that could no longer pay for its…"
+  },
+  {
+   "icon": "map",
+   "label": "The Tour",
+   "text": "10 stops on the Chronosphere globe, from Manzikert to Constantinople."
+  }
+ ],
+ "grade": "warm",
+ "caption": "Historical artwork"
+}

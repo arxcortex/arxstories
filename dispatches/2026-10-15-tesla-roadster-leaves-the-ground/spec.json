@@ -1,0 +1,18 @@
+{
+ "layout": "card",
+ "art": "art.jpg",
+ "desk": "ΛRX INTERCEPT",
+ "meta": "15 Oct 2026 · Texas",
+ "title": "Tesla's Roadster Leaves the Ground",
+ "title_size": 66,
+ "dek": "Nine years after its first reveal, the car lifts off on compressed-air thrusters.",
+ "body": "At a SpaceX site in Texas, it climbed an inverted ramp, rolled in midair and landed. Musk says production starts in 2028.",
+ "panels": [
+  {"icon": "flame", "label": "Enthusiasts Say", "text": "Commentator Carol Roth says America needs more Elon Musks, and that policy should reward that kind of risk."},
+  {"icon": "eye", "label": "Skeptics Say", "text": "AI scientist Yann LeCun says the demo car must be a light shell of air tanks: “Cute demo, but totally impractical.”"},
+  {"icon": "scales", "label": "The Stakes", "text": "One side sees ambition, the other a marketing stunt; at stake is how far a promise may run ahead of a product."}
+ ],
+ "focus": [790, 330],
+ "grade": "warm",
+ "caption": "Illustration"
+}

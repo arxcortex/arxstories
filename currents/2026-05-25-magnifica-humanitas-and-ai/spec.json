@@ -1,0 +1,18 @@
+{
+ "layout": "card",
+ "art": "art.jpg",
+ "desk": "ΛRX CURRENTS",
+ "meta": "25 May 2026 · Vatican City",
+ "title": "A Pope Named Leo Takes On AI, 135 Years After Rerum Novarum",
+ "title_size": 52,
+ "dek": "Leo XIV's first encyclical reads AI through a line of Catholic thought that runs from Aristotle and Aquinas to Leo XIII's 1891 letter on industrial labor.",
+ "body": "Leo XIII wrote about factories in 1891. On 15 May 2026, the same date 135 years later, Leo XIV signed Magnifica Humanitas on AI.",
+ "panels": [
+  {"icon": "crossed-keys", "label": "The Encyclical Argues", "text": "AI should serve the person and be \u201cdisarmed\u201d; humanity flourishes \u201cthrough\u201d its limits."},
+  {"icon": "eye", "label": "Transhumanists Argue", "text": "Humanity should direct its own evolution past biological limits; accelerationists push for unconstrained AI."},
+  {"icon": "scales", "label": "The Stakes", "text": "Both sides say AI changes what a human life can be; at stake is whether human nature has limits worth keeping."}
+ ],
+ "focus": [700, 300],
+ "grade": "none",
+ "caption": "illustration"
+}

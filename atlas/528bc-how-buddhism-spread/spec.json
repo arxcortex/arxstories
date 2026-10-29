@@ -1,0 +1,28 @@
+{
+ "layout": "card",
+ "art": "art.jpg",
+ "desk": "ΛRX ATLAS",
+ "meta": "c. 528 BCE–845 CE · Chang'an",
+ "title": "How Buddhism Spread",
+ "title_size": 76,
+ "dek": "Of how a wandering teacher's order crossed Asia by winning kings and merchants, and why it grew rich enough for an emperor to seize.",
+ "panels": [
+  {
+   "icon": "scroll",
+   "label": "Monks Tell It",
+   "text": "The truth of the Dharma persuaded kings and peoples wherever it was preached."
+  },
+  {
+   "icon": "eye",
+   "label": "Evidence Allows",
+   "text": "Buddhism traveled with royal patrons and trade. Patronage made the monasteries rich, and wealth made them a target."
+  },
+  {
+   "icon": "map",
+   "label": "The Tour",
+   "text": "9 stops on the Chronosphere globe, from Bodh Gaya to Chang'an."
+  }
+ ],
+ "grade": "warm",
+ "caption": "Historical artwork"
+}

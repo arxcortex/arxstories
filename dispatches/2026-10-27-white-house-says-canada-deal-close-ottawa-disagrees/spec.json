@@ -1,0 +1,29 @@
+{
+ "layout": "card",
+ "art": "art.jpg",
+ "desk": "ΛRX INTERCEPT",
+ "meta": "27 Oct 2026 · Ottawa",
+ "title": "White House Says a Canada Deal Is Close; Ottawa Says It Isn't",
+ "title_size": 52,
+ "dek": "Twenty months into the tariff war, Washington reshuffles its 50% list a week before the midterms while Canadian officials say a wide gap remains.",
+ "body": "From 30 Oct, Canadian plywood and some paper come off the 50% list; cocoa powder, vinyl flooring and carpets go on.",
+ "panels": [
+  {
+   "icon": "flame",
+   "label": "The White House Says",
+   "text": "Hassett says talks are \"gathering steam\" and \"very close to finally having a deal.\""
+  },
+  {
+   "icon": "eye",
+   "label": "Ottawa Says",
+   "text": "Carney says any progress came \"because the U.S. is coming closer to our position.\""
+  },
+  {
+   "icon": "scales",
+   "label": "The Stakes",
+   "text": "Washington says a deal is near; Ottawa says the gap is wide. At stake is who sets the terms of North American trade."
+  }
+ ],
+ "grade": "none",
+ "caption": "Photo: Chris Woodrich, CC BY-SA 4.0"
+}

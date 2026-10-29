@@ -1,0 +1,33 @@
+{
+ "layout": "card",
+ "art": "art.jpg",
+ "desk": "ΛRX INTERCEPT",
+ "meta": "13 Jun 2025 · Natanz",
+ "title": "Israel and the US Bomb Iran's Nuclear Sites in a Twelve-Day War",
+ "title_size": 52,
+ "dek": "Israel opens a surprise air war on Iran on 13 June 2025; nine days later US bombers hit Fordow, Natanz and Isfahan, and a ceasefire Trump brokers takes hold on 24 June.",
+ "body": "Twelve days, two air forces, three nuclear sites. Eight months later the United States and Israel struck Iran again.",
+ "panels": [
+  {
+   "icon": "flame",
+   "label": "Trump Said",
+   "text": "Trump said Iran’s key enrichment sites had been “completely and totally obliterated” and that Iran, “the bully of the Middle East, must now make peace.”"
+  },
+  {
+   "icon": "eye",
+   "label": "Khamenei Said",
+   "text": "Ali Khamenei said “the Islamic Republic slapped America in the face” and that the US strikes failed to “achieve anything significant.”"
+  },
+  {
+   "icon": "scales",
+   "label": "The Stakes",
+   "text": "Both sides claim victory; at stake is whether bombing can keep a state from the bomb, and whether Israel and the US may strike Iran whenever they judge it close."
+  }
+ ],
+ "focus": [
+  1445,
+  650
+ ],
+ "grade": "none",
+ "caption": "White House photo"
+}

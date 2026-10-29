@@ -1,0 +1,17 @@
+{
+ "layout": "card",
+ "art": "art.jpg",
+ "desk": "ΛRX ATLAS",
+ "meta": "1917 AD · Petrograd",
+ "title": "The Russian Revolution",
+ "dek": "Of how the Bolsheviks took the capital, and turned the state against the Church.",
+ "body": "On the night of 25 October 1917 (7 November, new style) the Bolsheviks seized Petrograd; the Winter Palace fell in the small hours.",
+ "panels": [
+  {"icon": "scroll", "label": "Church and State", "text": "An early-1918 decree stripped the Church of legal standing and property and ended religious teaching in schools."},
+  {"icon": "crown", "label": "The Patriarch", "text": "Tikhon, elected patriarch in 1917, excommunicated the Soviet leaders in January 1918. He was arrested in 1922."},
+  {"icon": "temple", "label": "St Isaac's", "text": "Stripped of its furnishings after 1917, the cathedral became a Museum of the History of Religion and Atheism in 1931."}
+ ],
+ "focus": [840, 430],
+ "grade": "warm",
+ "caption": "Illustration"
+}

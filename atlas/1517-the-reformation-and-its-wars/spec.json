@@ -1,0 +1,28 @@
+{
+ "layout": "card",
+ "art": "art.jpg",
+ "desk": "ΛRX ATLAS",
+ "meta": "1517–1648 · Wittenberg",
+ "title": "The Reformation and Its Wars",
+ "title_size": 76,
+ "dek": "Of how a friar's protest became a princes' settlement, and why it took 131 years and a continental war to finish.",
+ "panels": [
+  {
+   "icon": "scroll",
+   "label": "Reformers Tell It",
+   "text": "A lone monk read Scripture, found the Church in error, and the truth he printed set Europe free."
+  },
+  {
+   "icon": "eye",
+   "label": "Evidence Allows",
+   "text": "The protest survived because printers sold it and princes protected it. Princes, not theologians, drew the final confessional map."
+  },
+  {
+   "icon": "map",
+   "label": "The Tour",
+   "text": "11 stops on the Chronosphere globe, from Mainz to Münster."
+  }
+ ],
+ "grade": "warm",
+ "caption": "Historical artwork"
+}

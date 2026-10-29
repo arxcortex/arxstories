@@ -1,0 +1,28 @@
+{
+ "layout": "card",
+ "art": "art.jpg",
+ "desk": "ΛRX ATLAS",
+ "meta": "c. AD 30–380 · Jerusalem",
+ "title": "How a Jewish Sect Became Rome's Religion",
+ "title_size": 64,
+ "dek": "Of how the empire that crucified a Galilean preacher ended, 350 years later, by making his church its only lawful faith.",
+ "panels": [
+  {
+   "icon": "scroll",
+   "label": "Church Tells It",
+   "text": "The faith spread by the witness of martyrs, and God gave Constantine a sign of victory in the cross."
+  },
+  {
+   "icon": "eye",
+   "label": "Evidence Allows",
+   "text": "The church grew into an organized network that persecution could not break, and emperors in civil wars found it worth winning."
+  },
+  {
+   "icon": "map",
+   "label": "The Tour",
+   "text": "10 stops on the Chronosphere globe, from Jerusalem to Thessalonica."
+  }
+ ],
+ "grade": "warm",
+ "caption": "Historical artwork"
+}

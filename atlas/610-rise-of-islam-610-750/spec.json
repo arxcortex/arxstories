@@ -1,0 +1,28 @@
+{
+ "layout": "card",
+ "art": "art.jpg",
+ "desk": "ΛRX ATLAS",
+ "meta": "610–750 · Mecca",
+ "title": "Rise of Islam, 610–750",
+ "title_size": 76,
+ "dek": "Of how a prophet's community in Arabia became a state, defeated two empires, and fought itself over who should rule.",
+ "panels": [
+  {
+   "icon": "scroll",
+   "label": "Tradition Tells It",
+   "text": "God revealed the Qur'an to Muhammad, and the community he founded spread the faith from Spain to Central Asia within a century."
+  },
+  {
+   "icon": "eye",
+   "label": "Evidence Allows",
+   "text": "The early record comes mostly from Muslim histories written generations later. They agree on the outline and differ, often by party, on the…"
+  },
+  {
+   "icon": "map",
+   "label": "The Tour",
+   "text": "12 stops on the Chronosphere globe, from Cave of Hira, Mecca to Great Zab River."
+  }
+ ],
+ "grade": "warm",
+ "caption": "Historical artwork"
+}

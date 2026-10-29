@@ -1,0 +1,29 @@
+{
+ "layout": "card",
+ "art": "art.jpg",
+ "desk": "ΛRX INTERCEPT",
+ "meta": "28 Oct 2026 · Jerusalem",
+ "title": "Israel's Vote Leaves No Majority as Arab Parties Win a Record 19 Seats",
+ "title_size": 52,
+ "dek": "Neither Netanyahu's bloc nor Eisenkot's reaches 61 seats, Likud calls the result \"stolen,\" and the count of soldiers' and diplomats' ballots starts Thursday.",
+ "body": "Netanyahu's bloc 53, Eisenkot's 48, Arab parties 19, with 85.6% counted. A majority takes 61; up to 480,000 ballots remain.",
+ "panels": [
+  {
+   "icon": "flame",
+   "label": "Likud Says",
+   "text": "Likud says Arab parties “stole” the election through bribery, threats and forgery, and asks police and the Shin Bet to investigate."
+  },
+  {
+   "icon": "eye",
+   "label": "The Opposition Says",
+   "text": "Eisenkot says he will form “a Zionist government” and that Netanyahu should step down; Golan says the opposition should govern with Arab parties."
+  },
+  {
+   "icon": "scales",
+   "label": "The Stakes",
+   "text": "Likud speaks of a “stolen” election, the opposition of change; beneath both is who forms the government that runs the Iran war."
+  }
+ ],
+ "grade": "none",
+ "caption": "Photo: James Emery, CC BY 2.0"
+}

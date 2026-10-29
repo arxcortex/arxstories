@@ -1,0 +1,28 @@
+{
+ "layout": "card",
+ "art": "art.jpg",
+ "desk": "ΛRX ATLAS",
+ "meta": "c. 600 BC–AD 1971 · London",
+ "title": "Money and Central Banking",
+ "title_size": 76,
+ "dek": "Of how money passed from stamped metal to a government's promise, and how lenders and rulers built the banks that keep it.",
+ "panels": [
+  {
+   "icon": "scroll",
+   "label": "Bankers Tell It",
+   "text": "Sound institutions, built by prudent men, gave nations stable money and cheap credit."
+  },
+  {
+   "icon": "eye",
+   "label": "Evidence Allows",
+   "text": "Each new institution was a deal between a ruler who needed to borrow and lenders who wanted security. When the deal broke, the money did too."
+  },
+  {
+   "icon": "map",
+   "label": "The Tour",
+   "text": "12 stops on the Chronosphere globe, from Sardis to Washington, D.C.."
+  }
+ ],
+ "grade": "warm",
+ "caption": "Historical artwork"
+}

@@ -1,0 +1,28 @@
+{
+ "layout": "card",
+ "art": "art.jpg",
+ "desk": "ΛRX ATLAS",
+ "meta": "1082–1688 · Antwerp",
+ "title": "Merchant Republics to Amsterdam and London",
+ "title_size": 64,
+ "dek": "Of how the center of European trade and credit moved north, from Venice and Genoa to Antwerp, Amsterdam and London, carried by wars…",
+ "panels": [
+  {
+   "icon": "scroll",
+   "label": "Merchants Tell It",
+   "text": "Thrift, enterprise and good government made each city rich in turn."
+  },
+  {
+   "icon": "eye",
+   "label": "Evidence Allows",
+   "text": "Each city rose by financing a stronger power's wars and fell when that power defaulted, conquered it, or found a better lender. Capital moved with…"
+  },
+  {
+   "icon": "map",
+   "label": "The Tour",
+   "text": "9 stops on the Chronosphere globe, from Venice to London."
+  }
+ ],
+ "grade": "warm",
+ "caption": "Historical artwork"
+}

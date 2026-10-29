@@ -1,0 +1,29 @@
+{
+ "layout": "card",
+ "art": "art.jpg",
+ "desk": "ΛRX INTERCEPT",
+ "meta": "27 Oct 2026 · Ras Tanura",
+ "title": "Houthis Hit Ras Tanura as Their War on Saudi Oil Reaches Both Coasts",
+ "title_size": 52,
+ "dek": "Riyadh confirms a Houthi missile struck its largest refinery; the group's claimed hits on the East-West pipeline and Yanbu remain unconfirmed.",
+ "body": "Ras Tanura refines 550,000 b/d. Nearly all Saudi crude leaves via Ras Tanura on the Gulf or Yanbu on the Red Sea.",
+ "panels": [
+  {
+   "icon": "flame",
+   "label": "The Houthis Say",
+   "text": "The Houthis say Saudi-linked ships and sites are targets, and other shipping can pass freely if governments stay out."
+  },
+  {
+   "icon": "eye",
+   "label": "The Coalition Says",
+   "text": "Coalition spokesman Turki al-Maliki pledges \"deterrent operational measures\" and says strikes on Houthi launchers protect civilians."
+  },
+  {
+   "icon": "scales",
+   "label": "The Stakes",
+   "text": "Each side says it is defending itself; at stake is who can shut Saudi oil's last open routes while Hormuz stays closed."
+  }
+ ],
+ "grade": "none",
+ "caption": "Photo: Aramco, public domain"
+}

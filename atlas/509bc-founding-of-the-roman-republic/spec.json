@@ -1,0 +1,27 @@
+{
+ "source": "source.jpg",
+ "map_box": [535, 0, 1087, 527],
+ "pin": [667, 155],
+ "pin_label": "Rome",
+ "desk": "ΛRX ATLAS",
+ "category": "Event",
+ "headline": "The Founding of the Roman Republic",
+ "dek": "Of how the Romans drove out their last king, and what they built in his place.",
+ "location": "Rome, Latium",
+ "date": "509 BC",
+ "severity": null,
+ "brief": "The Romans say a king's son violated Lucretia, and that her death set Brutus to drive the Tarquins out. In place of one king for life they chose two magistrates for a year, and the words of that bargain have outlived the city that struck it.",
+ "labels": {"brief": "The Account", "left": "As the Romans Tell It", "right": "As the Evidence Allows", "context": "Chronicle", "sources": "Witnesses"},
+ "pair": {
+  "left": "Livy and Dionysius tell of Lucretia's oath, of Brutus feigning dullness, and of a father who watched his own sons die for treason.",
+  "right": "Historians suspect the date runs years off, and some, like Cornell, think Porsenna of Clusium briefly held Rome itself."
+ },
+ "context": [
+  "509 BC: First treaty with Carthage, as Polybius dates it",
+  "c. 496 BC: Tarquin's Latin allies beaten at Lake Regillus",
+  "27 BC: Augustus takes power; the Republic's forms remain"
+ ],
+ "sources": ["Livy I–II", "Dionysius of Halicarnassus", "Polybius III.22", "Tacitus, Hist. III.72"],
+ "stamp": "ATLAS · 509 BC",
+ "headline_size": 48
+}

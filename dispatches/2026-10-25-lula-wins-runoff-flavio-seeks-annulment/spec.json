@@ -1,0 +1,18 @@
+{
+ "layout": "card",
+ "art": "art.jpg",
+ "desk": "ΛRX INTERCEPT",
+ "meta": "25 Oct 2026 · Brasília",
+ "title": "Lula Wins Runoff; Flávio Seeks Annulment",
+ "title_size": 60,
+ "dek": "Lula takes 51.79% to 48.21%, the first comeback from a first-round loss since 1988.",
+ "body": "The TSE declared Lula re-elected with 100% counted. Flávio says a two-hour voting extension broke the rules.",
+ "panels": [
+  {"icon": "flame", "label": "Lula's Camp Says", "text": "Lula says the result was a \u201cdefeat of lies\u201d and that Brazil will not be \u201canyone's backyard.\u201d"},
+  {"icon": "eye", "label": "Bolsonaro's Camp Says", "text": "Flávio Bolsonaro says the result is \u201cimpossible\u201d to recognize and that he will seek its annulment."},
+  {"icon": "scales", "label": "The Stakes", "text": "One camp says the vote was won, the other that the rules were changed; at stake is who the courts let decide an election."}
+ ],
+ "focus": [640, 360],
+ "grade": "warm",
+ "caption": "Illustration"
+}

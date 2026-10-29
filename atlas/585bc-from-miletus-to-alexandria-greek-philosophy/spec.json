@@ -1,0 +1,28 @@
+{
+ "layout": "card",
+ "art": "art.jpg",
+ "desk": "ΛRX ATLAS",
+ "meta": "585–283 BCE · Chalcis",
+ "title": "From Miletus to Alexandria: Greek Philosophy",
+ "title_size": 64,
+ "dek": "Of how Greek philosophy began in free trading cities, survived Athens's death sentence on Socrates, and found its safest home on a king's…",
+ "panels": [
+  {
+   "icon": "scroll",
+   "label": "Philosophers Tell It",
+   "text": "Reason freed itself from myth and grew by the force of its own arguments."
+  },
+  {
+   "icon": "eye",
+   "label": "Evidence Allows",
+   "text": "Philosophy grew where patrons protected it. Cities tolerated it until it touched their politics; kings paid for it when it served their prestige."
+  },
+  {
+   "icon": "map",
+   "label": "The Tour",
+   "text": "9 stops on the Chronosphere globe, from Miletus to Alexandria."
+  }
+ ],
+ "grade": "warm",
+ "caption": "Historical artwork"
+}
