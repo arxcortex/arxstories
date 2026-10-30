@@ -1,0 +1,28 @@
+{
+ "layout": "card",
+ "art": "art.jpg",
+ "desk": "ΛRX ATLAS",
+ "meta": "1516–1536 · Basel",
+ "title": "Erasmus and the Reformers",
+ "title_size": 72,
+ "dek": "Of how a Catholic scholar's rushed Greek New Testament became the working text of the men who broke with Rome, and why he refused to follow them.",
+ "panels": [
+  {
+   "icon": "scroll",
+   "label": "Monks Told It",
+   "text": "Erasmus laid the egg and Luther hatched it. The humanist's mockery of the Church made the Reformation."
+  },
+  {
+   "icon": "eye",
+   "label": "Evidence Allows",
+   "text": "Erasmus supplied the Reformers' text, their Greek and their method. They drew conclusions he rejected, and he stayed in the Roman Church."
+  },
+  {
+   "icon": "map",
+   "label": "The Paper",
+   "text": "Every handoff documented, with sources."
+  }
+ ],
+ "grade": "warm",
+ "caption": "Historical document"
+}

@@ -1,0 +1,28 @@
+{
+ "layout": "card",
+ "art": "art.jpg",
+ "desk": "ΛRX ATLAS",
+ "meta": "c. 220–277 · Ctesiphon",
+ "title": "Mani and the Making of Manichaeism",
+ "title_size": 72,
+ "dek": "Of how a boy raised in a Jewish-Christian baptist sect in Mesopotamia built a world religion from Christian, Buddhist and Zoroastrian parts, and presented it to a Persian king.",
+ "panels": [
+  {
+   "icon": "scroll",
+   "label": "Manichaeans Told It",
+   "text": "Mani was the last of the apostles of light, sent after Zoroaster, the Buddha and Jesus to restore the truth their followers had corrupted."
+  },
+  {
+   "icon": "eye",
+   "label": "Evidence Allows",
+   "text": "Mani grew up among the Elcesaites, broke with them, borrowed from Christian, Buddhist and Zoroastrian teaching, and framed his faith for the Sasanian court."
+  },
+  {
+   "icon": "map",
+   "label": "The Paper",
+   "text": "Every handoff documented, with sources."
+  }
+ ],
+ "grade": "warm",
+ "caption": "Historical document"
+}
