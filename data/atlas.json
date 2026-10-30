@@ -1,6 +1,6 @@
 {
   "desk": "ΛRX Atlas",
-  "count": 23,
+  "count": 26,
   "entries": [
     {
       "slug": "509bc-founding-of-the-roman-republic",
@@ -519,7 +519,7 @@
         ]
       },
       "path": "atlas/240-mani-and-the-making-of-manichaeism/index.md",
-      "words": 1327
+      "words": 1326
     },
     {
       "slug": "610-rise-of-islam-610-750",
@@ -1031,6 +1031,80 @@
       "words": 1359
     },
     {
+      "slug": "1316-how-france-wrote-women-out-of-the-crown",
+      "kind": "atlas",
+      "desk": "ΛRX Atlas",
+      "author": "ΛRX Atlas",
+      "category": "Event",
+      "series": [
+        "atlas"
+      ],
+      "title": "How France Wrote Women Out of the Crown",
+      "dek": "Of how two regents took the throne over a king's daughter and a king's grandson, and how a Frankish land code was found later to justify it.",
+      "date": "1316–1358",
+      "year": 1316,
+      "location": "Paris",
+      "coords": [
+        48.853,
+        2.3499
+      ],
+      "card": "atlas/1316-how-france-wrote-women-out-of-the-crown/card.png",
+      "art": "atlas/1316-how-france-wrote-women-out-of-the-crown/art.jpg",
+      "pair": {
+        "left_label": "As the Valois Told It",
+        "left": "An ancient law of the Franks barred women from the French crown and from passing it on, and every king since Clovis had obeyed it.",
+        "right_label": "As the Evidence Allows",
+        "right": "The rule was made in 1317 and 1328 by assemblies backing the strongest claimant. The Salic code was first cited for it around 1358."
+      },
+      "tags": [
+        "salic-law",
+        "capetians",
+        "valois",
+        "succession",
+        "hundred-years-war",
+        "estates-general"
+      ],
+      "witnesses": [
+        "Lex Salica, title 59, \"De alodis\" (c. 507–511)",
+        "Declaration of the assembly of February 1317, \"Women do not succeed in the kingdom of France\"",
+        "Richard Lescot, chronicle of Saint-Denis (c. 1358)"
+      ],
+      "sources": [
+        {
+          "title": "Salic law",
+          "outlet": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Salic_law",
+          "role": "scholarship"
+        },
+        {
+          "title": "Philip V of France",
+          "outlet": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Philip_V_of_France",
+          "role": "scholarship"
+        },
+        {
+          "title": "Philip VI of France",
+          "outlet": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Philip_VI_of_France",
+          "role": "scholarship"
+        },
+        {
+          "title": "Joan II of Navarre",
+          "outlet": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Joan_II_of_Navarre",
+          "role": "scholarship"
+        },
+        {
+          "title": "Hundred Years' War",
+          "outlet": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Hundred_Years%27_War",
+          "role": "scholarship"
+        }
+      ],
+      "path": "atlas/1316-how-france-wrote-women-out-of-the-crown/index.md",
+      "words": 814
+    },
+    {
       "slug": "1071-the-long-fall-of-constantinople",
       "kind": "atlas",
       "tour_kind": "narrative",
@@ -1530,6 +1604,80 @@
       "words": 1344
     },
     {
+      "slug": "1613-an-assembly-elects-the-first-romanov",
+      "kind": "atlas",
+      "desk": "ΛRX Atlas",
+      "author": "ΛRX Atlas",
+      "category": "Event",
+      "series": [
+        "atlas"
+      ],
+      "title": "An Assembly Elects the First Romanov",
+      "dek": "Of how a land without a tsar called an assembly into a burned capital, passed over foreign princes and great boyars, and chose a sixteen-year-old.",
+      "date": "1612–1618",
+      "year": 1613,
+      "location": "Moscow",
+      "coords": [
+        55.7509,
+        37.617
+      ],
+      "card": "atlas/1613-an-assembly-elects-the-first-romanov/card.png",
+      "art": "atlas/1613-an-assembly-elects-the-first-romanov/art.jpg",
+      "pair": {
+        "left_label": "As the Romanovs Told It",
+        "left": "The whole land, moved by God, chose with one voice the nearest kin of the old dynasty, and peace returned with him.",
+        "right_label": "As the Evidence Allows",
+        "right": "Boyars, Cossacks and town delegates bargained for weeks. Michael won as the candidate who threatened the fewest factions, and his father ruled."
+      },
+      "tags": [
+        "zemsky-sobor",
+        "romanov",
+        "time-of-troubles",
+        "boyars",
+        "filaret",
+        "election",
+        "muscovy"
+      ],
+      "witnesses": [
+        "Charter of the Election of Michael Romanov (1613)",
+        "Avraamy Palitsyn, Skazanie (Tale), c. 1620"
+      ],
+      "sources": [
+        {
+          "title": "Zemsky Sobor of 1613",
+          "outlet": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Zemsky_Sobor_of_1613",
+          "role": "scholarship"
+        },
+        {
+          "title": "Michael of Russia",
+          "outlet": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Michael_of_Russia",
+          "role": "scholarship"
+        },
+        {
+          "title": "Time of Troubles",
+          "outlet": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Time_of_Troubles",
+          "role": "scholarship"
+        },
+        {
+          "title": "Patriarch Filaret of Moscow",
+          "outlet": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Patriarch_Filaret_of_Moscow",
+          "role": "scholarship"
+        },
+        {
+          "title": "Zemsky Sobor",
+          "outlet": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Zemsky_Sobor",
+          "role": "scholarship"
+        }
+      ],
+      "path": "atlas/1613-an-assembly-elects-the-first-romanov/index.md",
+      "words": 824
+    },
+    {
       "slug": "600bc-money-and-central-banking",
       "kind": "atlas",
       "tour_kind": "narrative",
@@ -1674,6 +1822,81 @@
       },
       "path": "atlas/600bc-money-and-central-banking/index.md",
       "words": 1479
+    },
+    {
+      "slug": "1750-treaty-of-madrid-and-the-guarani-war",
+      "kind": "atlas",
+      "desk": "ΛRX Atlas",
+      "author": "ΛRX Atlas",
+      "category": "Event",
+      "series": [
+        "atlas"
+      ],
+      "title": "The Treaty of Madrid and the Guaraní War",
+      "dek": "Of how two crowns redrew South America on a map, traded seven Jesuit missions for a smuggling port, and sent armies when the Guaraní refused to leave.",
+      "date": "1750–1761",
+      "year": 1750,
+      "location": "São Miguel das Missões",
+      "coords": [
+        -28.5436,
+        -54.5558
+      ],
+      "card": "atlas/1750-treaty-of-madrid-and-the-guarani-war/card.png",
+      "art": "atlas/1750-treaty-of-madrid-and-the-guarani-war/art.jpg",
+      "pair": {
+        "left_label": "As the Crowns Told It",
+        "left": "Each side should keep what it held, along rivers and mountains, and the old papal line was dead letter. A clean border would bring peace.",
+        "right_label": "As the Evidence Allows",
+        "right": "Portugal wanted the gold country and the mission lands; Spain wanted Colonia closed to smugglers. The people on the ceded land were not asked."
+      },
+      "tags": [
+        "treaty-of-madrid",
+        "guarani",
+        "jesuit-reductions",
+        "portugal",
+        "spain",
+        "tordesillas",
+        "sepe-tiaraju"
+      ],
+      "witnesses": [
+        "Treaty of Madrid, 13 January 1750 (preamble and 26 articles)",
+        "Alexandre de Gusmão, Mapa das Cortes (1749)",
+        "Basílio da Gama, O Uraguai (1769)"
+      ],
+      "sources": [
+        {
+          "title": "Treaty of Madrid (13 January 1750)",
+          "outlet": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Treaty_of_Madrid_(13_January_1750)",
+          "role": "scholarship"
+        },
+        {
+          "title": "Guaraní War",
+          "outlet": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Guaran%C3%AD_War",
+          "role": "scholarship"
+        },
+        {
+          "title": "Sepé Tiaraju",
+          "outlet": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Sep%C3%A9_Tiaraju",
+          "role": "scholarship"
+        },
+        {
+          "title": "Treaty of Tordesillas",
+          "outlet": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Treaty_of_Tordesillas",
+          "role": "scholarship"
+        },
+        {
+          "title": "Suppression of the Society of Jesus",
+          "outlet": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Suppression_of_the_Society_of_Jesus",
+          "role": "scholarship"
+        }
+      ],
+      "path": "atlas/1750-treaty-of-madrid-and-the-guarani-war/index.md",
+      "words": 826
     },
     {
       "slug": "1763-the-age-of-revolutions",
@@ -1920,7 +2143,7 @@
         ]
       },
       "path": "atlas/1785-spinoza-to-hegel-the-pantheism-controversy/index.md",
-      "words": 1365
+      "words": 1368
     },
     {
       "slug": "1757-opium-trade-and-the-qing",
