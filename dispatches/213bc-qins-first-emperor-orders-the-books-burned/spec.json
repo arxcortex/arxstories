@@ -1,0 +1,33 @@
+{
+ "layout": "card",
+ "art": "art.jpg",
+ "desk": "ΛRX INTERCEPT",
+ "meta": "213 BC · Xianyang",
+ "title": "Qin's First Emperor Orders the Books Burned",
+ "title_size": 52,
+ "dek": "In 213 BC the chancellor Li Si persuades the First Emperor to burn private copies of the Odes, the Documents and rival states' histories. Historians still argue over how much burned.",
+ "body": "Han tradition says the scholar Fu Sheng hid the Book of Documents in a wall. When he dug it out after Qin fell, 29 chapters survived.",
+ "panels": [
+  {
+   "icon": "flame",
+   "label": "Chunyu Yue Said",
+   "text": "Chunyu Yue said no state had lasted long without taking antiquity as its teacher, and urged the emperor to give fiefs to his sons and brothers."
+  },
+  {
+   "icon": "scroll",
+   "label": "Li Si Said",
+   "text": "Li Si said times had changed, that scholars studied the past to criticize the present and confuse the people, and that their books should burn."
+  },
+  {
+   "icon": "scales",
+   "label": "The Stakes",
+   "text": "Each man said he was guarding the dynasty; at stake was who could judge the emperor’s rule, scholars reading old books or officials teaching the new law."
+  }
+ ],
+ "focus": [
+  1000,
+  380
+ ],
+ "grade": "none",
+ "caption": "Painting attributed to Wang Wei, public domain"
+}

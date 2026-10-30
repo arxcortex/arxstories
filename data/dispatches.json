@@ -1,7 +1,106 @@
 {
   "desk": "ΛRX Intercept",
-  "count": 27,
+  "count": 28,
   "entries": [
+    {
+      "slug": "213bc-qins-first-emperor-orders-the-books-burned",
+      "desk": "ΛRX Intercept",
+      "author": "Arx",
+      "category": "Historical Inquiry",
+      "story_type": "contested",
+      "title": "Qin's First Emperor Orders the Books Burned",
+      "dek": "In 213 BC the chancellor Li Si persuades the First Emperor to burn private copies of the Odes, the Documents and rival states' histories. Historians still argue over how much burned.",
+      "date": "213 BC",
+      "year": -213,
+      "location": "Xianyang, Qin China",
+      "coords": [
+        34.38,
+        108.82
+      ],
+      "severity": 3,
+      "card": "dispatches/213bc-qins-first-emperor-orders-the-books-burned/card.png",
+      "art": "dispatches/213bc-qins-first-emperor-orders-the-books-burned/art.jpg",
+      "pair": {
+        "left_label": "Chunyu Yue Said",
+        "left": "Chunyu Yue said no state had lasted long without taking antiquity as its teacher, and urged the emperor to give fiefs to his sons and brothers.",
+        "right_label": "Li Si Said",
+        "right": "Li Si said times had changed, that scholars studied the past to criticize the present and confuse the people, and that their books should burn."
+      },
+      "reading": {
+        "label": "The Stakes",
+        "text": "Each man said he was guarding the dynasty; at stake was who could judge the emperor's rule, scholars reading old books or officials teaching the new law."
+      },
+      "tags": [
+        "china",
+        "qin",
+        "qin-shi-huang",
+        "li-si",
+        "confucianism",
+        "book-burning",
+        "censorship",
+        "sima-qian",
+        "religion",
+        "3rd-century-bc"
+      ],
+      "sources": [
+        {
+          "title": "Shiji, Basic Annals of the First Emperor of Qin (Chinese text)",
+          "outlet": "Chinese Text Project",
+          "url": "https://ctext.org/shiji/qin-shi-huang-ben-ji",
+          "role": "origin"
+        },
+        {
+          "title": "Burning of books and burying of scholars",
+          "outlet": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Burning_of_books_and_burying_of_scholars",
+          "role": "origin"
+        },
+        {
+          "title": "Qin Shi Huang",
+          "outlet": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Qin_Shi_Huang",
+          "role": "origin"
+        },
+        {
+          "title": "Li Si",
+          "outlet": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Li_Si",
+          "role": "origin"
+        },
+        {
+          "title": "The Burning of the Books in China, 213 B.C. (The Journal of Library History 7:2, 1972)",
+          "outlet": "Lois Mai Chan, JSTOR",
+          "url": "https://www.jstor.org/stable/25540352",
+          "role": "context"
+        },
+        {
+          "title": "The Five \"Confucian\" Classics",
+          "outlet": "Michael Nylan, Yale University Press",
+          "url": "https://yalebooks.yale.edu/book/9780300081855/the-five-confucian-classics/",
+          "role": "context"
+        },
+        {
+          "title": "Fu Sheng (scholar)",
+          "outlet": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Fu_Sheng_(scholar)",
+          "role": "context"
+        },
+        {
+          "title": "Imperial examination",
+          "outlet": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Imperial_examination",
+          "role": "context"
+        },
+        {
+          "title": "The Burning of the Books and the Scholars (213–211 BCE), Shiji 6 in translation",
+          "outlet": "Mouseia",
+          "url": "https://mouseia.org/texts/first-emperor-annals/section-4",
+          "role": "side"
+        }
+      ],
+      "path": "dispatches/213bc-qins-first-emperor-orders-the-books-burned/index.md",
+      "words": 793
+    },
     {
       "slug": "2026-10-28-flavio-bolsonaro-defies-passport-order-lands-in-miami",
       "desk": "ΛRX Intercept",
