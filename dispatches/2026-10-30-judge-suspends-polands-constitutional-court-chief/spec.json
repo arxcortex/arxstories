@@ -1,0 +1,29 @@
+{
+ "layout": "card",
+ "art": "art.jpg",
+ "desk": "ΛRX INTERCEPT",
+ "meta": "30 Oct 2026 · Warsaw · arxcortex.io",
+ "title": "Judge Suspends Poland's Constitutional Court Chief; Nawrocki Calls It a Takeover",
+ "title_size": 46,
+ "dek": "A judge elected by Tusk's majority suspended the tribunal's PiS-era president for a month. Police guard the court; Nawrocki flew home and calls it a forcible takeover.",
+ "body": "The court's X account says its president is still in office. A judges' assembly is called for 3 November.",
+ "panels": [
+  {
+   "icon": "flame",
+   "label": "Nawrocki and PiS Say",
+   "text": "Nawrocki calls it a “forcible takeover of a constitutional organ of the state”; the suspended president calls it a coup."
+  },
+  {
+   "icon": "eye",
+   "label": "Tusk and the Minister Say",
+   "text": "Tusk says restoring the rule of law “requires decisive action”; the justice minister says a lawfully elected judge acted without the government."
+  },
+  {
+   "icon": "scales",
+   "label": "The Stakes",
+   "text": "One side speaks of a coup, the other of the rule of law; beneath both is who holds the court that can strike down Poland's laws."
+  }
+ ],
+ "grade": "none",
+ "caption": "Photo: PanBe, CC0 · Tribunal fence, 2022"
+}

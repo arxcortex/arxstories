@@ -1,6 +1,6 @@
 {
   "desk": "ΛRX Intercept",
-  "count": 29,
+  "count": 30,
   "entries": [
     {
       "slug": "213bc-qins-first-emperor-orders-the-books-burned",
@@ -100,6 +100,133 @@
       ],
       "path": "dispatches/213bc-qins-first-emperor-orders-the-books-burned/index.md",
       "words": 793
+    },
+    {
+      "slug": "2026-10-30-judge-suspends-polands-constitutional-court-chief",
+      "desk": "ΛRX Intercept",
+      "author": "Arx",
+      "category": "Politics",
+      "story_type": "contested",
+      "title": "Judge Suspends Poland's Constitutional Court Chief; Nawrocki Calls It a Takeover",
+      "dek": "A judge elected by Tusk's majority suspended the tribunal's PiS-era president for a month. Police guard the court; Nawrocki flew home and calls it a forcible takeover.",
+      "date": "2026-10-30",
+      "location": "Warsaw, Poland",
+      "coords": [
+        52.2223,
+        21.0213
+      ],
+      "severity": 3,
+      "card": "dispatches/2026-10-30-judge-suspends-polands-constitutional-court-chief/card.png",
+      "art": "dispatches/2026-10-30-judge-suspends-polands-constitutional-court-chief/art.jpg",
+      "pair": {
+        "left_label": "Nawrocki and PiS Say",
+        "left": "Nawrocki calls it a \"forcible takeover of a constitutional organ of the state\"; Święczkowski calls it a coup and says the new judges are usurpers.",
+        "right_label": "Tusk and Żurek Say",
+        "right": "Tusk says restoring the rule of law \"requires decisive action\"; Żurek says a lawfully elected judge acted without the government."
+      },
+      "reading": {
+        "label": "The Stakes",
+        "text": "One side speaks of a coup, the other of the rule of law; beneath both is who holds the court that can strike down Poland's laws."
+      },
+      "tags": [
+        "poland",
+        "constitutional-tribunal",
+        "nawrocki",
+        "tusk",
+        "kaczynski",
+        "pis",
+        "rule-of-law",
+        "eu",
+        "echr"
+      ],
+      "sources": [
+        {
+          "title": "Tusk-Nawrocki battle escalates as chief judge is ousted from Poland's top court",
+          "outlet": "POLITICO Europe",
+          "url": "https://www.politico.eu/article/tusk-nawrocki-battle-escalates-chief-judge-ousted-from-polands-top-court/",
+          "role": "origin"
+        },
+        {
+          "title": "Poland political crisis: Constitutional court in chaos as Nawrocki accuses government of staging power grab",
+          "outlet": "Euronews",
+          "url": "https://www.euronews.com/2026/10/31/poland-political-crisis-constitutional-court-in-chaos-as-nawrocki-accuses-government-of-st",
+          "role": "origin"
+        },
+        {
+          "title": "Polish president turns back from Senegal trip after top court chief suspended",
+          "outlet": "ThePrint (Reuters)",
+          "url": "https://theprint.in/world/polish-president-turns-back-from-senegal-trip-after-top-court-chief-suspended/3086718/",
+          "role": "origin"
+        },
+        {
+          "title": "Polish PM Tusk vows support for tribunal amid court crisis",
+          "outlet": "Devdiscourse (Reuters)",
+          "url": "https://www.devdiscourse.com/article/international/4000204-polish-pm-tusk-vows-support-for-tribunal-amid-court-crisis",
+          "role": "origin"
+        },
+        {
+          "title": "Polish president calls crisis talks after court standoff",
+          "outlet": "AFP",
+          "url": "https://www.afp.com/en/polish-president-calls-crisis-talks-after-court-standoff",
+          "role": "origin"
+        },
+        {
+          "title": "Spór o Trybunał Konstytucyjny, Anna Korwin-Piotrowska zawiesza w czynnościach Święczkowskiego",
+          "outlet": "Prawo.pl",
+          "url": "https://www.prawo.pl/prawnicy-sady/spor-o-trybunal-konstytucyjny-anna-korwin-piotrowska-zawiesza-w-czynnosciach-swieczkowskiego,1556200.html",
+          "role": "origin"
+        },
+        {
+          "title": "Anna Korwin-Piotrowska zwoła Zgromadzenie Ogólne. Chodzi o immunitety władz TK",
+          "outlet": "Rzeczpospolita",
+          "url": "https://www.rp.pl/polityka/art45424161-anna-korwin-piotrowska-wyjasnia-co-dalej-z-wladzami-tk-decyzje-podejmie-sad-dyscyplinarny",
+          "role": "origin"
+        },
+        {
+          "title": "Dwa zarządzenia dla pracowników i sędziów TK od Korwin-Piotrowskiej i Bogdana Święczkowskiego",
+          "outlet": "Rzeczpospolita",
+          "url": "https://www.rp.pl/sady-i-trybunaly/art45425341-wojna-na-zarzadzenia-swieczkowski-podwaza-decyzje-korwin-piotrowskiej",
+          "role": "origin"
+        },
+        {
+          "title": "Zgromadzenie Ogólne Sędziów TK, Korwin-Piotrowska, zapowiedź Święczkowskiego",
+          "outlet": "Prawo.pl",
+          "url": "https://www.prawo.pl/prawnicy-sady/zgromadzenie-ogolne-sedziow-tk-korwin-piotrowska-zapowiedz-swieczkowskiego,1556242.html",
+          "role": "origin"
+        },
+        {
+          "title": "Chaos w Trybunale Konstytucyjnym. Prezydent Karol Nawrocki zabrał głos",
+          "outlet": "Onet",
+          "url": "https://wiadomosci.onet.pl/kraj/karol-nawrocki-przybyl-przed-tk-zwolal-pilne-konsultacje/gfx1f7b",
+          "role": "origin"
+        },
+        {
+          "title": "Pilne rozmowy w Pałacu Prezydenckim",
+          "outlet": "Fakt",
+          "url": "https://www.fakt.pl/polityka/karol-nawrocki-reaguje-na-chaos-wokol-tk-wladyslaw-kosiniak-kamysz-u-prezydenta/2npc7jn",
+          "role": "origin"
+        },
+        {
+          "title": "Xero Flor w Polsce sp. z o.o. v. Poland, no. 4907/18, judgment of 7 May 2021",
+          "outlet": "European Court of Human Rights",
+          "url": "https://hudoc.echr.coe.int/eng?i=001-210065",
+          "role": "context"
+        },
+        {
+          "title": "Commission v Poland, C-448/23, judgment of 18 December 2025 (Grand Chamber)",
+          "outlet": "Court of Justice of the European Union",
+          "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=celex%3A62023CJ0448",
+          "role": "context"
+        },
+        {
+          "title": "Wikimedia Commons",
+          "outlet": "PanBe",
+          "url": "https://commons.wikimedia.org/wiki/File:09%272022_Constitutional_Tribunal_1.jpg",
+          "role": "image"
+        }
+      ],
+      "path": "dispatches/2026-10-30-judge-suspends-polands-constitutional-court-chief/index.md",
+      "words": 1102
     },
     {
       "slug": "2026-10-28-flavio-bolsonaro-defies-passport-order-lands-in-miami",
