@@ -1,0 +1,33 @@
+{
+ "layout": "card",
+ "art": "art.jpg",
+ "desk": "ΛRX INTERCEPT",
+ "meta": "1209 · Béziers",
+ "title": "Crusaders Sack Béziers and the Cathar War Begins",
+ "title_size": 52,
+ "dek": "On 22 July 1209 the army Innocent III raised against the Cathars storms Béziers and kills Catholics and heretics alike. Twenty years later Languedoc is bound to the French crown.",
+ "body": "A later story has the legate, asked how to tell Catholics from heretics, answer: kill them all, the Lord knows his own. Historians doubt he said it.",
+ "panels": [
+  {
+   "icon": "swords",
+   "label": "Arnaud Amalric Said",
+   "text": "The legate Arnaud Amalric told Innocent III that the crusaders spared no one in Béziers, put almost 20,000 to the sword, and that divine vengeance raged against the city."
+  },
+  {
+   "icon": "tower",
+   "label": "Trencavel Said",
+   "text": "Raymond Roger Trencavel, viscount of Béziers, said he was a loyal member of the Church and, being young, not to blame for the heresy in his lands."
+  },
+  {
+   "icon": "scales",
+   "label": "The Stakes",
+   "text": "Each side said it stood with the Church; at stake was who would rule Languedoc and police its faith, the pope’s legates and northern barons or the southern lords."
+  }
+ ],
+ "focus": [
+  1000,
+  560
+ ],
+ "grade": "none",
+ "caption": "Photo: Christian Ferrer, CC BY 4.0"
+}

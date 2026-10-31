@@ -1,6 +1,6 @@
 {
   "desk": "ΛRX Intercept",
-  "count": 28,
+  "count": 29,
   "entries": [
     {
       "slug": "213bc-qins-first-emperor-orders-the-books-burned",
@@ -2435,6 +2435,105 @@
       ],
       "path": "dispatches/1589-02-05-moscow-gets-a-patriarch-and-calls-itself-the-third-rome/index.md",
       "words": 723
+    },
+    {
+      "slug": "1209-07-22-crusaders-sack-beziers-and-the-cathar-war-begins",
+      "desk": "ΛRX Intercept",
+      "author": "Arx",
+      "category": "Historical Inquiry",
+      "story_type": "contested",
+      "title": "Crusaders Sack Béziers and the Cathar War Begins",
+      "dek": "On 22 July 1209 the army Innocent III raised against the Cathars storms Béziers and kills Catholics and heretics alike. Twenty years later Languedoc is bound to the French crown.",
+      "date": "1209-07-22",
+      "location": "Béziers, Languedoc",
+      "coords": [
+        43.3407,
+        3.2103
+      ],
+      "severity": 3,
+      "card": "dispatches/1209-07-22-crusaders-sack-beziers-and-the-cathar-war-begins/card.png",
+      "art": "dispatches/1209-07-22-crusaders-sack-beziers-and-the-cathar-war-begins/art.jpg",
+      "pair": {
+        "left_label": "Arnaud Amalric Said",
+        "left": "The legate Arnaud Amalric told Innocent III that the crusaders spared no one in Béziers, put almost 20,000 to the sword, and that divine vengeance raged against the city.",
+        "right_label": "Trencavel Said",
+        "right": "Raymond Roger Trencavel, viscount of Béziers, said he was a loyal member of the Church and, being young, not to blame for the heresy in his lands."
+      },
+      "reading": {
+        "label": "The Stakes",
+        "text": "Each side said it stood with the Church; at stake was who would rule Languedoc and police its faith, the pope's legates and northern barons or the southern lords."
+      },
+      "tags": [
+        "france",
+        "languedoc",
+        "cathars",
+        "albigensian-crusade",
+        "innocent-iii",
+        "arnaud-amalric",
+        "crusades",
+        "heresy",
+        "inquisition",
+        "religion",
+        "13th-century"
+      ],
+      "sources": [
+        {
+          "title": "Massacre at Béziers",
+          "outlet": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Massacre_at_B%C3%A9ziers",
+          "role": "origin"
+        },
+        {
+          "title": "Albigensian Crusade",
+          "outlet": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Albigensian_Crusade",
+          "role": "origin"
+        },
+        {
+          "title": "Arnaud Amalric",
+          "outlet": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Arnaud_Amalric",
+          "role": "origin"
+        },
+        {
+          "title": "Raymond Roger Trencavel",
+          "outlet": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Raymond_Roger_Trencavel",
+          "role": "origin"
+        },
+        {
+          "title": "Catharism",
+          "outlet": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Catharism",
+          "role": "context"
+        },
+        {
+          "title": "Pierre de Castelnau",
+          "outlet": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Pierre_de_Castelnau",
+          "role": "context"
+        },
+        {
+          "title": "The Occitan War: A Military and Political History of the Albigensian Crusade, 1209–1218",
+          "outlet": "Laurence W. Marvin, Cambridge University Press",
+          "url": "https://doi.org/10.1017/CBO9780511496561",
+          "role": "context"
+        },
+        {
+          "title": "God's War: A New History of the Crusades",
+          "outlet": "Christopher Tyerman, Harvard University Press",
+          "url": "https://www.hup.harvard.edu/books/9780674023871",
+          "role": "context"
+        },
+        {
+          "title": "Caesarius of Heisterbach: Medieval Heresies, the Albigensians",
+          "outlet": "Internet History Sourcebooks, Fordham University",
+          "url": "https://sourcebooks.fordham.edu/source/caesarius-heresies.asp",
+          "role": "side"
+        }
+      ],
+      "path": "dispatches/1209-07-22-crusaders-sack-beziers-and-the-cathar-war-begins/index.md",
+      "words": 829
     }
   ]
 }
