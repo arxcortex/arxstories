@@ -1,0 +1,29 @@
+{
+ "layout": "card",
+ "art": "art.jpg",
+ "desk": "ΛRX INTERCEPT",
+ "meta": "28 Oct 2026 · Miami · arxcortex.io",
+ "title": "From Miami, Flávio Bolsonaro Calls Himself Brazil's Leader",
+ "title_size": 52,
+ "dek": "A day after fleeing a passport order, the defeated candidate posted a letter alleging fraud, then softened “rightful president” to “leader.” His own party accepts Lula's win.",
+ "body": "He posted “rightful president,” then changed it to “leader.” Lula won by 4.4 million votes; his own party accepts the result.",
+ "panels": [
+  {
+   "icon": "flame",
+   "label": "Bolsonaro Says",
+   "text": "He calls the runoff “an electoral fraud” and himself a victim of “political persecution,” and says he will lead the opposition from the US."
+  },
+  {
+   "icon": "eye",
+   "label": "Lula and the Court Say",
+   "text": "Lula calls the flight “shameful”; the electoral authority says the vote ran fully within the law. Observers and his party accept the result."
+  },
+  {
+   "icon": "scales",
+   "label": "The Stakes",
+   "text": "He speaks of fraud, Brasília of flight from justice; beneath both is whether Brazil’s right follows a leader abroad."
+  }
+ ],
+ "grade": "none",
+ "caption": "Photo: Leandro Neumann Ciuffo, CC BY 2.0"
+}
