@@ -1,0 +1,33 @@
+{
+ "layout": "card",
+ "art": "art.jpg",
+ "desk": "ΛRX INTERCEPT",
+ "meta": "1454 · Constantinople",
+ "title": "Mehmed II Makes the Anti-Union Monk Gennadios Patriarch",
+ "title_size": 52,
+ "dek": "On 6 January 1454 the sultan who took Constantinople installs its leading foe of union with Rome as patriarch. Later sultans repeat the investiture for the patriarchs after him.",
+ "body": "The sultan handed the new patriarch his staff himself. Later accounts called it the birth of a millet system; historians doubt one existed in 1454.",
+ "panels": [
+  {
+   "icon": "swords",
+   "label": "Gennadios Said",
+   "text": "Gennadios told the people of Constantinople that by forsaking their faith and trusting the Italians instead of God, they would lose their city."
+  },
+  {
+   "icon": "tower",
+   "label": "Bessarion Said",
+   "text": "Bessarion said he urged union with Rome because he found no error in Latin doctrine, and would have suffered the worst before counseling it out of fear for the body."
+  },
+  {
+   "icon": "scales",
+   "label": "The Stakes",
+   "text": "Each side said it defended the true faith; at stake was who would protect and govern the Orthodox once Byzantium fell, a patriarch under the sultan or a Church joined to Rome."
+  }
+ ],
+ "focus": [
+  1000,
+  500
+ ],
+ "grade": "none",
+ "caption": "Photo: Brad Hostetler, CC BY 2.0"
+}
