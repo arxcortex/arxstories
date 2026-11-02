@@ -1,0 +1,33 @@
+{
+ "layout": "card",
+ "art": "art.jpg",
+ "desk": "ΛRX INTERCEPT",
+ "meta": "1613 · Moscow",
+ "title": "Zemsky Sobor Elects 16-Year-Old Michael Romanov Tsar",
+ "title_size": 52,
+ "dek": "On 3 March 1613 an assembly of the realm, meeting in the Kremlin after the Poles were driven out, chooses Michael Romanov as tsar and ends the Time of Troubles.",
+ "body": "The assembly first ruled out every foreign candidate. Accounts differ on whether it then chose Michael freely or under pressure from the Cossacks in Moscow.",
+ "panels": [
+  {
+   "icon": "swords",
+   "label": "The Official Account Said",
+   "text": "Romanov-era and Soviet historians said the Sobor chose freely, voicing the wish of most Russians, and turned to a kinsman of Feodor I, the last tsar of the old line."
+  },
+  {
+   "icon": "tower",
+   "label": "The Critics Said",
+   "text": "Critics said Cossacks in Moscow forced Michael on boyars who had left him off their list, and that his backers wanted a young tsar they could steer."
+  },
+  {
+   "icon": "scales",
+   "label": "The Stakes",
+   "text": "Both sides trace the Romanov throne to 1613; at stake is whether it rested on the consent of the land, or on Cossack pressure and a boyar bet on a pliant boy."
+  }
+ ],
+ "focus": [
+  2126,
+  1300
+ ],
+ "grade": "none",
+ "caption": "Photo: Anton Zelenov, CC BY-SA 3.0"
+}

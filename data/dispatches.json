@@ -1,6 +1,6 @@
 {
   "desk": "ΛRX Intercept",
-  "count": 30,
+  "count": 32,
   "entries": [
     {
       "slug": "213bc-qins-first-emperor-orders-the-books-burned",
@@ -2516,6 +2516,106 @@
       "words": 588
     },
     {
+      "slug": "1613-03-03-zemsky-sobor-elects-michael-romanov-tsar",
+      "desk": "ΛRX Intercept",
+      "author": "Arx",
+      "category": "Historical Inquiry",
+      "story_type": "contested",
+      "title": "Zemsky Sobor Elects 16-Year-Old Michael Romanov Tsar",
+      "dek": "On 3 March 1613 an assembly of the realm, meeting in the Kremlin after the Poles were driven out, chooses Michael Romanov as tsar and ends the Time of Troubles.",
+      "date": "1613-03-03",
+      "location": "Moscow",
+      "coords": [
+        55.7517,
+        37.6178
+      ],
+      "severity": 3,
+      "card": "dispatches/1613-03-03-zemsky-sobor-elects-michael-romanov-tsar/card.png",
+      "art": "dispatches/1613-03-03-zemsky-sobor-elects-michael-romanov-tsar/art.jpg",
+      "pair": {
+        "left_label": "The Official Account Said",
+        "left": "Romanov-era and Soviet historians said the Sobor chose freely, voicing the wish of most Russians, and turned to a kinsman of Feodor I, the last tsar of the old line.",
+        "right_label": "The Critics Said",
+        "right": "Critics said Cossacks in Moscow forced Michael on boyars who had left him off their list, and that his backers wanted a young tsar they could steer."
+      },
+      "reading": {
+        "label": "The Stakes",
+        "text": "Both sides trace the Romanov throne to 1613; at stake is whether it rested on the consent of the land, or on Cossack pressure and a boyar bet on a pliant boy."
+      },
+      "tags": [
+        "moscow",
+        "kremlin",
+        "kostroma",
+        "zemsky-sobor",
+        "time-of-troubles",
+        "michael-romanov",
+        "romanov-dynasty",
+        "cossacks",
+        "boyars",
+        "polish-lithuanian-commonwealth",
+        "russia",
+        "17th-century"
+      ],
+      "sources": [
+        {
+          "title": "Zemsky Sobor of 1613",
+          "outlet": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Zemsky_Sobor_of_1613",
+          "role": "origin"
+        },
+        {
+          "title": "Michael of Russia",
+          "outlet": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Michael_of_Russia",
+          "role": "origin"
+        },
+        {
+          "title": "Michael of Russia",
+          "outlet": "Grokipedia",
+          "url": "https://grokipedia.com/page/Michael_of_Russia",
+          "role": "origin"
+        },
+        {
+          "title": "Time of Troubles",
+          "outlet": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Time_of_Troubles",
+          "role": "context"
+        },
+        {
+          "title": "Seven Boyars",
+          "outlet": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Seven_Boyars",
+          "role": "context"
+        },
+        {
+          "title": "Kuzma Minin",
+          "outlet": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Kuzma_Minin",
+          "role": "context"
+        },
+        {
+          "title": "Dmitry Pozharsky",
+          "outlet": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Dmitry_Pozharsky",
+          "role": "context"
+        },
+        {
+          "title": "Ipatiev Monastery",
+          "outlet": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Ipatiev_Monastery",
+          "role": "context"
+        },
+        {
+          "title": "Approved Charter on the Election of Mikhail Fedorovich Romanov (Belokurov, 1906)",
+          "outlet": "Wikisource (Russian)",
+          "url": "https://ru.wikisource.org/wiki/Утверженная_грамота_(Белокуров_1906)",
+          "role": "side"
+        }
+      ],
+      "path": "dispatches/1613-03-03-zemsky-sobor-elects-michael-romanov-tsar/index.md",
+      "words": 807
+    },
+    {
       "slug": "1589-02-05-moscow-gets-a-patriarch-and-calls-itself-the-third-rome",
       "desk": "ΛRX Intercept",
       "author": "Arx",
@@ -2604,6 +2704,106 @@
       ],
       "path": "dispatches/1589-02-05-moscow-gets-a-patriarch-and-calls-itself-the-third-rome/index.md",
       "words": 723
+    },
+    {
+      "slug": "1454-01-06-mehmed-ii-makes-gennadios-patriarch",
+      "desk": "ΛRX Intercept",
+      "author": "Arx",
+      "category": "Historical Inquiry",
+      "story_type": "contested",
+      "title": "Mehmed II Makes the Anti-Union Monk Gennadios Patriarch",
+      "dek": "On 6 January 1454 the sultan who took Constantinople installs its leading foe of union with Rome as patriarch. Later sultans repeat the investiture for the patriarchs after him.",
+      "date": "1454-01-06",
+      "location": "Constantinople",
+      "coords": [
+        41.0193,
+        28.9497
+      ],
+      "severity": 3,
+      "card": "dispatches/1454-01-06-mehmed-ii-makes-gennadios-patriarch/card.png",
+      "art": "dispatches/1454-01-06-mehmed-ii-makes-gennadios-patriarch/art.jpg",
+      "pair": {
+        "left_label": "Gennadios Said",
+        "left": "Gennadios told the people of Constantinople that by forsaking their faith and trusting the Italians instead of God, they would lose their city.",
+        "right_label": "Bessarion Said",
+        "right": "Bessarion said he urged union with Rome because he found no error in Latin doctrine, and would have suffered the worst before counseling it out of fear for the body."
+      },
+      "reading": {
+        "label": "The Stakes",
+        "text": "Each side said it defended the true faith; at stake was who would protect and govern the Orthodox once Byzantium fell, a patriarch under the sultan or a Church joined to Rome."
+      },
+      "tags": [
+        "constantinople",
+        "istanbul",
+        "ottoman-empire",
+        "mehmed-ii",
+        "gennadios-scholarios",
+        "bessarion",
+        "ecumenical-patriarchate",
+        "council-of-florence",
+        "millet",
+        "orthodoxy",
+        "religion",
+        "15th-century"
+      ],
+      "sources": [
+        {
+          "title": "Gennadius Scholarius",
+          "outlet": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Gennadius_Scholarius",
+          "role": "origin"
+        },
+        {
+          "title": "Gennadius Scholarius",
+          "outlet": "Grokipedia",
+          "url": "https://grokipedia.com/page/Gennadius_Scholarius",
+          "role": "origin"
+        },
+        {
+          "title": "Ecumenical Patriarchate of Constantinople",
+          "outlet": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Ecumenical_Patriarchate_of_Constantinople",
+          "role": "origin"
+        },
+        {
+          "title": "Pammakaristos Church",
+          "outlet": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Pammakaristos_Church",
+          "role": "origin"
+        },
+        {
+          "title": "Council of Florence",
+          "outlet": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Council_of_Florence",
+          "role": "context"
+        },
+        {
+          "title": "Mark of Ephesus",
+          "outlet": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Mark_of_Ephesus",
+          "role": "context"
+        },
+        {
+          "title": "Bessarion",
+          "outlet": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Basilios_Bessarion",
+          "role": "context"
+        },
+        {
+          "title": "Millet (Ottoman Empire)",
+          "outlet": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Millet_(Ottoman_Empire)",
+          "role": "context"
+        },
+        {
+          "title": "Gennadius II",
+          "outlet": "Catholic Encyclopedia (1913), Wikisource",
+          "url": "https://en.wikisource.org/wiki/Catholic_Encyclopedia_(1913)/Gennadius_II",
+          "role": "side"
+        }
+      ],
+      "path": "dispatches/1454-01-06-mehmed-ii-makes-gennadios-patriarch/index.md",
+      "words": 775
     },
     {
       "slug": "1209-07-22-crusaders-sack-beziers-and-the-cathar-war-begins",
