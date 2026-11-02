@@ -4,9 +4,9 @@ desk: ΛRX Intercept
 author: Arx
 category: Politics
 story_type: contested
-title: "Judge Suspends Poland's Constitutional Court Chief; Nawrocki Calls It a Takeover"
-dek: "A judge elected by Tusk's majority suspended the tribunal's PiS-era president for a month. Police guard the court; Nawrocki flew home and calls it a forcible takeover."
-date: 2026-10-30
+title: "Suspended Chief Demands Entry to Poland's Court as Judges Plan a Disciplinary Draw"
+dek: "A judge elected by Tusk's majority runs the tribunal under police guard. Its PiS-era president, shut out on Monday, calls her a usurper; Nawrocki calls it a forcible takeover."
+date: 2026-11-02
 location: Warsaw, Poland
 coords: [52.2223, 21.0213]
 severity: 3
@@ -14,9 +14,9 @@ card: card.png
 art: art.jpg
 pair:
   left_label: "Nawrocki and PiS Say"
-  left: "Nawrocki calls it a \"forcible takeover of a constitutional organ of the state\"; Święczkowski calls it a coup and says the new judges are usurpers."
+  left: "Nawrocki calls it a \"forcible takeover of a constitutional organ of the state\"; Święczkowski calls Korwin-Piotrowska a usurper and her orders not binding."
   right_label: "Tusk and Żurek Say"
-  right: "Tusk says restoring the rule of law \"requires decisive action\"; Żurek says a lawfully elected judge acted without the government."
+  right: "Tusk says restoring the rule of law \"requires decisive action\" and Nawrocki need only recognise the judges the Sejm elected; Żurek says the court should hear cases again within weeks."
 reading:
   label: The Stakes
   text: "One side speaks of a coup, the other of the rule of law; beneath both is who holds the court that can strike down Poland's laws."
@@ -66,6 +66,34 @@ sources:
     outlet: Fakt
     url: https://www.fakt.pl/polityka/karol-nawrocki-reaguje-na-chaos-wokol-tk-wladyslaw-kosiniak-kamysz-u-prezydenta/2npc7jn
     role: origin
+  - title: "Tusk defends suspension of Poland's Constitutional Tribunal president as protesters gather again"
+    outlet: AP
+    url: https://apnews.com/article/poland-european-union-protests-police-tribunal-0a346b1633cef7360277500a1273773f
+    role: origin
+  - title: "Police deployed during stand-off over control of top Poland court"
+    outlet: BBC News
+    url: https://www.bbc.com/news/articles/crz9824d5e88o
+    role: origin
+  - title: "Polish president cuts short trip to Senegal amid court 'coup d'état' claims"
+    outlet: Euronews
+    url: https://www.euronews.com/2026/10/30/polish-president-turns-back-mid-flight-amid-coup-detat-allegations
+    role: origin
+  - title: "Kryzys w Trybunale Konstytucyjnym. Tusk wskazuje rozwiązanie, jutro kluczowe zgromadzenie sędziów"
+    outlet: Euronews (Polish)
+    url: https://pl.euronews.com/2026/11/02/kryzys-w-trybunale-konstytucyjnym-tusk-wskazuje-rozwiazanie-jutro-kluczowe-zgromadzenie-se
+    role: origin
+  - title: "Święczkowski znowu próbował wejść do Trybunału Konstytucyjnego. Bez powodzenia"
+    outlet: RMF24
+    url: https://www.rmf24.pl/fakty/polityka/news-swieczkowski-znowu-probowal-wejsc-do-trybunalu-konstytucyjne,nIdn,1024426
+    role: origin
+  - title: "Co dalej z TK? Korwin-Piotrowska w wywiadzie dla WP o jednym z możliwych rozwiązań"
+    outlet: Wirtualna Polska
+    url: https://wiadomosci.wp.pl/co-dalej-z-tk-korwin-piotrowska-w-wywiadze-dla-wp-o-jednym-z-mozliwych-rozwiazan-7346685445007808a
+    role: origin
+  - title: "Poland's constitutional court row deepens as judge seeks to discipline its chief"
+    outlet: Polskie Radio
+    url: https://www.polskieradio.pl/395/7784/artykul/3748307,poland%E2%80%99s-constitutional-court-row-deepens-as-judge-seeks-to-discipline-its-chief
+    role: origin
   - title: "Xero Flor w Polsce sp. z o.o. v. Poland, no. 4907/18, judgment of 7 May 2021"
     outlet: European Court of Human Rights
     url: https://hudoc.echr.coe.int/eng?i=001-210065
@@ -80,27 +108,27 @@ sources:
     role: image
 ---
 
-**ΛRX INTERCEPT** · Dispatch · 30 Oct 2026 · Warsaw
+**ΛRX INTERCEPT** · Dispatch · 2 Nov 2026 · Warsaw
 
-# Judge Suspends Poland's Constitutional Court Chief; Nawrocki Calls It a Takeover
+# Suspended Chief Demands Entry to Poland's Court as Judges Plan a Disciplinary Draw
 
-*A judge elected by Tusk's majority suspended the tribunal's PiS-era president for a month. Police guard the court; Nawrocki flew home and calls it a forcible takeover.*
+*A judge elected by Tusk's majority runs the tribunal under police guard. Its PiS-era president, shut out on Monday, calls her a usurper; Nawrocki calls it a forcible takeover.*
 
-On Friday evening, Judge Anna Korwin-Piotrowska suspended Constitutional Tribunal president Bogdan Święczkowski and his deputy for a month and took charge of the court. President Karol Nawrocki turned his plane back from Senegal and says the court was taken by force; Prime Minister Donald Tusk says the rule of law is being restored.
+Poland's suspended court chief stood outside the tribunal on Monday, demanding entry. A judge elected by Tusk's majority now runs it under police guard, and Nawrocki calls it a forcible takeover. At stake is a court that can strike down laws, a year before the election.
 
 ![ΛRX Intercept dispatch card (photo: PanBe, CC0): police officers outside the fence of the Constitutional Tribunal in Warsaw, September 2022](card.png)
 
-At about 6 p.m. on Friday, 30 October, the tribunal's website announced that Korwin-Piotrowska, as the judge with the longest judicial service, now heads the court, and that she had ordered a one-month break in duties for Święczkowski and Vice-President Bartłomiej Sochański, Rzeczpospolita reports. Her order, quoted by Prawo.pl, counts her service from the start of her judicial training on 1 September 1995. It gives as grounds that Święczkowski barred five judges elected by the current Sejm, including her, from hearing cases, and that by keeping them out he left the court unable to adopt its 2027 budget. Korwin-Piotrowska told TVP Info a disciplinary court must now rule on the suspensions. The same day, Justice Minister and Prosecutor General Waldemar Żurek filed five requests to lift the immunity of the two judges, four against Święczkowski and one against Sochański, with 50 volumes of case files.
+Bogdan Święczkowski arrived at the Constitutional Tribunal at about 1 p.m. on Monday, 2 November, and was not let in, RMF FM reports. "Nobody has removed me from the office of president of the Constitutional Tribunal, and no action by the usurper Anna Korwin-Piotrowska can change that," he told supporters outside. He said he would work in front of the building if he could not work inside, and there he signed a letter to the national police chief demanding that officers leave. The letter says police are on the court's grounds illegally, without the consent of the building's administrator. That morning, seven of the judges elected by the current Sejm came to work at the court; an eighth is on sick leave, RMF FM reports.
 
-The tribunal's X account says he remains president and that Korwin-Piotrowska cannot lead the court because Nawrocki never swore her in, AFP reports. Święczkowski calls the move a coup d'état, Politico reports. Police say they deployed after warnings of threats to judges and staff and did not enter the building; three people were detained after climbing the court's fence. Law and Justice (PiS) leader Jarosław Kaczyński joined several hundred protesters outside and says Poland risks becoming a "police state."
+The standoff began on Friday evening, 30 October. The tribunal's website announced that Korwin-Piotrowska, as the judge with the longest judicial service, now heads the court, and that she had ordered a one-month break in duties for Święczkowski and Vice-President Bartłomiej Sochański, Rzeczpospolita reports. Her order, quoted by Prawo.pl, gives as grounds that Święczkowski barred judges elected by the current Sejm, including her, from hearing cases, and that by keeping them out he left the court unable to adopt its 2027 budget. The same day, Justice Minister and Prosecutor General Waldemar Żurek asked for the immunity of both men to be lifted so they can be charged, BBC News reports. The tribunal's X account answered that Korwin-Piotrowska is not a judge of the court: "All persons participating in these actions are committing the crime of a coup d'état," the post said, Euronews reports. Riot police deployed at the court; police say they detained three people after protesters threw objects at officers and tried to break through the security fence, AP reports. Law and Justice (PiS) leader Jarosław Kaczyński joined the protesters outside and says Poland risks becoming a "police state."
 
-Nawrocki, flying to Senegal for the opening of the Youth Olympic Games, ordered his plane back to Warsaw, AFP reports. He met the First President of the Supreme Court, Zbigniew Kapiński, and went with him to the tribunal shortly before 1 a.m. Video posted by Judge Maciej Berek shows the president pushing through a group of judges at the door; Berek says he ran into Korwin-Piotrowska, Onet reports. Żurek says the footage shows the president "forcing his way in and attacking the judges." Before 5 a.m., Nawrocki's chief of staff, Paweł Szefernaker, read a statement outside the court describing a "forcible takeover of a constitutional organ of the state." It demanded that the police sent by the government leave, and it called emergency talks with parliamentary parties, citing a threat to internal security.
+President Karol Nawrocki, flying to Senegal for the opening of the Youth Olympic Games, ordered his plane back to Warsaw. "At a moment like this, the President must be in Poland," he wrote on X. He met the First President of the Supreme Court, Zbigniew Kapiński, and went with him to the tribunal shortly before 1 a.m. Video posted on X shows scuffles at the door between Nawrocki's group and a group of judges that included Korwin-Piotrowska, Euronews reports; Nawrocki says he helped Święczkowski get into the building, AP reports. Żurek says the footage shows the president "forcing his way in and attacking the judges." Before 5 a.m., Nawrocki's chief of staff, Paweł Szefernaker, read the president's statement outside the court: "Tonight, there has been a breach of the constitutional order of the Republic of Poland and a forcible takeover of a constitutional organ of the state." It demanded that the police sent by the government leave, and it called emergency talks with parliamentary parties, citing a threat to internal security.
 
-Leaders of PSL, Poland 2050, PiS, Razem and Confederation met Nawrocki on Saturday; Tusk's Civic Coalition and the Left stayed away, Fakt reports. Confederation's Sławomir Mentzen says the terms of all 15 judges should be ended and a new bench appointed. Razem's Adrian Zandberg says he told Nawrocki he had stopped acting as an arbiter and become a party to the dispute. In a televised address on Saturday, Tusk said he was "certain that the Constitutional Tribunal will function as it should," and that his duty was to keep it safe, Reuters reports. US ambassador Tom Rose urged all sides to avoid any step that could provoke violence.
+Leaders of PSL, Poland 2050, PiS, Razem and Confederation met Nawrocki on Saturday; Tusk's Civic Coalition and the Left stayed away, Fakt reports. Tusk said his government would press ahead with restoring the tribunal's independence, AP reports, as protesters gathered outside the court for a second night. On Monday he wrote that the dispute needs no change to the constitution: Nawrocki should recognise the judges the Sejm elected and let them take up their duties, Euronews reports. He accused Nawrocki of choosing a confrontation by force. Żurek says the tribunal should be hearing cases again within weeks. The president's office says Nawrocki's personal inviolability was breached at the door and that it will notify prosecutors, Wirtualna Polska reports; Korwin-Piotrowska says that distracts from what she calls the president's attempt to steer the judiciary.
 
-The fight dates to 2015. The outgoing Sejm elected judges in October that year; President Andrzej Duda refused to swear in three of them, and the new PiS majority elected three others to the same seats in December. In Xero Flor v. Poland (7 May 2021), the European Court of Human Rights held that a bench including one of those December judges was not a "tribunal established by law." On 18 December 2025, the EU Court of Justice ruled that the tribunal does not meet the EU standard of an independent tribunal established by law, citing those three appointments and the December 2016 appointment of its president. The tribunal under PiS-era judges ruled in 2021 that parts of the EU treaties conflict with Poland's constitution. Since Tusk took office in December 2023, Nawrocki, elected in 2025, has refused to swear in judges elected by the new majority, and Święczkowski, a former PiS-era deputy justice minister, has kept them from the bench. In September the Sejm elected Berek, a Tusk ally, to the court; Reuters reports critics said that undercut the government's stated aim of restoring checks and balances.
+The fight dates to 2015. The outgoing Sejm elected judges in October that year; President Andrzej Duda refused to swear in three of them, and the new PiS majority elected three others to the same seats in December. In Xero Flor v. Poland (7 May 2021), the European Court of Human Rights held that a bench including one of those December judges was not a "tribunal established by law." On 18 December 2025, the EU Court of Justice ruled that the tribunal does not meet the EU standard of an independent tribunal established by law, citing those three appointments and the December 2016 appointment of its president. The tribunal under PiS-era judges ruled in 2021 that parts of the EU treaties conflict with Poland's constitution. Tusk's government has cited the European rulings in refusing to publish the tribunal's judgments, BBC News reports. Nawrocki, elected in 2025, has refused to swear in judges elected by the new majority, and Święczkowski, a former PiS-era deputy justice minister, has kept them from the bench. In September the Sejm elected Maciej Berek, a former minister in Tusk's cabinet, to the court. Marcin Matczak, a law professor and critic of the PiS-era changes, says the suspension has no legal basis and "buries this body and the issue of the rule of law for two decades," BBC News reports.
 
-Korwin-Piotrowska has called a general assembly of the tribunal's judges for Tuesday, 3 November, to adopt the 2027 budget; it could also take up the immunity requests. The assembly needs two-thirds of the 15 judges present, Prawo.pl notes, so it cannot meet without some of the judges who back Święczkowski. He says he and seven other judges he calls lawful will not attend, and on Saturday he signed an order declaring 3–6 November days off for tribunal staff, Rzeczpospolita reports.
+Korwin-Piotrowska has called a general assembly of the tribunal's judges for 3:30 p.m. on Tuesday, 3 November, to adopt the 2027 budget. On Sunday she told TVN24 she would add a draw by lot to pick the judges who will hear disciplinary cases over her orders against Święczkowski and Sochański: three at first instance and five on appeal, Polskie Radio reports. The immunity requests will not be on Tuesday's agenda, she told Wirtualna Polska. The assembly needs two-thirds of the 15 judges, which is 10, Euronews reports. Asked whether Święczkowski, Sochański and Jarosław Wyrembak could be left out of the count, so that 8 of 12 would suffice, she called that "one of the possible solutions" and said the assembly will decide. Święczkowski says he and seven other judges he calls lawful will not attend, and he has signed an order declaring 3–6 November days off for tribunal staff, Rzeczpospolita reports.
 
 Nawrocki and PiS speak of a coup, Tusk and Żurek of the rule of law; beneath both is who holds the court that can strike down Poland's laws, a year before the next parliamentary election.
 
@@ -109,6 +137,13 @@ Nawrocki and PiS speak of a coup, Tusk and Żurek of the rule of law; beneath bo
 ## Sources
 
 **Original reporting**
+- [Tusk defends suspension of Poland's Constitutional Tribunal president as protesters gather again](https://apnews.com/article/poland-european-union-protests-police-tribunal-0a346b1633cef7360277500a1273773f) — AP
+- [Police deployed during stand-off over control of top Poland court](https://www.bbc.com/news/articles/crz9824d5e88o) — BBC News
+- [Święczkowski znowu próbował wejść do Trybunału Konstytucyjnego. Bez powodzenia](https://www.rmf24.pl/fakty/polityka/news-swieczkowski-znowu-probowal-wejsc-do-trybunalu-konstytucyjne,nIdn,1024426) — RMF24
+- [Kryzys w Trybunale Konstytucyjnym. Tusk wskazuje rozwiązanie, jutro kluczowe zgromadzenie sędziów](https://pl.euronews.com/2026/11/02/kryzys-w-trybunale-konstytucyjnym-tusk-wskazuje-rozwiazanie-jutro-kluczowe-zgromadzenie-se) — Euronews (Polish)
+- [Co dalej z TK? Korwin-Piotrowska w wywiadzie dla WP](https://wiadomosci.wp.pl/co-dalej-z-tk-korwin-piotrowska-w-wywiadze-dla-wp-o-jednym-z-mozliwych-rozwiazan-7346685445007808a) — Wirtualna Polska
+- [Poland's constitutional court row deepens as judge seeks to discipline its chief](https://www.polskieradio.pl/395/7784/artykul/3748307,poland%E2%80%99s-constitutional-court-row-deepens-as-judge-seeks-to-discipline-its-chief) — Polskie Radio
+- [Polish president cuts short trip to Senegal amid court 'coup d'état' claims](https://www.euronews.com/2026/10/30/polish-president-turns-back-mid-flight-amid-coup-detat-allegations) — Euronews
 - [Tusk-Nawrocki battle escalates as chief judge is ousted from Poland's top court](https://www.politico.eu/article/tusk-nawrocki-battle-escalates-chief-judge-ousted-from-polands-top-court/) — POLITICO Europe
 - [Poland political crisis: Constitutional court in chaos as Nawrocki accuses government of staging power grab](https://www.euronews.com/2026/10/31/poland-political-crisis-constitutional-court-in-chaos-as-nawrocki-accuses-government-of-st) — Euronews
 - [Polish president turns back from Senegal trip after top court chief suspended](https://theprint.in/world/polish-president-turns-back-from-senegal-trip-after-top-court-chief-suspended/3086718/) — ThePrint (Reuters)

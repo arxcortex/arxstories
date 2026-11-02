@@ -107,9 +107,9 @@
       "author": "Arx",
       "category": "Politics",
       "story_type": "contested",
-      "title": "Judge Suspends Poland's Constitutional Court Chief; Nawrocki Calls It a Takeover",
-      "dek": "A judge elected by Tusk's majority suspended the tribunal's PiS-era president for a month. Police guard the court; Nawrocki flew home and calls it a forcible takeover.",
-      "date": "2026-10-30",
+      "title": "Suspended Chief Demands Entry to Poland's Court as Judges Plan a Disciplinary Draw",
+      "dek": "A judge elected by Tusk's majority runs the tribunal under police guard. Its PiS-era president, shut out on Monday, calls her a usurper; Nawrocki calls it a forcible takeover.",
+      "date": "2026-11-02",
       "location": "Warsaw, Poland",
       "coords": [
         52.2223,
@@ -120,9 +120,9 @@
       "art": "dispatches/2026-10-30-judge-suspends-polands-constitutional-court-chief/art.jpg",
       "pair": {
         "left_label": "Nawrocki and PiS Say",
-        "left": "Nawrocki calls it a \"forcible takeover of a constitutional organ of the state\"; Święczkowski calls it a coup and says the new judges are usurpers.",
+        "left": "Nawrocki calls it a \"forcible takeover of a constitutional organ of the state\"; Święczkowski calls Korwin-Piotrowska a usurper and her orders not binding.",
         "right_label": "Tusk and Żurek Say",
-        "right": "Tusk says restoring the rule of law \"requires decisive action\"; Żurek says a lawfully elected judge acted without the government."
+        "right": "Tusk says restoring the rule of law \"requires decisive action\" and Nawrocki need only recognise the judges the Sejm elected; Żurek says the court should hear cases again within weeks."
       },
       "reading": {
         "label": "The Stakes",
@@ -207,6 +207,48 @@
           "role": "origin"
         },
         {
+          "title": "Tusk defends suspension of Poland's Constitutional Tribunal president as protesters gather again",
+          "outlet": "AP",
+          "url": "https://apnews.com/article/poland-european-union-protests-police-tribunal-0a346b1633cef7360277500a1273773f",
+          "role": "origin"
+        },
+        {
+          "title": "Police deployed during stand-off over control of top Poland court",
+          "outlet": "BBC News",
+          "url": "https://www.bbc.com/news/articles/crz9824d5e88o",
+          "role": "origin"
+        },
+        {
+          "title": "Polish president cuts short trip to Senegal amid court 'coup d'état' claims",
+          "outlet": "Euronews",
+          "url": "https://www.euronews.com/2026/10/30/polish-president-turns-back-mid-flight-amid-coup-detat-allegations",
+          "role": "origin"
+        },
+        {
+          "title": "Kryzys w Trybunale Konstytucyjnym. Tusk wskazuje rozwiązanie, jutro kluczowe zgromadzenie sędziów",
+          "outlet": "Euronews (Polish)",
+          "url": "https://pl.euronews.com/2026/11/02/kryzys-w-trybunale-konstytucyjnym-tusk-wskazuje-rozwiazanie-jutro-kluczowe-zgromadzenie-se",
+          "role": "origin"
+        },
+        {
+          "title": "Święczkowski znowu próbował wejść do Trybunału Konstytucyjnego. Bez powodzenia",
+          "outlet": "RMF24",
+          "url": "https://www.rmf24.pl/fakty/polityka/news-swieczkowski-znowu-probowal-wejsc-do-trybunalu-konstytucyjne,nIdn,1024426",
+          "role": "origin"
+        },
+        {
+          "title": "Co dalej z TK? Korwin-Piotrowska w wywiadzie dla WP o jednym z możliwych rozwiązań",
+          "outlet": "Wirtualna Polska",
+          "url": "https://wiadomosci.wp.pl/co-dalej-z-tk-korwin-piotrowska-w-wywiadze-dla-wp-o-jednym-z-mozliwych-rozwiazan-7346685445007808a",
+          "role": "origin"
+        },
+        {
+          "title": "Poland's constitutional court row deepens as judge seeks to discipline its chief",
+          "outlet": "Polskie Radio",
+          "url": "https://www.polskieradio.pl/395/7784/artykul/3748307,poland%E2%80%99s-constitutional-court-row-deepens-as-judge-seeks-to-discipline-its-chief",
+          "role": "origin"
+        },
+        {
           "title": "Xero Flor w Polsce sp. z o.o. v. Poland, no. 4907/18, judgment of 7 May 2021",
           "outlet": "European Court of Human Rights",
           "url": "https://hudoc.echr.coe.int/eng?i=001-210065",
@@ -226,7 +268,7 @@
         }
       ],
       "path": "dispatches/2026-10-30-judge-suspends-polands-constitutional-court-chief/index.md",
-      "words": 1102
+      "words": 1459
     },
     {
       "slug": "2026-10-28-flavio-bolsonaro-defies-passport-order-lands-in-miami",
