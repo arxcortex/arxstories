@@ -1,6 +1,6 @@
 {
   "desk": "ΛRX Intercept",
-  "count": 30,
+  "count": 31,
   "entries": [
     {
       "slug": "213bc-qins-first-emperor-orders-the-books-burned",
@@ -2345,6 +2345,106 @@
       ],
       "path": "dispatches/2020-03-23-fed-cuts-to-zero-pledges-open-ended-buying/index.md",
       "words": 588
+    },
+    {
+      "slug": "1613-03-03-zemsky-sobor-elects-michael-romanov-tsar",
+      "desk": "ΛRX Intercept",
+      "author": "Arx",
+      "category": "Historical Inquiry",
+      "story_type": "contested",
+      "title": "Zemsky Sobor Elects 16-Year-Old Michael Romanov Tsar",
+      "dek": "On 3 March 1613 an assembly of the realm, meeting in the Kremlin after the Poles were driven out, chooses Michael Romanov as tsar and ends the Time of Troubles.",
+      "date": "1613-03-03",
+      "location": "Moscow",
+      "coords": [
+        55.7517,
+        37.6178
+      ],
+      "severity": 3,
+      "card": "dispatches/1613-03-03-zemsky-sobor-elects-michael-romanov-tsar/card.png",
+      "art": "dispatches/1613-03-03-zemsky-sobor-elects-michael-romanov-tsar/art.jpg",
+      "pair": {
+        "left_label": "The Official Account Said",
+        "left": "Romanov-era and Soviet historians said the Sobor chose freely, voicing the wish of most Russians, and turned to a kinsman of Feodor I, the last tsar of the old line.",
+        "right_label": "The Critics Said",
+        "right": "Critics said Cossacks in Moscow forced Michael on boyars who had left him off their list, and that his backers wanted a young tsar they could steer."
+      },
+      "reading": {
+        "label": "The Stakes",
+        "text": "Both sides trace the Romanov throne to 1613; at stake is whether it rested on the consent of the land, or on Cossack pressure and a boyar bet on a pliant boy."
+      },
+      "tags": [
+        "moscow",
+        "kremlin",
+        "kostroma",
+        "zemsky-sobor",
+        "time-of-troubles",
+        "michael-romanov",
+        "romanov-dynasty",
+        "cossacks",
+        "boyars",
+        "polish-lithuanian-commonwealth",
+        "russia",
+        "17th-century"
+      ],
+      "sources": [
+        {
+          "title": "Zemsky Sobor of 1613",
+          "outlet": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Zemsky_Sobor_of_1613",
+          "role": "origin"
+        },
+        {
+          "title": "Michael of Russia",
+          "outlet": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Michael_of_Russia",
+          "role": "origin"
+        },
+        {
+          "title": "Michael of Russia",
+          "outlet": "Grokipedia",
+          "url": "https://grokipedia.com/page/Michael_of_Russia",
+          "role": "origin"
+        },
+        {
+          "title": "Time of Troubles",
+          "outlet": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Time_of_Troubles",
+          "role": "context"
+        },
+        {
+          "title": "Seven Boyars",
+          "outlet": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Seven_Boyars",
+          "role": "context"
+        },
+        {
+          "title": "Kuzma Minin",
+          "outlet": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Kuzma_Minin",
+          "role": "context"
+        },
+        {
+          "title": "Dmitry Pozharsky",
+          "outlet": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Dmitry_Pozharsky",
+          "role": "context"
+        },
+        {
+          "title": "Ipatiev Monastery",
+          "outlet": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Ipatiev_Monastery",
+          "role": "context"
+        },
+        {
+          "title": "Approved Charter on the Election of Mikhail Fedorovich Romanov (Belokurov, 1906)",
+          "outlet": "Wikisource (Russian)",
+          "url": "https://ru.wikisource.org/wiki/Утверженная_грамота_(Белокуров_1906)",
+          "role": "side"
+        }
+      ],
+      "path": "dispatches/1613-03-03-zemsky-sobor-elects-michael-romanov-tsar/index.md",
+      "words": 807
     },
     {
       "slug": "1589-02-05-moscow-gets-a-patriarch-and-calls-itself-the-third-rome",
