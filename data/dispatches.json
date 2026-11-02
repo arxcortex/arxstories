@@ -1,6 +1,6 @@
 {
   "desk": "ΛRX Intercept",
-  "count": 32,
+  "count": 33,
   "entries": [
     {
       "slug": "213bc-qins-first-emperor-orders-the-books-burned",
@@ -2514,6 +2514,118 @@
       ],
       "path": "dispatches/2020-03-23-fed-cuts-to-zero-pledges-open-ended-buying/index.md",
       "words": 588
+    },
+    {
+      "slug": "1787-09-17-thirty-nine-delegates-sign-the-us-constitution",
+      "desk": "ΛRX Intercept",
+      "author": "Arx",
+      "category": "Historical Inquiry",
+      "story_type": "contested",
+      "title": "Thirty-Nine Delegates Sign the US Constitution in Philadelphia",
+      "dek": "On 17 September 1787 the Philadelphia Convention signs a charter for a stronger national government and sends it to the states, opening the fight between Federalists and Anti-Federalists.",
+      "date": "1787-09-17",
+      "location": "Philadelphia",
+      "coords": [
+        39.9489,
+        -75.15
+      ],
+      "severity": 4,
+      "card": "dispatches/1787-09-17-thirty-nine-delegates-sign-the-us-constitution/card.png",
+      "art": "dispatches/1787-09-17-thirty-nine-delegates-sign-the-us-constitution/art.jpg",
+      "pair": {
+        "left_label": "The Federalists Said",
+        "left": "Federalists such as Madison said a Congress that could not tax risked national bankruptcy and break-up, and that a large republic with a stronger national government would check faction.",
+        "right_label": "The Anti-Federalists Said",
+        "right": "Anti-Federalists led by Patrick Henry said the charter would erode state sovereignty and individual liberty, that the presidency could grow into a monarchy, and that it lacked a bill of rights."
+      },
+      "reading": {
+        "label": "The Stakes",
+        "text": "Both sides claimed the Revolution's legacy; at stake was whether the power to tax, regulate trade and make war would sit with a national government or stay with the states."
+      },
+      "memeplex": {
+        "ideas": [
+          "federalists",
+          "anti_federalists"
+        ]
+      },
+      "tags": [
+        "philadelphia",
+        "independence-hall",
+        "constitutional-convention",
+        "us-constitution",
+        "ratification",
+        "federalists",
+        "anti-federalists",
+        "federalist-papers",
+        "bill-of-rights",
+        "articles-of-confederation",
+        "united-states",
+        "18th-century"
+      ],
+      "sources": [
+        {
+          "title": "Constitution of the United States",
+          "outlet": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Constitution_of_the_United_States",
+          "role": "origin"
+        },
+        {
+          "title": "History of the United States Constitution",
+          "outlet": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/History_of_the_United_States_Constitution",
+          "role": "origin"
+        },
+        {
+          "title": "Constitution of the United States",
+          "outlet": "Grokipedia",
+          "url": "https://grokipedia.com/page/Constitution_of_the_United_States",
+          "role": "origin"
+        },
+        {
+          "title": "Anti-Federalists",
+          "outlet": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Anti-Federalism",
+          "role": "context"
+        },
+        {
+          "title": "The Federalist Papers",
+          "outlet": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/The_Federalist_Papers",
+          "role": "context"
+        },
+        {
+          "title": "Federalist No. 10",
+          "outlet": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Federalist_No._10",
+          "role": "context"
+        },
+        {
+          "title": "Brutus (Antifederalist)",
+          "outlet": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Brutus_(Antifederalist)",
+          "role": "context"
+        },
+        {
+          "title": "George Mason",
+          "outlet": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/George_Mason",
+          "role": "context"
+        },
+        {
+          "title": "Edmund Randolph",
+          "outlet": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Edmund_Randolph",
+          "role": "context"
+        },
+        {
+          "title": "The Constitution of the United States: A Transcription",
+          "outlet": "US National Archives",
+          "url": "https://www.archives.gov/founding-docs/constitution-transcript",
+          "role": "side"
+        }
+      ],
+      "path": "dispatches/1787-09-17-thirty-nine-delegates-sign-the-us-constitution/index.md",
+      "words": 735
     },
     {
       "slug": "1613-03-03-zemsky-sobor-elects-michael-romanov-tsar",

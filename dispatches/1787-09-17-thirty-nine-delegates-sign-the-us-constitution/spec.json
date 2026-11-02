@@ -1,0 +1,18 @@
+{
+ "layout": "card",
+ "art": "art.jpg",
+ "desk": "ΛRX INTERCEPT",
+ "meta": "1787 · Philadelphia",
+ "title": "Thirty-Nine Delegates Sign the US Constitution in Philadelphia",
+ "title_size": 52,
+ "dek": "On 17 September 1787 the Philadelphia Convention signs a charter for a stronger national government and sends it to the states, opening the fight between Federalists and Anti-Federalists.",
+ "body": "It needed nine of thirteen states. Federalists won ratification by June 1788; Anti-Federalists won the Bill of Rights in 1791.",
+ "panels": [
+  {"icon": "scroll", "label": "The Federalists Said", "text": "Federalists such as Madison said a Congress that could not tax risked national bankruptcy and break-up, and that a large republic with a stronger national government would check faction."},
+  {"icon": "tower", "label": "The Anti-Federalists Said", "text": "Anti-Federalists led by Patrick Henry said the charter would erode state sovereignty and individual liberty, that the presidency could grow into a monarchy, and that it lacked a bill of rights."},
+  {"icon": "scales", "label": "The Stakes", "text": "Both sides claimed the Revolution's legacy; at stake was whether the power to tax, regulate trade and make war would sit with a national government or stay with the states."}
+ ],
+ "focus": [1000, 600],
+ "grade": "none",
+ "caption": "Photo: Antoine Taveneaux, CC BY-SA 3.0"
+}
