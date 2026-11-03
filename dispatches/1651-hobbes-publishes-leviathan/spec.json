@@ -1,0 +1,33 @@
+{
+ "layout": "card",
+ "art": "art.jpg",
+ "desk": "ΛRX INTERCEPT",
+ "meta": "1651 · London",
+ "title": "Hobbes Publishes Leviathan and Makes the Case for an Undivided Sovereign",
+ "title_size": 52,
+ "dek": "In 1651, as England's civil wars end, Thomas Hobbes publishes Leviathan in London, arguing that only one undivided sovereign power can keep people from a war of all against all.",
+ "body": "He wrote it in Paris among exiled royalists. The book cost him their favour, and that winter he went home to London and the new republic.",
+ "panels": [
+  {
+   "icon": "crown",
+   "label": "Hobbes Argued",
+   "text": "Hobbes argued that without a common power people live in a war of every man against every man, so they must give one undivided sovereign their obedience for as long as it can protect them."
+  },
+  {
+   "icon": "book",
+   "label": "His Critics Argued",
+   "text": "Republicans such as James Harrington argued that a free state is an empire of laws, not of men, and Anglicans such as Bishop John Bramhall argued that his materialism led toward atheism."
+  },
+  {
+   "icon": "scales",
+   "label": "The Stakes",
+   "text": "Both camps wanted an end to civil war; at stake was whether peace required one undivided power over Church and state, or rule bound by law and by the Church’s own authority."
+  }
+ ],
+ "focus": [
+  950,
+  330
+ ],
+ "grade": "none",
+ "caption": "Manuscript drawing, 1651 · British Library, public domain"
+}
