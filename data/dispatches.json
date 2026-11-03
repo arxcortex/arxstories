@@ -1,6 +1,6 @@
 {
   "desk": "ΛRX Intercept",
-  "count": 33,
+  "count": 34,
   "entries": [
     {
       "slug": "213bc-qins-first-emperor-orders-the-books-burned",
@@ -2626,6 +2626,107 @@
       ],
       "path": "dispatches/1787-09-17-thirty-nine-delegates-sign-the-us-constitution/index.md",
       "words": 735
+    },
+    {
+      "slug": "1651-hobbes-publishes-leviathan",
+      "desk": "ΛRX Intercept",
+      "author": "Arx",
+      "category": "Historical Inquiry",
+      "story_type": "contested",
+      "title": "Hobbes Publishes Leviathan and Makes the Case for an Undivided Sovereign",
+      "dek": "In 1651, as England's civil wars end, Thomas Hobbes publishes Leviathan in London, arguing that only one undivided sovereign power can keep people from a war of all against all.",
+      "date": "1651",
+      "year": 1651,
+      "location": "London",
+      "coords": [
+        51.5138,
+        -0.099
+      ],
+      "severity": 3,
+      "card": "dispatches/1651-hobbes-publishes-leviathan/card.png",
+      "art": "dispatches/1651-hobbes-publishes-leviathan/art.jpg",
+      "pair": {
+        "left_label": "Hobbes Argued",
+        "left": "Hobbes argued that without a common power people live in a war of every man against every man, so they must give one undivided sovereign their obedience for as long as it can protect them.",
+        "right_label": "His Critics Argued",
+        "right": "Republicans such as James Harrington argued that a free state is an empire of laws, not of men, and Anglicans such as Bishop John Bramhall argued that his materialism led toward atheism."
+      },
+      "reading": {
+        "label": "The Stakes",
+        "text": "Both camps wanted an end to civil war; at stake was whether peace required one undivided power over Church and state, or rule bound by law and by the Church's own authority."
+      },
+      "memeplex": {
+        "ideas": [
+          "social_contract",
+          "absolute_sovereignty"
+        ]
+      },
+      "tags": [
+        "london",
+        "paris",
+        "leviathan",
+        "thomas-hobbes",
+        "social-contract",
+        "state-of-nature",
+        "sovereignty",
+        "english-civil-war",
+        "engagement-controversy",
+        "james-harrington",
+        "john-bramhall",
+        "17th-century"
+      ],
+      "sources": [
+        {
+          "title": "Leviathan (Hobbes book)",
+          "outlet": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Leviathan_(Hobbes_book)",
+          "role": "origin"
+        },
+        {
+          "title": "Thomas Hobbes",
+          "outlet": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Thomas_Hobbes",
+          "role": "origin"
+        },
+        {
+          "title": "Leviathan (Hobbes book)",
+          "outlet": "Grokipedia",
+          "url": "https://grokipedia.com/page/Leviathan_(Hobbes_book)",
+          "role": "origin"
+        },
+        {
+          "title": "Engagement controversy",
+          "outlet": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Engagement_controversy",
+          "role": "context"
+        },
+        {
+          "title": "The Commonwealth of Oceana",
+          "outlet": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/The_Commonwealth_of_Oceana",
+          "role": "context"
+        },
+        {
+          "title": "John Bramhall",
+          "outlet": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/John_Bramhall",
+          "role": "context"
+        },
+        {
+          "title": "Leviathan, by Thomas Hobbes (full text)",
+          "outlet": "Project Gutenberg",
+          "url": "https://www.gutenberg.org/ebooks/3207",
+          "role": "side"
+        },
+        {
+          "title": "The Commonwealth of Oceana, by James Harrington (full text)",
+          "outlet": "Project Gutenberg",
+          "url": "https://www.gutenberg.org/ebooks/2801",
+          "role": "side"
+        }
+      ],
+      "path": "dispatches/1651-hobbes-publishes-leviathan/index.md",
+      "words": 856
     },
     {
       "slug": "1613-03-03-zemsky-sobor-elects-michael-romanov-tsar",
