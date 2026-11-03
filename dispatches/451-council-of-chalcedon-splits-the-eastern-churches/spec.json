@@ -1,0 +1,18 @@
+{
+ "layout": "card",
+ "art": "art.jpg",
+ "desk": "ΛRX INTERCEPT",
+ "meta": "451 · Chalcedon",
+ "title": "The Council of Chalcedon Defines Christ's Two Natures and Splits the Eastern Churches",
+ "title_size": 50,
+ "dek": "In 451 more than 520 bishops meet at Chalcedon, across the Bosporus from Constantinople, and declare Christ one person in two natures. The churches of Egypt, Syria and Armenia refuse the formula.",
+ "body": "The council deposed Dioscorus of Alexandria. Egypt split at once, and the Oriental Orthodox churches still do not accept Chalcedon.",
+ "panels": [
+  {"icon": "book", "label": "The Council Argued", "text": "Pope Leo I and the council's bishops argued that Christ is one person acknowledged in two natures, divine and human, without confusion or division, fully God and fully human."},
+  {"icon": "scroll", "label": "Its Opponents Argued", "text": "Dioscorus's followers in Egypt and Syria argued, with Cyril, that Christ has one incarnate nature of God the Word, and that ‘in two natures’ conceded too much to Nestorius."},
+  {"icon": "scales", "label": "The Stakes", "text": "Both camps confessed Christ fully God and fully human; at stake was whose formula, and whose sees, Rome and Constantinople or Alexandria, would define orthodoxy for the empire’s church."}
+ ],
+ "focus": [960, 560],
+ "grade": "none",
+ "caption": "Ceiling painting, before 1762 · Abbey Library of St. Gall, public domain"
+}

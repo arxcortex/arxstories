@@ -1,7 +1,108 @@
 {
   "desk": "ΛRX Intercept",
-  "count": 34,
+  "count": 35,
   "entries": [
+    {
+      "slug": "451-council-of-chalcedon-splits-the-eastern-churches",
+      "desk": "ΛRX Intercept",
+      "author": "Arx",
+      "category": "Historical Inquiry",
+      "story_type": "contested",
+      "title": "The Council of Chalcedon Defines Christ's Two Natures and Splits the Eastern Churches",
+      "dek": "In 451 more than 520 bishops meet at Chalcedon, across the Bosporus from Constantinople, and declare Christ one person in two natures. The churches of Egypt, Syria and Armenia refuse the formula.",
+      "date": "451",
+      "year": 451,
+      "location": "Chalcedon",
+      "coords": [
+        40.98,
+        29.03
+      ],
+      "severity": 3,
+      "card": "dispatches/451-council-of-chalcedon-splits-the-eastern-churches/card.png",
+      "art": "dispatches/451-council-of-chalcedon-splits-the-eastern-churches/art.jpg",
+      "pair": {
+        "left_label": "The Council Argued",
+        "left": "Pope Leo I and the council's bishops argued that Christ is one person acknowledged in two natures, divine and human, without confusion or division, fully God and fully human.",
+        "right_label": "Its Opponents Argued",
+        "right": "Dioscorus's followers in Egypt and Syria argued, with Cyril, that Christ has one incarnate nature of God the Word, and that 'in two natures' conceded too much to Nestorius."
+      },
+      "reading": {
+        "label": "The Stakes",
+        "text": "Both camps confessed Christ fully God and fully human; at stake was whose formula, and whose sees, Rome and Constantinople or Alexandria, would define orthodoxy for the empire's church."
+      },
+      "memeplex": {
+        "ideas": [
+          "oriental_orthodoxy",
+          "apostolic_christianity"
+        ]
+      },
+      "tags": [
+        "chalcedon",
+        "constantinople",
+        "alexandria",
+        "council-of-chalcedon",
+        "christology",
+        "two-natures",
+        "miaphysitism",
+        "oriental-orthodoxy",
+        "pope-leo-i",
+        "dioscorus",
+        "marcian",
+        "5th-century"
+      ],
+      "sources": [
+        {
+          "title": "Council of Chalcedon",
+          "outlet": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Council_of_Chalcedon",
+          "role": "origin"
+        },
+        {
+          "title": "Council of Chalcedon",
+          "outlet": "Grokipedia",
+          "url": "https://grokipedia.com/page/Council_of_Chalcedon",
+          "role": "origin"
+        },
+        {
+          "title": "Chalcedonian Definition",
+          "outlet": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Chalcedonian_Definition",
+          "role": "origin"
+        },
+        {
+          "title": "Pope Dioscorus I of Alexandria",
+          "outlet": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Pope_Dioscorus_I_of_Alexandria",
+          "role": "context"
+        },
+        {
+          "title": "Second Council of Ephesus",
+          "outlet": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Second_Council_of_Ephesus",
+          "role": "context"
+        },
+        {
+          "title": "Oriental Orthodox Churches",
+          "outlet": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Oriental_Orthodox_Churches",
+          "role": "context"
+        },
+        {
+          "title": "Miaphysitism",
+          "outlet": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Miaphysitism",
+          "role": "side"
+        },
+        {
+          "title": "Chalcedonian Christianity",
+          "outlet": "Grokipedia",
+          "url": "https://grokipedia.com/page/Chalcedonian_Christianity",
+          "role": "side"
+        }
+      ],
+      "path": "dispatches/451-council-of-chalcedon-splits-the-eastern-churches/index.md",
+      "words": 781
+    },
     {
       "slug": "213bc-qins-first-emperor-orders-the-books-burned",
       "desk": "ΛRX Intercept",
