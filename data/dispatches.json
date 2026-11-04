@@ -1,6 +1,6 @@
 {
   "desk": "ΛRX Intercept",
-  "count": 35,
+  "count": 36,
   "entries": [
     {
       "slug": "451-council-of-chalcedon-splits-the-eastern-churches",
@@ -2615,6 +2615,108 @@
       ],
       "path": "dispatches/2020-03-23-fed-cuts-to-zero-pledges-open-ended-buying/index.md",
       "words": 588
+    },
+    {
+      "slug": "1907-08-31-britain-and-russia-split-persia-and-end-the-great-game",
+      "desk": "ΛRX Intercept",
+      "author": "Arx",
+      "category": "Historical Inquiry",
+      "story_type": "contested",
+      "title": "Britain and Russia Split Persia into Spheres and End the Great Game",
+      "dek": "On 31 August 1907 the two empires sign a convention in St Petersburg that divides Persia into a Russian north, a British southeast and a neutral middle. Tehran is not consulted.",
+      "date": "1907-08-31",
+      "location": "Saint Petersburg",
+      "coords": [
+        59.9392,
+        30.317
+      ],
+      "severity": 3,
+      "card": "dispatches/1907-08-31-britain-and-russia-split-persia-and-end-the-great-game/card.png",
+      "art": "dispatches/1907-08-31-britain-and-russia-split-persia-and-end-the-great-game/art.jpg",
+      "pair": {
+        "left_label": "London and St Petersburg Said",
+        "left": "Grey and Izvolsky said the deal settled their Asian quarrels by agreement, and its text pledged to respect Persia's integrity and independence and equal trade for all nations.",
+        "right_label": "Tehran Said",
+        "right": "Persia's government said a pact signed without it threatened the country's integrity and refused to recognize it; nationalists who had looked to Britain turned against it."
+      },
+      "reading": {
+        "label": "The Stakes",
+        "text": "Both empires spoke of peace and order in Asia; at stake was who would hold Persia's concessions, customs revenue and roads toward India: the two powers or the Persians."
+      },
+      "tags": [
+        "saint-petersburg",
+        "tehran",
+        "persia",
+        "iran",
+        "afghanistan",
+        "tibet",
+        "great-game",
+        "anglo-russian-convention",
+        "triple-entente",
+        "spheres-of-influence",
+        "british-empire",
+        "russian-empire",
+        "qajar-iran",
+        "20th-century"
+      ],
+      "sources": [
+        {
+          "title": "Anglo-Russian Convention",
+          "outlet": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Anglo-Russian_Convention",
+          "role": "origin"
+        },
+        {
+          "title": "Anglo-Russian Convention",
+          "outlet": "Grokipedia",
+          "url": "https://grokipedia.com/page/Anglo-Russian_Convention",
+          "role": "origin"
+        },
+        {
+          "title": "Convention between the United Kingdom and Russia relating to Persia, Afghanistan, and Thibet (1907)",
+          "outlet": "Wikisource",
+          "url": "https://en.wikisource.org/wiki/Anglo-Russian_Convention",
+          "role": "origin"
+        },
+        {
+          "title": "The Great Game",
+          "outlet": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/The_Great_Game",
+          "role": "context"
+        },
+        {
+          "title": "Persian Constitutional Revolution",
+          "outlet": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Persian_Constitutional_Revolution",
+          "role": "context"
+        },
+        {
+          "title": "Alexander Izvolsky",
+          "outlet": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Alexander_Izvolsky",
+          "role": "context"
+        },
+        {
+          "title": "Masjed Soleyman",
+          "outlet": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Masjed_Soleyman",
+          "role": "context"
+        },
+        {
+          "title": "Morgan Shuster",
+          "outlet": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Morgan_Shuster",
+          "role": "context"
+        },
+        {
+          "title": "The Harmless Necessary Cat (Punch, 1907)",
+          "outlet": "Wikimedia Commons",
+          "url": "https://commons.wikimedia.org/wiki/File:The_Harmless_Necessary_Cat.jpg",
+          "role": "side"
+        }
+      ],
+      "path": "dispatches/1907-08-31-britain-and-russia-split-persia-and-end-the-great-game/index.md",
+      "words": 791
     },
     {
       "slug": "1787-09-17-thirty-nine-delegates-sign-the-us-constitution",
