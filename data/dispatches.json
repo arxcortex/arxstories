@@ -1,6 +1,6 @@
 {
   "desk": "ΛRX Intercept",
-  "count": 36,
+  "count": 37,
   "entries": [
     {
       "slug": "451-council-of-chalcedon-splits-the-eastern-churches",
@@ -3220,6 +3220,109 @@
       ],
       "path": "dispatches/1454-01-06-mehmed-ii-makes-gennadios-patriarch/index.md",
       "words": 775
+    },
+    {
+      "slug": "1377-ibn-khaldun-writes-the-muqaddimah",
+      "desk": "ΛRX Intercept",
+      "author": "Arx",
+      "category": "Historical Inquiry",
+      "story_type": "contested",
+      "title": "Ibn Khaldun Writes the Muqaddimah, a Theory of How Dynasties Rise and Fall",
+      "dek": "In retreat at a fortress in the hills of western Algeria, a North African statesman drafts an introduction to world history that explains why ruling houses rise and fall.",
+      "date": "1377",
+      "year": 1377,
+      "location": "Qal'at Ibn Salama",
+      "coords": [
+        35.0185,
+        1.0681
+      ],
+      "severity": 3,
+      "card": "dispatches/1377-ibn-khaldun-writes-the-muqaddimah/card.png",
+      "art": "dispatches/1377-ibn-khaldun-writes-the-muqaddimah/art.jpg",
+      "pair": {
+        "left_label": "His Modern Admirers Said",
+        "left": "Arnold Toynbee called the Muqaddimah \"the greatest work of its kind\", and readers from Ernest Gellner to Ronald Reagan said it anticipated modern social science, political theory and economics.",
+        "right_label": "His Biographer Said",
+        "right": "Robert Irwin said Ibn Khaldun was a 14th-century Muslim jurist, almost certainly a Sufi, who believed sorcery was real, and that modern admirers had remade him in their own image."
+      },
+      "reading": {
+        "label": "The Stakes",
+        "text": "Both camps say they read him as he was; at stake is whose authority the Muqaddimah lends: a secular science of power seeking an ancestor, or the Islamic learning that produced it."
+      },
+      "tags": [
+        "qalat-ibn-salama",
+        "frenda",
+        "tiaret",
+        "algeria",
+        "tunis",
+        "cairo",
+        "ibn-khaldun",
+        "muqaddimah",
+        "asabiyyah",
+        "philosophy-of-history",
+        "historiography",
+        "dynasties",
+        "maghreb",
+        "14th-century"
+      ],
+      "sources": [
+        {
+          "title": "Muqaddimah",
+          "outlet": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Muqaddimah",
+          "role": "origin"
+        },
+        {
+          "title": "Muqaddimah",
+          "outlet": "Grokipedia",
+          "url": "https://grokipedia.com/page/Muqaddimah",
+          "role": "origin"
+        },
+        {
+          "title": "Ibn Khaldun",
+          "outlet": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Ibn_Khaldun",
+          "role": "origin"
+        },
+        {
+          "title": "Qalʿat ibn Salâma",
+          "outlet": "Wikipédia",
+          "url": "https://fr.wikipedia.org/wiki/Qal%CA%BFat_ibn_Sal%C3%A2ma",
+          "role": "context"
+        },
+        {
+          "title": "Le site préhistorique et protohistorique karstique « Grottes d'Ibn Khaldoun » dans la reculée de Taoughzout (Z. Chabane, L'Anthropologie, 2024)",
+          "outlet": "L'Anthropologie",
+          "url": "https://doi.org/10.1016/j.anthro.2024.103306",
+          "role": "context"
+        },
+        {
+          "title": "Review of Robert Irwin's 'Ibn Khaldun: An Intellectual Biography'",
+          "outlet": "Inside Higher Ed",
+          "url": "https://www.insidehighered.com/views/2018/04/13/review-robert-irwin%E2%80%99s-%E2%80%98ibn-khaldun-intellectual-biography%E2%80%99",
+          "role": "side"
+        },
+        {
+          "title": "A Muslim Founder of the Social Sciences?",
+          "outlet": "Los Angeles Review of Books",
+          "url": "https://lareviewofbooks.org/article/a-muslim-founder-of-the-social-sciences/",
+          "role": "side"
+        },
+        {
+          "title": "The Otherworldliness of Ibn Khaldun (Malise Ruthven)",
+          "outlet": "The New York Review of Books",
+          "url": "https://www.nybooks.com/articles/2019/02/07/otherworldliness-ibn-khaldun/",
+          "role": "side"
+        },
+        {
+          "title": "Ibn Khaldūn autograph, al-Muqaddima, MS Atıf Efendi 1936, f. 7a",
+          "outlet": "Wikimedia Commons",
+          "url": "https://commons.wikimedia.org/wiki/File:Ibn_Khald%C5%ABn_autograph,_al-Muqaddima,_MS_At%C4%B1f_Efendi_1936,_f._7a.png",
+          "role": "side"
+        }
+      ],
+      "path": "dispatches/1377-ibn-khaldun-writes-the-muqaddimah/index.md",
+      "words": 725
     },
     {
       "slug": "1209-07-22-crusaders-sack-beziers-and-the-cathar-war-begins",
