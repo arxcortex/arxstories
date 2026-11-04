@@ -1,0 +1,18 @@
+{
+ "layout": "card",
+ "art": "art.jpg",
+ "desk": "ΛRX INTERCEPT",
+ "meta": "1907 · St Petersburg",
+ "title": "Britain and Russia Split Persia into Spheres and End the Great Game",
+ "title_size": 52,
+ "dek": "On 31 August 1907 the two empires sign a convention in St Petersburg that divides Persia into a Russian north, a British southeast and a neutral middle. Tehran is not consulted.",
+ "body": "The same convention settled Afghanistan and Tibet, ended decades of rivalry in Central Asia and lined Russia up with Britain and France.",
+ "panels": [
+  {"icon": "crown", "label": "London and St Petersburg Said", "text": "Grey and Izvolsky said the deal settled their Asian quarrels by agreement, and its text pledged to respect Persia's integrity and independence and equal trade for all nations."},
+  {"icon": "tower", "label": "Tehran Said", "text": "Persia's government said a pact signed without it threatened the country's integrity and refused to recognize it; nationalists who had looked to Britain turned against it."},
+  {"icon": "scales", "label": "The Stakes", "text": "Both empires spoke of peace and order in Asia; at stake was who would hold Persia's concessions, customs revenue and roads toward India: the two powers or the Persians."}
+ ],
+ "focus": [1000, 520],
+ "grade": "none",
+ "caption": "Photo: Richard Mortel, CC BY 2.0"
+}
