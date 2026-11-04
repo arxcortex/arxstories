@@ -1,0 +1,33 @@
+{
+ "layout": "card",
+ "art": "art.jpg",
+ "desk": "ΛRX INTERCEPT",
+ "meta": "1377 · Qal'at Ibn Salama",
+ "title": "Ibn Khaldun Writes the Muqaddimah, a Theory of How Dynasties Rise and Fall",
+ "title_size": 50,
+ "dek": "In retreat at a fortress in the hills of western Algeria, a North African statesman drafts an introduction to world history that explains why ruling houses rise and fall.",
+ "body": "Its idea of asabiyyah, the cohesion that lets a group seize power and then fades in luxury, still shapes how people explain the rise and fall of states.",
+ "panels": [
+  {
+   "icon": "crown",
+   "label": "His Modern Admirers Said",
+   "text": "Arnold Toynbee called the Muqaddimah \"the greatest work of its kind\", and readers from Ernest Gellner to Ronald Reagan said it anticipated modern social science, political theory and economics."
+  },
+  {
+   "icon": "tower",
+   "label": "His Biographer Said",
+   "text": "Robert Irwin said Ibn Khaldun was a 14th-century Muslim jurist, almost certainly a Sufi, who believed sorcery was real, and that modern admirers had remade him in their own image."
+  },
+  {
+   "icon": "scales",
+   "label": "The Stakes",
+   "text": "Both camps say they read him as he was; at stake is whose authority the Muqaddimah lends: a secular science of power seeking an ancestor, or the Islamic learning that produced it."
+  }
+ ],
+ "focus": [
+  1000,
+  600
+ ],
+ "grade": "none",
+ "caption": "Photo: Guéchi, CC BY-SA 4.0"
+}
