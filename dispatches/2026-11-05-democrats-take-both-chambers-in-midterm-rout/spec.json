@@ -1,0 +1,29 @@
+{
+ "layout": "card",
+ "art": "art.jpg",
+ "desk": "ΛRX INTERCEPT",
+ "meta": "5 Nov 2026 · Washington · arxcortex.io",
+ "title": "Democrats Take Both Chambers of Congress in Midterm Rout",
+ "title_size": 50,
+ "dek": "Democrats won at least 54 Senate seats and gained at least 30 in the House, flipped Texas and Georgia's governorships, and took five new state trifectas. Trump blamed the Iran war and said he would do it again.",
+ "body": "The new Congress convenes January 3; Democrats lack the two-thirds majority needed to override a veto.",
+ "panels": [
+  {
+   "icon": "temple",
+   "label": "Democrats Say",
+   "text": "Jeffries promises affordability and accountability; Schumer says the power of the purse can end the Iran war."
+  },
+  {
+   "icon": "flame",
+   "label": "Trump and Vance Say",
+   "text": "Trump says he would attack Iran again and holds the veto; Vance says the war caused the loss and asks whether it was worth the Senate."
+  },
+  {
+   "icon": "scales",
+   "label": "The Stakes",
+   "text": "Jeffries speaks of accountability and Trump of the veto; beneath both is whether Congress can compel a president who still holds the executive branch, or only oppose him."
+  }
+ ],
+ "grade": "none",
+ "caption": "Photo: Architect of the Capitol, public domain · US Capitol"
+}

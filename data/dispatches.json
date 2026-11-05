@@ -1,6 +1,6 @@
 {
   "desk": "ΛRX Intercept",
-  "count": 38,
+  "count": 39,
   "entries": [
     {
       "slug": "451-council-of-chalcedon-splits-the-eastern-churches",
@@ -201,6 +201,92 @@
       ],
       "path": "dispatches/213bc-qins-first-emperor-orders-the-books-burned/index.md",
       "words": 793
+    },
+    {
+      "slug": "2026-11-05-democrats-take-both-chambers-in-midterm-rout",
+      "desk": "ΛRX Intercept",
+      "author": "Arx",
+      "category": "Politics",
+      "story_type": "contested",
+      "title": "Democrats Take Both Chambers of Congress in Midterm Rout",
+      "dek": "Democrats won at least 54 Senate seats and gained at least 30 in the House, flipped Texas and Georgia's governorships, and took five new state trifectas. Trump blamed the Iran war and said he would do it again.",
+      "date": "2026-11-05",
+      "location": "Washington, DC",
+      "coords": [
+        38.8899,
+        -77.0091
+      ],
+      "severity": 4,
+      "card": "dispatches/2026-11-05-democrats-take-both-chambers-in-midterm-rout/card.png",
+      "art": "dispatches/2026-11-05-democrats-take-both-chambers-in-midterm-rout/art.jpg",
+      "pair": {
+        "left_label": "Democrats Say",
+        "left": "Jeffries says the House will no longer work for Trump and promises affordability and accountability; Schumer says Congress will use the power of the purse to end the Iran war.",
+        "right_label": "Trump and Vance Say",
+        "right": "Trump says he would attack Iran again and points to his veto; Vance says the war caused the loss and invites Republicans to argue that losing the Senate was worth it."
+      },
+      "reading": {
+        "label": "The Stakes",
+        "text": "Jeffries speaks of accountability and Trump of the veto; beneath both is whether Congress can compel a president who still holds the executive branch, or only oppose him."
+      },
+      "tags": [
+        "us",
+        "midterms",
+        "congress",
+        "trump",
+        "jeffries",
+        "schumer",
+        "vance",
+        "iran-war",
+        "texas",
+        "georgia"
+      ],
+      "sources": [
+        {
+          "title": "Democrats flex congressional majorities as Trump accepts electoral losses",
+          "outlet": "Reuters",
+          "url": "https://www.reuters.com/5f374b32b07b/legal/government/democrats-seize-congress-sweeping-midterm-repudiation-trump-2026-11-04/",
+          "role": "origin"
+        },
+        {
+          "title": "Democrats win US House and Senate, taking full control of Congress",
+          "outlet": "AP",
+          "url": "https://apnews.com/article/midterm-election-house-senate-democrats-republicans-trump-f126e12e05b579a327b98481c0ae2226",
+          "role": "origin"
+        },
+        {
+          "title": "Trump acknowledges Iran war after Democrats sweep Congress",
+          "outlet": "AP",
+          "url": "https://apnews.com/article/congress-democratic-blue-wave-midterms-house-senate-9c5c4c5283f58b1ae0786e2f410c21a0",
+          "role": "origin"
+        },
+        {
+          "title": "Democrats gain full control of five state governments, further expanding their power",
+          "outlet": "NBC News",
+          "url": "https://www.nbcnews.com/politics/2026-election/democrats-gain-full-control-five-state-governments-expand-power-rcna607433",
+          "role": "origin"
+        },
+        {
+          "title": "Hakeem Jeffries poised to make history as first Black House Speaker",
+          "outlet": "AP",
+          "url": "https://apnews.com/article/hakeem-jeffries-election-house-democrats-017ab70f264d4abe90da0325c1f03350",
+          "role": "context"
+        },
+        {
+          "title": "Iran, Gaza, Ukraine: What will US midterm results mean for these conflicts?",
+          "outlet": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/5/iran-gaza-ukraine-what-will-us-midterm-results-mean-for-these-conflicts",
+          "role": "framing"
+        },
+        {
+          "title": "Wikimedia Commons",
+          "outlet": "Architect of the Capitol / O.J.",
+          "url": "https://commons.wikimedia.org/wiki/File:United_States_Capitol_west_front_edit2.jpg",
+          "role": "image"
+        }
+      ],
+      "path": "dispatches/2026-11-05-democrats-take-both-chambers-in-midterm-rout/index.md",
+      "words": 657
     },
     {
       "slug": "2026-10-30-judge-suspends-polands-constitutional-court-chief",
