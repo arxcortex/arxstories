@@ -1,6 +1,6 @@
 {
   "desk": "ΛRX Intercept",
-  "count": 39,
+  "count": 40,
   "entries": [
     {
       "slug": "451-council-of-chalcedon-splits-the-eastern-churches",
@@ -3206,6 +3206,106 @@
       ],
       "path": "dispatches/1589-02-05-moscow-gets-a-patriarch-and-calls-itself-the-third-rome/index.md",
       "words": 723
+    },
+    {
+      "slug": "1576-bodin-defines-sovereignty",
+      "desk": "ΛRX Intercept",
+      "author": "Arx",
+      "category": "Historical Inquiry",
+      "story_type": "contested",
+      "title": "Bodin Publishes Six Books of the Commonwealth and Defines Sovereignty",
+      "dek": "In 1576, during France's wars of religion, Jean Bodin publishes Six Books of the Commonwealth in Paris and defines sovereignty as absolute and perpetual power to make law, still bound by God and the law of nature.",
+      "date": "1576",
+      "year": 1576,
+      "location": "Paris",
+      "coords": [
+        48.8566,
+        2.3522
+      ],
+      "severity": 3,
+      "card": "dispatches/1576-bodin-defines-sovereignty/card.png",
+      "art": "dispatches/1576-bodin-defines-sovereignty/art.jpg",
+      "pair": {
+        "left_label": "Bodin Argued",
+        "left": "Bodin argued that sovereignty is absolute and perpetual power to give law without the subjects' consent, that magistrates only hold it in deposit, and that the law of God and of nature still binds the sovereign.",
+        "right_label": "Hotman and Beza Argued",
+        "right": "François Hotman and Théodore de Bèze argued that the Estates held authority over the making of a king and over public law, and that they could restrain or depose a king who ruled as a tyrant."
+      },
+      "reading": {
+        "label": "The Stakes",
+        "text": "Both camps claimed a lawful authority to settle who commands; at stake was whether the power to make law and to judge a king sat with a sovereign, or with the Estates."
+      },
+      "memeplex": {
+        "ideas": [
+          "absolute_sovereignty"
+        ]
+      },
+      "tags": [
+        "paris",
+        "jean-bodin",
+        "sovereignty",
+        "six-books",
+        "wars-of-religion",
+        "huguenots",
+        "francois-hotman",
+        "theodore-de-beza",
+        "estates-general",
+        "blois",
+        "natural-law",
+        "16th-century"
+      ],
+      "sources": [
+        {
+          "title": "Les Six Livres de la République (Paris: Jacques du Puys, 1576), Book I, De la souveraineté",
+          "outlet": "Wikisource, from the Bibliothèque nationale de France copy",
+          "url": "https://fr.wikisource.org/wiki/Les_Six_Livres_de_la_R%C3%A9publique/19",
+          "role": "origin"
+        },
+        {
+          "title": "Les six livres de la Republique (Paris: Jacques du Puys, 1576), digital facsimile",
+          "outlet": "Gallica, Bibliothèque nationale de France",
+          "url": "https://gallica.bnf.fr/ark:/12148/btv1b86268103",
+          "role": "origin"
+        },
+        {
+          "title": "Jean Bodin",
+          "outlet": "Stanford Encyclopedia of Philosophy",
+          "url": "https://plato.stanford.edu/entries/bodin/",
+          "role": "origin"
+        },
+        {
+          "title": "La Gaule françoise (1574 French text of Francogallia)",
+          "outlet": "Corpus des œuvres de philosophie en langue française",
+          "url": "https://corpus.ataruq.fr/hotman-gaule-francaise",
+          "role": "context"
+        },
+        {
+          "title": "Jean Bodin on Sovereignty",
+          "outlet": "Edward Andrew, Republics of Letters (Stanford Humanities Center)",
+          "url": "https://shc.stanford.edu/arcade/publications/rofl/issues/volume-2-issue-2/jean-bodin-sovereignty",
+          "role": "context"
+        },
+        {
+          "title": "St. Bartholomew's Day Massacre",
+          "outlet": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/St._Bartholomew%27s_Day_massacre",
+          "role": "context"
+        },
+        {
+          "title": "On the Rights of Magistrates (English translation of the 1574 treatise)",
+          "outlet": "Henry-Louis Gonin, edited text",
+          "url": "https://www.uecf.net/books/33/Beza%20-%20Rights%20of%20Magistrates.pdf",
+          "role": "side"
+        },
+        {
+          "title": "Bodin, Les Six Livres de la République, 1576, privilege and sovereignty pages",
+          "outlet": "Wikimedia Commons, from Gallica / Bibliothèque nationale de France",
+          "url": "https://commons.wikimedia.org/wiki/File:Bodin_-_Les_Six_Livres_de_la_R%C3%A9publique,_1576.djvu",
+          "role": "image"
+        }
+      ],
+      "path": "dispatches/1576-bodin-defines-sovereignty/index.md",
+      "words": 1638
     },
     {
       "slug": "1454-01-06-mehmed-ii-makes-gennadios-patriarch",
