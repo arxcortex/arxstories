@@ -1,6 +1,6 @@
 {
   "desk": "ΛRX Intercept",
-  "count": 37,
+  "count": 38,
   "entries": [
     {
       "slug": "451-council-of-chalcedon-splits-the-eastern-churches",
@@ -3323,6 +3323,113 @@
       ],
       "path": "dispatches/1377-ibn-khaldun-writes-the-muqaddimah/index.md",
       "words": 725
+    },
+    {
+      "slug": "1215-06-15-king-john-seals-magna-carta-at-runnymede",
+      "desk": "ΛRX Intercept",
+      "author": "Arx",
+      "category": "Historical Inquiry",
+      "story_type": "contested",
+      "title": "King John Seals Magna Carta at Runnymede",
+      "dek": "On 15 June 1215 rebel barons force King John to seal a Great Charter at a Thames meadow. Its clauses on lawful judgment and limits on arbitrary rule become England's template for constitutional restraint.",
+      "date": "1215-06-15",
+      "year": 1215,
+      "location": "Runnymede",
+      "coords": [
+        51.4444,
+        -0.5653
+      ],
+      "severity": 4,
+      "card": "dispatches/1215-06-15-king-john-seals-magna-carta-at-runnymede/card.png",
+      "art": "dispatches/1215-06-15-king-john-seals-magna-carta-at-runnymede/art.jpg",
+      "pair": {
+        "left_label": "Later Readers Said",
+        "left": "Sir Edward Coke and later lawyers treated Magna Carta as the foundation of English liberty against arbitrary kings, and Lord Denning called it the greatest constitutional document of all time.",
+        "right_label": "Medievalists Said",
+        "right": "J. C. Holt and later historians said the 1215 charter was a feudal peace deal among barons and a king, and that the story of universal rights was invented centuries afterward."
+      },
+      "reading": {
+        "label": "The Stakes",
+        "text": "Both camps still quote the same parchment; at stake is whether Magna Carta binds as living liberty law or as a medieval settlement remade by later politics."
+      },
+      "tags": [
+        "runnymede",
+        "england",
+        "king-john",
+        "magna-carta",
+        "barons",
+        "stephen-langton",
+        "windsor",
+        "thames",
+        "constitutionalism",
+        "habeas-corpus",
+        "due-process",
+        "13th-century"
+      ],
+      "sources": [
+        {
+          "title": "Magna Carta",
+          "outlet": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Magna_Carta",
+          "role": "origin"
+        },
+        {
+          "title": "Magna Carta",
+          "outlet": "Grokipedia",
+          "url": "https://grokipedia.com/page/Magna_Carta",
+          "role": "origin"
+        },
+        {
+          "title": "Magna Carta, 1215",
+          "outlet": "The National Archives (UK)",
+          "url": "https://www.nationalarchives.gov.uk/education/resources/magna-carta/",
+          "role": "origin"
+        },
+        {
+          "title": "Runnymede",
+          "outlet": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Runnymede",
+          "role": "context"
+        },
+        {
+          "title": "First Barons' War",
+          "outlet": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/First_Barons%27_War",
+          "role": "context"
+        },
+        {
+          "title": "Stephen Langton",
+          "outlet": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Stephen_Langton",
+          "role": "context"
+        },
+        {
+          "title": "Edward Coke",
+          "outlet": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Edward_Coke",
+          "role": "side"
+        },
+        {
+          "title": "J. C. Holt",
+          "outlet": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/J._C._Holt",
+          "role": "side"
+        },
+        {
+          "title": "Magna Carta (British Library Cotton MS Augustus II.106)",
+          "outlet": "Wikimedia Commons",
+          "url": "https://commons.wikimedia.org/wiki/File:Magna_Carta_(British_Library_Cotton_MS_Augustus_II.106).jpg",
+          "role": "side"
+        },
+        {
+          "title": "Runnymede from Kennedy Memorial",
+          "outlet": "Wikimedia Commons",
+          "url": "https://commons.wikimedia.org/wiki/File:Runnymede_from_Kennedy_Memorial.JPG",
+          "role": "side"
+        }
+      ],
+      "path": "dispatches/1215-06-15-king-john-seals-magna-carta-at-runnymede/index.md",
+      "words": 553
     },
     {
       "slug": "1209-07-22-crusaders-sack-beziers-and-the-cathar-war-begins",
