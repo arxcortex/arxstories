@@ -1,0 +1,30 @@
+{
+ "layout": "card",
+ "art": "art.jpg",
+ "desk": "ΛRX INTERCEPT",
+ "meta": "1215 · Runnymede",
+ "title": "King John Seals Magna Carta at Runnymede",
+ "title_size": 54,
+ "dek": "On 15 June 1215 rebel barons force King John to seal a Great Charter at a Thames meadow. Its clauses on lawful judgment and limits on arbitrary rule become England's template for constitutional restraint.",
+ "body": "Neither side kept faith, the pope annulled it, and civil war followed; reissues under Henry III and Edward I turned the failed peace into England's constitutional template.",
+ "panels": [
+  {
+   "icon": "crown",
+   "label": "Later Readers Said",
+   "text": "Sir Edward Coke and later lawyers treated Magna Carta as the foundation of English liberty against arbitrary kings, and Lord Denning called it the greatest constitutional document of all time."
+  },
+  {
+   "icon": "tower",
+   "label": "Medievalists Said",
+   "text": "J. C. Holt and later historians said the 1215 charter was a feudal peace deal among barons and a king, and that the story of universal rights was invented centuries afterward."
+  },
+  {
+   "icon": "scales",
+   "label": "The Stakes",
+   "text": "Both camps still quote the same parchment; at stake is whether Magna Carta binds as living liberty law or as a medieval settlement remade by later politics."
+  }
+ ],
+ "focus": [1000, 700],
+ "grade": "none",
+ "caption": "Photo: Chris j wood, CC BY-SA 3.0"
+}
