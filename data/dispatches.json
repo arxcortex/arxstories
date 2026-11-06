@@ -1,6 +1,6 @@
 {
   "desk": "ΛRX Intercept",
-  "count": 41,
+  "count": 42,
   "entries": [
     {
       "slug": "451-council-of-chalcedon-splits-the-eastern-churches",
@@ -3795,6 +3795,96 @@
       ],
       "path": "dispatches/1209-07-22-crusaders-sack-beziers-and-the-cathar-war-begins/index.md",
       "words": 829
+    },
+    {
+      "slug": "1095-al-ghazali-incoherence-of-the-philosophers",
+      "desk": "ΛRX Intercept",
+      "author": "Arx",
+      "category": "Historical Inquiry",
+      "story_type": "contested",
+      "title": "Al-Ghazali Completes The Incoherence of the Philosophers",
+      "dek": "In Muharram 488, January 1095, at the Nizamiyya in Baghdad, al-Ghazali finishes a refutation of twenty theses of the falasifa and brands three of them unbelief.",
+      "date": "1095-01-21",
+      "year": 1095,
+      "location": "Baghdad",
+      "coords": [
+        33.3406,
+        44.4009
+      ],
+      "severity": 3,
+      "card": "dispatches/1095-al-ghazali-incoherence-of-the-philosophers/card.png",
+      "art": "dispatches/1095-al-ghazali-incoherence-of-the-philosophers/art.jpg",
+      "pair": {
+        "left_label": "Ghazali Argued",
+        "left": "Al-Ghazali argued that twenty theses of the falasifa fall short of demonstration, and that three are unbelief: an eternal world, a God who knows only universals, and souls that do not return to bodies.",
+        "right_label": "Averroes Argued",
+        "right": "Averroes argued, in The Incoherence of the Incoherence, that al-Ghazali had misjudged which of the philosophers' arguments count as demonstration."
+      },
+      "reading": {
+        "label": "The Stakes",
+        "text": "Both camps claimed a warrant to settle what a Muslim must affirm. At stake was who draws the line of unbelief: the jurist at the Nizamiyya, or the philosophers' proofs."
+      },
+      "tags": [
+        "baghdad",
+        "nizamiyya",
+        "al-ghazali",
+        "tahafut",
+        "avicenna",
+        "ibn-sina",
+        "al-farabi",
+        "averroes",
+        "falsafa",
+        "unbelief",
+        "causality",
+        "ashari",
+        "11th-century"
+      ],
+      "sources": [
+        {
+          "title": "Ḡazālī, i. Biography",
+          "outlet": "Encyclopaedia Iranica",
+          "url": "https://www.iranicaonline.org/articles/gazali/gazali-i-biography/",
+          "role": "origin"
+        },
+        {
+          "title": "A Revised Chronology of Ghazālī's Writings",
+          "outlet": "George F. Hourani, Journal of the American Oriental Society 104.2 (1984)",
+          "url": "https://www.ghazali.org/articles/gfh-gz.pdf",
+          "role": "origin"
+        },
+        {
+          "title": "Chronologie des œuvres d'Algazel, on the date of the Tahafut",
+          "outlet": "Maurice Bouyges, Essai de chronologie des œuvres de al-Ghazali",
+          "url": "https://www.ghazali.org/biblio/bouyges/essai/no16-21.pdf",
+          "role": "origin"
+        },
+        {
+          "title": "Al-Ghazali",
+          "outlet": "Stanford Encyclopedia of Philosophy",
+          "url": "https://plato.stanford.edu/entries/al-ghazali/",
+          "role": "context"
+        },
+        {
+          "title": "The Incoherence of the Philosophers",
+          "outlet": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/The_Incoherence_of_the_Philosophers",
+          "role": "context"
+        },
+        {
+          "title": "The Incoherence of the Philosophers, 17th discussion, trans. Michael E. Marmura (Provo: Brigham Young University Press, 2000)",
+          "outlet": "Quoted in the Stanford Encyclopedia of Philosophy",
+          "url": "https://plato.stanford.edu/entries/al-ghazali/",
+          "role": "side"
+        },
+        {
+          "title": "The Incoherence of Philosophers, lithograph of 1884–85 (World Digital Library 7456)",
+          "outlet": "Wikimedia Commons, Bibliotheca Alexandrina",
+          "url": "https://commons.wikimedia.org/wiki/File:The_Incoherence_of_Philosophers_WDL7456.pdf",
+          "role": "image"
+        }
+      ],
+      "path": "dispatches/1095-al-ghazali-incoherence-of-the-philosophers/index.md",
+      "words": 942
     }
   ]
 }
