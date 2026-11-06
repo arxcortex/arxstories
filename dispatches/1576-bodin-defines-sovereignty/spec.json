@@ -1,0 +1,31 @@
+{
+  "layout": "card",
+  "art": "art.jpg",
+  "desk": "ΛRX INTERCEPT",
+  "meta": "1576 · PARIS · ARXCORTEX.IO",
+  "title": "Bodin Publishes Six Books of the Commonwealth and Defines Sovereignty",
+  "title_size": 46,
+  "dek": "In 1576, during France's wars of religion, Jean Bodin defines sovereignty as absolute and perpetual power to make law, still bound by God and the law of nature.",
+  "body": "Printed in Paris by Jacques du Puys. The privilege is dated 12 August 1576. The title page gives the year.",
+  "panels": [
+    {
+      "icon": "crown",
+      "label": "Bodin Argued",
+      "text": "Bodin argued that sovereignty is absolute and perpetual power to give law without the subjects' consent, that magistrates only hold it in deposit, and that the law of God and of nature still binds the sovereign."
+    },
+    {
+      "icon": "scroll",
+      "label": "Hotman and Beza Argued",
+      "text": "François Hotman and Théodore de Bèze argued that the Estates held authority over the making of a king and over public law, and that they could restrain or depose a king who ruled as a tyrant."
+    },
+    {
+      "icon": "scales",
+      "label": "The Stakes",
+      "text": "Both camps claimed a lawful authority to settle who commands; at stake was whether the power to make law and to judge a king sat with a sovereign, or with the Estates."
+    }
+  ],
+  "focus": [960, 1550],
+  "zoom": 1.0,
+  "grade": "none",
+  "caption": "Privilege, 12 August 1576 · Jacques du Puys, Paris, public domain"
+}
