@@ -1,0 +1,31 @@
+{
+  "layout": "card",
+  "art": "art.jpg",
+  "desk": "ΛRX INTERCEPT",
+  "meta": "1095 · BAGHDAD",
+  "title": "Al-Ghazali Completes The Incoherence of the Philosophers",
+  "title_size": 46,
+  "dek": "In January 1095 at the Nizamiyya he finishes a refutation of twenty theses and brands three of them unbelief.",
+  "body": "11 Muharram 488, the day recorded in Istanbul manuscript Fatih 2921.",
+  "panels": [
+    {
+      "icon": "book",
+      "label": "Ghazali Argued",
+      "text": "Al-Ghazali argued that twenty theses of the falasifa fall short of demonstration, and that three are unbelief: an eternal world, a God who knows only universals, and souls that do not return to bodies."
+    },
+    {
+      "icon": "scroll",
+      "label": "Averroes Argued",
+      "text": "Averroes argued, in The Incoherence of the Incoherence, that al-Ghazali had misjudged which of the philosophers' arguments count as demonstration."
+    },
+    {
+      "icon": "scales",
+      "label": "The Stakes",
+      "text": "Both camps claimed a warrant to settle what a Muslim must affirm. At stake was who draws the line of unbelief: the jurist at the Nizamiyya, or the philosophers' proofs."
+    }
+  ],
+  "focus": [620, 640],
+  "zoom": 1.0,
+  "grade": "none",
+  "caption": "Tahafut al-falasifa · lithograph, 1884–85 · public domain"
+}
