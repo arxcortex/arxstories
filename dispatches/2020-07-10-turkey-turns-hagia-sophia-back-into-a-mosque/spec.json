@@ -1,0 +1,30 @@
+{
+  "layout": "card",
+  "art": "art.jpg",
+  "desk": "ΛRX INTERCEPT",
+  "meta": "10 July 2020 · Istanbul",
+  "title": "Turkey Turns Hagia Sophia Back into a Mosque",
+  "title_size": 52,
+  "dek": "On 10 July 2020 a Turkish court voided the museum status and Erdogan ordered the former Byzantine cathedral reopened as a mosque.",
+  "panels": [
+    {
+      "icon": "crown",
+      "label": "Ankara and Diyanet Framed",
+      "text": "Ankara and the Presidency of Religious Affairs framed the reopening as lawful sovereign control and as continuity with the building's Ottoman use as a mosque."
+    },
+    {
+      "icon": "globe",
+      "label": "UNESCO and Critics Framed",
+      "text": "UNESCO, Orthodox churches, and secular critics framed the reopening as a break with shared heritage and with the 1934 museum settlement."
+    },
+    {
+      "icon": "scales",
+      "label": "The Stakes",
+      "text": "Both sides framed a claim to the same building. At stake is who controls Hagia Sophia: the Turkish state, or the 1934 museum settlement held as shared heritage."
+    }
+  ],
+  "focus": [1000, 420],
+  "zoom": 1.0,
+  "grade": "none",
+  "caption": "Photochrom, ca. 1897 · Library of Congress, public domain"
+}
