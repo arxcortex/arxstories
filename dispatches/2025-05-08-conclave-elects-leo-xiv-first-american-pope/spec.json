@@ -1,0 +1,31 @@
+{
+  "layout": "card",
+  "art": "art.jpg",
+  "desk": "ΛRX INTERCEPT",
+  "meta": "8 MAY 2025 · VATICAN",
+  "title": "Conclave Elects Leo XIV, the First American Pope",
+  "title_size": 48,
+  "dek": "White smoke over the Sistine Chapel. The cardinals elected Robert Francis Prevost.",
+  "body": "8 May 2025, the fourth ballot. The first pope from the United States.",
+  "panels": [
+    {
+      "icon": "dove",
+      "label": "Schneck Said",
+      "text": "Stephen Schneck said the balcony address shows Leo will be a continuation of Francis, in the tradition of Francis, with the emphasis on solidarity and the marginalized."
+    },
+    {
+      "icon": "crown",
+      "label": "Pattenden Said",
+      "text": "Miles Pattenden said the red stole Francis had set aside signals some degree of conservatism, and that the cardinals wanted a pope who could restore order to the operations Francis left behind."
+    },
+    {
+      "icon": "scales",
+      "label": "The Stakes",
+      "text": "Schneck speaks of continuity with Francis and Pattenden of order restored. At stake is the next center of gravity: a missionary formed in Peru, or a curia returned to order, and the national churches under it."
+    }
+  ],
+  "focus": [960, 420],
+  "zoom": 1.0,
+  "grade": "none",
+  "caption": "Alvesgaspar · St Peter's · CC BY-SA 4.0"
+}
