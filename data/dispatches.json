@@ -1,6 +1,6 @@
 {
   "desk": "ΛRX Intercept",
-  "count": 42,
+  "count": 43,
   "entries": [
     {
       "slug": "451-council-of-chalcedon-splits-the-eastern-churches",
@@ -1842,6 +1842,140 @@
       ],
       "path": "dispatches/2025-06-13-israel-and-the-us-bomb-irans-nuclear-sites/index.md",
       "words": 741
+    },
+    {
+      "slug": "2025-05-08-conclave-elects-leo-xiv-first-american-pope",
+      "desk": "ΛRX Intercept",
+      "author": "Arx",
+      "category": "Religion",
+      "story_type": "contested",
+      "title": "Conclave Elects Leo XIV, the First American Pope",
+      "dek": "On 8 May 2025 white smoke rose from the Sistine Chapel. The cardinals elected Robert Francis Prevost, a Chicago-born Augustinian formed in Peru, and he took the name Leo XIV.",
+      "date": "2025-05-08",
+      "location": "Vatican City / Rome",
+      "coords": [
+        41.9022,
+        12.4539
+      ],
+      "severity": 4,
+      "card": "dispatches/2025-05-08-conclave-elects-leo-xiv-first-american-pope/card.png",
+      "art": "dispatches/2025-05-08-conclave-elects-leo-xiv-first-american-pope/art.jpg",
+      "pair": {
+        "left_label": "Schneck Said",
+        "left": "Stephen Schneck said the balcony address shows Leo will be a continuation of Francis, in the tradition of Francis, with the emphasis on solidarity and the marginalized.",
+        "right_label": "Pattenden Said",
+        "right": "Miles Pattenden said the red stole Francis had set aside signals some degree of conservatism, and that the cardinals wanted a pope who could restore order to the operations Francis left behind."
+      },
+      "reading": {
+        "label": "The Stakes",
+        "text": "Schneck speaks of continuity with Francis and Pattenden of order restored. At stake is the next center of gravity: a missionary formed in Peru, or a curia returned to order, and the national churches under it."
+      },
+      "tags": [
+        "vatican",
+        "rome",
+        "conclave",
+        "leo-xiv",
+        "robert-prevost",
+        "francis",
+        "sistine-chapel",
+        "peru",
+        "augustinians",
+        "catholic-church"
+      ],
+      "sources": [
+        {
+          "title": "Leo XIV is the new Pope",
+          "outlet": "Vatican News",
+          "url": "https://www.vaticannews.va/en/pope/news/2025-05/cardinal-elected-pope-papal-name.html",
+          "role": "origin"
+        },
+        {
+          "title": "Habemus Papam: Robert Francis Prevost, who took the name Leo XIV",
+          "outlet": "L'Osservatore Romano",
+          "url": "https://www.osservatoreromano.va/en/news/2025-05/ing-005/habemus-papam-br-robertum-franciscum-prevost-br-qui-sibi-nomen.html",
+          "role": "origin"
+        },
+        {
+          "title": "Fumata bianca, eletto il nuovo Papa",
+          "outlet": "Vatican News",
+          "url": "https://www.vaticannews.va/it/papa/news/2025-05/conclave-fumata-cardinali-elezione-papa.html",
+          "role": "origin"
+        },
+        {
+          "title": "Prevost surprises as first US pope, takes name Leo XIV",
+          "outlet": "Reuters",
+          "url": "https://www.reuters.com/world/europe/cardinals-set-second-day-conclave-elect-new-pope-2025-05-08/",
+          "role": "origin"
+        },
+        {
+          "title": "Robert Prevost, first pope from the US, takes the name Leo XIV",
+          "outlet": "AP News",
+          "url": "https://apnews.com/article/conclave-pope-francis-cardinals-vatican-d7991a37a679f09792ed220cc1f6bbed",
+          "role": "origin"
+        },
+        {
+          "title": "First Urbi et Orbi blessing of the Holy Father Leo XIV, 8 May 2025",
+          "outlet": "Holy See Press Office",
+          "url": "https://press.vatican.va/content/salastampa/en/bollettino/pubblico/2025/05/08/250508a.html",
+          "role": "origin"
+        },
+        {
+          "title": "Pope Francis has died on Easter Monday aged 88",
+          "outlet": "Vatican News",
+          "url": "https://www.vaticannews.va/en/pope/news/2025-04/pope-francis-dies-on-easter-monday-aged-88.html",
+          "role": "origin"
+        },
+        {
+          "title": "2025 papal conclave",
+          "outlet": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/2025_papal_conclave",
+          "role": "context"
+        },
+        {
+          "title": "Pope Leo XIV",
+          "outlet": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Pope_Leo_XIV",
+          "role": "context"
+        },
+        {
+          "title": "Pope Leo XIV to Cardinals: Church must respond to digital revolution",
+          "outlet": "Vatican News",
+          "url": "https://www.vaticannews.va/en/pope/news/2025-05/pope-leo-xiv-addresses-cardinals-10-may-2025-vatican.html",
+          "role": "framing"
+        },
+        {
+          "title": "Pope Leo XIV seen as bridge builder after Francis' turbulent reign",
+          "outlet": "Politico",
+          "url": "https://www.politico.eu/article/pope-leo-xiv-francis-prevost-catholic-church-history-vatican-francis/",
+          "role": "framing"
+        },
+        {
+          "title": "Chicago native Cardinal Prevost elected pope, takes name Leo XIV",
+          "outlet": "Catholic News Service / USCCB",
+          "url": "https://www.usccb.org/news/2025/chicago-native-cardinal-prevost-elected-pope-takes-name-leo-xiv",
+          "role": "framing"
+        },
+        {
+          "title": "Pope Leo XIV dons traditional red mozzetta, echoing past pontiffs",
+          "outlet": "National Catholic Register",
+          "url": "https://www.ncregister.com/news/what-did-pope-leo-xiv-wear-traditional-red-mozzetta",
+          "role": "framing"
+        },
+        {
+          "title": "Main facade of Saint Peter's Basilica",
+          "outlet": "Wikimedia Commons, Alvesgaspar",
+          "url": "https://commons.wikimedia.org/wiki/File:Basilica_di_San_Pietro_in_Vaticano_September_2015-1a.jpg",
+          "role": "image"
+        },
+        {
+          "title": "Sistine Chapel ceiling, Creation of Adam",
+          "outlet": "Wikimedia Commons, photograph by Burkhard Mücke",
+          "url": "https://commons.wikimedia.org/wiki/File:Sistine_Chapel_ceiling,_Creation_of_Adam.jpg",
+          "role": "image"
+        }
+      ],
+      "path": "dispatches/2025-05-08-conclave-elects-leo-xiv-first-american-pope/index.md",
+      "words": 1012
     },
     {
       "slug": "2025-04-02-trump-declares-liberation-day-tariffs",
