@@ -1,0 +1,28 @@
+{
+ "layout": "card",
+ "art": "art.jpg",
+ "desk": "ΛRX ATLAS",
+ "meta": "1316–1358 · Paris",
+ "title": "How France Wrote Women Out of the Crown",
+ "title_size": 72,
+ "dek": "Of how two regents took the throne over a king's daughter and a king's grandson, and how a Frankish land code was found later to justify it.",
+ "panels": [
+  {
+   "icon": "scroll",
+   "label": "Valois Told It",
+   "text": "An ancient law of the Franks barred women from the French crown and from passing it on, and every king since Clovis had obeyed it."
+  },
+  {
+   "icon": "eye",
+   "label": "Evidence Allows",
+   "text": "The rule was made in 1317 and 1328 by assemblies backing the strongest claimant. The Salic code was first cited for it around 1358."
+  },
+  {
+   "icon": "map",
+   "label": "The Entry",
+   "text": "Assemblies, 1317 and 1328, then a text found c. 1358."
+  }
+ ],
+ "grade": "warm",
+ "caption": "Historical artwork"
+}

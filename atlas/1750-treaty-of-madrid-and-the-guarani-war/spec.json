@@ -1,0 +1,28 @@
+{
+ "layout": "card",
+ "art": "art.jpg",
+ "desk": "ΛRX ATLAS",
+ "meta": "1750–1761 · São Miguel das Missões",
+ "title": "The Treaty of Madrid and the Guaraní War",
+ "title_size": 72,
+ "dek": "Of how two crowns redrew South America on a map, traded seven Jesuit missions for a smuggling port, and sent armies when the Guaraní refused to leave.",
+ "panels": [
+  {
+   "icon": "scroll",
+   "label": "Crowns Told It",
+   "text": "Each side should keep what it held, along rivers and mountains, and the old papal line was dead letter. A clean border would bring peace."
+  },
+  {
+   "icon": "eye",
+   "label": "Evidence Allows",
+   "text": "Portugal wanted the gold country and the mission lands; Spain wanted Colonia closed to smugglers. The people on the ceded land were not asked."
+  },
+  {
+   "icon": "map",
+   "label": "The Entry",
+   "text": "Madrid, 1750, to El Pardo, 1761; Caiboaté, 1756."
+  }
+ ],
+ "grade": "warm",
+ "caption": "Photograph"
+}

@@ -1,0 +1,28 @@
+{
+ "layout": "card",
+ "art": "art.jpg",
+ "desk": "ΛRX ATLAS",
+ "meta": "1612–1618 · Moscow",
+ "title": "An Assembly Elects the First Romanov",
+ "title_size": 72,
+ "dek": "Of how a land without a tsar called an assembly into a burned capital, passed over foreign princes and great boyars, and chose a sixteen-year-old.",
+ "panels": [
+  {
+   "icon": "scroll",
+   "label": "Romanovs Told It",
+   "text": "The whole land, moved by God, chose with one voice the nearest kin of the old dynasty, and peace returned with him."
+  },
+  {
+   "icon": "eye",
+   "label": "Evidence Allows",
+   "text": "Boyars, Cossacks and town delegates bargained for weeks. Michael won as the candidate who threatened the fewest factions, and his father ruled."
+  },
+  {
+   "icon": "map",
+   "label": "The Entry",
+   "text": "Assembly of the land, January–February 1613."
+  }
+ ],
+ "grade": "warm",
+ "caption": "Historical artwork"
+}
